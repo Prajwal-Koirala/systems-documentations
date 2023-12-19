@@ -13832,13 +13832,11 @@ of this license document, but changing it is not allowed.
 
 10. FUTURE REVISIONS OF THIS LICENSE
 
-
     The Free Software Foundation may publish new, revised versions of the GNU Free Documentation License from time to time. Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns. See [https://www.gnu.org/licenses/](https://www.gnu.org/licenses/).
 
     Each version of the License is given a distinguishing version number. If the Document specifies that a particular numbered version of this License “or any later version” applies to it, you have the option of following the terms and conditions either of that specified version or of any later version that has been published (not as a draft) by the Free Software Foundation. If the Document does not specify a version number of this License, you may choose any version ever published (not as a draft) by the Free Software Foundation. If the Document specifies that a proxy can decide which future versions of this License can be used, that proxy’s public statement of acceptance of a version permanently authorizes you to choose that version for the Document.
 
 11. RELICENSING
-
 
     “Massive Multiauthor Collaboration Site” (or “MMC Site”) means any World Wide Web server that publishes copyrightable works and also provides prominent facilities for anybody to edit those works. A public wiki that anybody can edit is an example of such a server. A “Massive Multiauthor Collaboration” (or “MMC”) contained in the site means any set of copyrightable works thus published on the MMC site.
 
@@ -13885,8 +13883,6 @@ Jump to:
 
 Index Entry
 
-
-
 Section
 
 ---
@@ -13895,13 +13891,9 @@ Section
 
 [`!`](#index-_0021):
 
-
-
 [Connectives for test](#Connectives-for-test)
 
 [`!=`](#index-_0021_003d):
-
-
 
 [String tests](#String-tests)
 
@@ -13911,19 +13903,13 @@ Section
 
 [`%`](#index-_0025):
 
-
-
 [Numeric expressions](#Numeric-expressions)
 
 [`%b`](#index-_0025b):
 
-
-
 [printf invocation](#printf-invocation)
 
 [`%q`](#index-_0025q):
-
-
 
 [printf invocation](#printf-invocation)
 
@@ -13933,8 +13919,6 @@ Section
 
 [`&`](#index-_0026):
 
-
-
 [Relations for expr](#Relations-for-expr)
 
 ---
@@ -13942,8 +13926,6 @@ Section
 \*
 
 [`*`](#index-_002a):
-
-
 
 [Numeric expressions](#Numeric-expressions)
 
@@ -13953,19 +13935,13 @@ Section
 
 [`+`](#index-_002b):
 
-
-
 [String expressions](#String-expressions)
 
 [`+`](#index-_002b-1):
 
-
-
 [Numeric expressions](#Numeric-expressions)
 
 [`+page_range`](#index-_002bpage_005frange):
-
-
 
 [pr invocation](#pr-invocation)
 
@@ -13975,7039 +13951,4693 @@ Section
 
 [`-`](#index-_002d):
 
-
-
 [Numeric expressions](#Numeric-expressions)
 
 [`-`](#index-_002d-1):
-
-
 
 [env invocation](#env-invocation)
 
 [`` - and Unix `rm` ``](#index-_002d-and-Unix-rm):
 
-
-
 [rm invocation](#rm-invocation)
 
 [‘\-’, removing files beginning with](#index-_002d_002c-removing-files-beginning-with):
-
-
 
 [rm invocation](#rm-invocation)
 
 [`--`](#index-_002d_002d):
 
-
-
 [Common options](#Common-options)
 
 [`--across`](#index-_002d_002dacross):
-
-
 
 [pr invocation](#pr-invocation)
 
 [`--additional-suffix`](#index-_002d_002dadditional_002dsuffix):
 
-
-
 [split invocation](#split-invocation)
 
 [`--address-radix`](#index-_002d_002daddress_002dradix):
-
-
 
 [od invocation](#od-invocation)
 
 [`--adjustment`](#index-_002d_002dadjustment):
 
-
-
 [nice invocation](#nice-invocation)
 
 [`--algorithm`](#index-_002d_002dalgorithm):
-
-
 
 [cksum general options](#cksum-general-options)
 
 [`--all`](#index-_002d_002dall):
 
-
-
 [unexpand invocation](#unexpand-invocation)
 
 [`--all`](#index-_002d_002dall-1):
-
-
 
 [Which files are listed](#Which-files-are-listed)
 
 [`--all`](#index-_002d_002dall-2):
 
-
-
 [df invocation](#df-invocation)
 
 [`--all`](#index-_002d_002dall-3):
-
-
 
 [du invocation](#du-invocation)
 
 [`--all`](#index-_002d_002dall-4):
 
-
-
 [stty invocation](#stty-invocation)
 
 [`--all`](#index-_002d_002dall-5):
-
-
 
 [who invocation](#who-invocation)
 
 [`--all`](#index-_002d_002dall-6):
 
-
-
 [nproc invocation](#nproc-invocation)
 
 [`--all`](#index-_002d_002dall-7):
-
-
 
 [uname invocation](#uname-invocation)
 
 [`--all-repeated`](#index-_002d_002dall_002drepeated):
 
-
-
 [uniq invocation](#uniq-invocation)
 
 [`--almost-all`](#index-_002d_002dalmost_002dall):
-
-
 
 [Which files are listed](#Which-files-are-listed)
 
 [`--apparent-size`](#index-_002d_002dapparent_002dsize):
 
-
-
 [du invocation](#du-invocation)
 
 [`--append`](#index-_002d_002dappend):
-
-
 
 [tee invocation](#tee-invocation)
 
 [`--archive`](#index-_002d_002darchive):
 
-
-
 [cp invocation](#cp-invocation)
 
 [`--attributes-only`](#index-_002d_002dattributes_002donly):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`--author`](#index-_002d_002dauthor):
 
-
-
 [What information is listed](#What-information-is-listed)
 
 [`--auto-reference`](#index-_002d_002dauto_002dreference):
-
-
 
 [Output formatting in ptx](#Output-formatting-in-ptx)
 
 [`--backup`](#index-_002d_002dbackup):
 
-
-
 [Backup options](#Backup-options)
 
 [`--backup`](#index-_002d_002dbackup-1):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`--backup`](#index-_002d_002dbackup-2):
 
-
-
 [install invocation](#install-invocation)
 
 [`--backup`](#index-_002d_002dbackup-3):
-
-
 
 [mv invocation](#mv-invocation)
 
 [`--backup`](#index-_002d_002dbackup-4):
 
-
-
 [ln invocation](#ln-invocation)
 
 [`--base16`](#index-_002d_002dbase16):
-
-
 
 [basenc invocation](#basenc-invocation)
 
 [`--base2lsbf`](#index-_002d_002dbase2lsbf):
 
-
-
 [basenc invocation](#basenc-invocation)
 
 [`--base2msbf`](#index-_002d_002dbase2msbf):
-
-
 
 [basenc invocation](#basenc-invocation)
 
 [`--base32`](#index-_002d_002dbase32):
 
-
-
 [basenc invocation](#basenc-invocation)
 
 [`--base32hex`](#index-_002d_002dbase32hex):
-
-
 
 [basenc invocation](#basenc-invocation)
 
 [`--base64`](#index-_002d_002dbase64):
 
-
-
 [basenc invocation](#basenc-invocation)
 
 [`--base64`](#index-_002d_002dbase64-1):
-
-
 
 [cksum general options](#cksum-general-options)
 
 [`--base64url`](#index-_002d_002dbase64url):
 
-
-
 [basenc invocation](#basenc-invocation)
 
 [`--batch-size`](#index-_002d_002dbatch_002dsize):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`--before`](#index-_002d_002dbefore):
 
-
-
 [tac invocation](#tac-invocation)
 
 [`--binary`](#index-_002d_002dbinary):
-
-
 
 [cksum common options](#cksum-common-options)
 
 [`--block-size`](#index-_002d_002dblock_002dsize):
 
-
-
 [Block size](#Block-size)
 
 [`--block-size`](#index-_002d_002dblock_002dsize-1):
-
-
 
 [df invocation](#df-invocation)
 
 [`--block-size`](#index-_002d_002dblock_002dsize-2):
 
-
-
 [du invocation](#du-invocation)
 
 [`--block-size=size`](#index-_002d_002dblock_002dsize_003dsize):
-
-
 
 [Block size](#Block-size)
 
 [`--body-numbering`](#index-_002d_002dbody_002dnumbering):
 
-
-
 [nl invocation](#nl-invocation)
 
 [`--boot`](#index-_002d_002dboot):
-
-
 
 [who invocation](#who-invocation)
 
 [`--bourne-shell`](#index-_002d_002dbourne_002dshell):
 
-
-
 [dircolors invocation](#dircolors-invocation)
 
 [`--break-file`](#index-_002d_002dbreak_002dfile):
-
-
 
 [Input processing in ptx](#Input-processing-in-ptx)
 
 [`--buffer-size`](#index-_002d_002dbuffer_002dsize):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`--bytes`](#index-_002d_002dbytes):
-
-
 
 [fold invocation](#fold-invocation)
 
 [`--bytes`](#index-_002d_002dbytes-1):
 
-
-
 [head invocation](#head-invocation)
 
 [`--bytes`](#index-_002d_002dbytes-2):
-
-
 
 [tail invocation](#tail-invocation)
 
 [`--bytes`](#index-_002d_002dbytes-3):
 
-
-
 [split invocation](#split-invocation)
 
 [`--bytes`](#index-_002d_002dbytes-4):
-
-
 
 [wc invocation](#wc-invocation)
 
 [`--bytes`](#index-_002d_002dbytes-5):
 
-
-
 [cut invocation](#cut-invocation)
 
 [`--bytes`](#index-_002d_002dbytes-6):
-
-
 
 [du invocation](#du-invocation)
 
 [`--c-shell`](#index-_002d_002dc_002dshell):
 
-
-
 [dircolors invocation](#dircolors-invocation)
 
 [`--cached=mode`](#index-_002d_002dcached_003dmode):
-
-
 
 [stat invocation](#stat-invocation)
 
 [`--canonicalize`](#index-_002d_002dcanonicalize):
 
-
-
 [readlink invocation](#readlink-invocation)
 
 [`--canonicalize-existing`](#index-_002d_002dcanonicalize_002dexisting):
-
-
 
 [readlink invocation](#readlink-invocation)
 
 [`--canonicalize-existing`](#index-_002d_002dcanonicalize_002dexisting-1):
 
-
-
 [realpath invocation](#realpath-invocation)
 
 [`--canonicalize-missing`](#index-_002d_002dcanonicalize_002dmissing):
-
-
 
 [readlink invocation](#readlink-invocation)
 
 [`--canonicalize-missing`](#index-_002d_002dcanonicalize_002dmissing-1):
 
-
-
 [realpath invocation](#realpath-invocation)
 
 [`--changes`](#index-_002d_002dchanges):
-
-
 
 [chown invocation](#chown-invocation)
 
 [`--changes`](#index-_002d_002dchanges-1):
 
-
-
 [chgrp invocation](#chgrp-invocation)
 
 [`--changes`](#index-_002d_002dchanges-2):
-
-
 
 [chmod invocation](#chmod-invocation)
 
 [`--characters`](#index-_002d_002dcharacters):
 
-
-
 [cut invocation](#cut-invocation)
 
 [`--chars`](#index-_002d_002dchars):
-
-
 
 [wc invocation](#wc-invocation)
 
 [`--chdir`](#index-_002d_002dchdir):
 
-
-
 [env invocation](#env-invocation)
 
 [`--check`](#index-_002d_002dcheck):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`--check`](#index-_002d_002dcheck-1):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`--check-chars`](#index-_002d_002dcheck_002dchars):
-
-
 
 [uniq invocation](#uniq-invocation)
 
 [`--classify`](#index-_002d_002dclassify):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [`--color`](#index-_002d_002dcolor):
-
-
 
 [General output formatting](#General-output-formatting)
 
 [`--columns`](#index-_002d_002dcolumns):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`--compare`](#index-_002d_002dcompare):
-
-
 
 [install invocation](#install-invocation)
 
 [`--complement`](#index-_002d_002dcomplement):
 
-
-
 [cut invocation](#cut-invocation)
 
 [`--complement`](#index-_002d_002dcomplement-1):
-
-
 
 [tr invocation](#tr-invocation)
 
 [`--compute`](#index-_002d_002dcompute):
 
-
-
 [runcon invocation](#runcon-invocation)
 
 [`--context`](#index-_002d_002dcontext):
-
-
 
 [What information is listed](#What-information-is-listed)
 
 [`--context`](#index-_002d_002dcontext-1):
 
-
-
 [cp invocation](#cp-invocation)
 
 [`--context`](#index-_002d_002dcontext-2):
-
-
 
 [install invocation](#install-invocation)
 
 [`--context`](#index-_002d_002dcontext-3):
 
-
-
 [mv invocation](#mv-invocation)
 
 [`--context`](#index-_002d_002dcontext-4):
-
-
 
 [mkdir invocation](#mkdir-invocation)
 
 [`--context`](#index-_002d_002dcontext-5):
 
-
-
 [mkfifo invocation](#mkfifo-invocation)
 
 [`--context`](#index-_002d_002dcontext-6):
-
-
 
 [mknod invocation](#mknod-invocation)
 
 [`--context`](#index-_002d_002dcontext-7):
 
-
-
 [id invocation](#id-invocation)
 
 [`--count`](#index-_002d_002dcount):
-
-
 
 [uniq invocation](#uniq-invocation)
 
 [`--count`](#index-_002d_002dcount-1):
 
-
-
 [who invocation](#who-invocation)
 
 [`--count-links`](#index-_002d_002dcount_002dlinks):
-
-
 
 [du invocation](#du-invocation)
 
 [`--crown-margin`](#index-_002d_002dcrown_002dmargin):
 
-
-
 [fmt invocation](#fmt-invocation)
 
 [`--csh`](#index-_002d_002dcsh):
-
-
 
 [dircolors invocation](#dircolors-invocation)
 
 [`--data`](#index-_002d_002ddata):
 
-
-
 [sync invocation](#sync-invocation)
 
 [`--date`](#index-_002d_002ddate):
-
-
 
 [touch invocation](#touch-invocation)
 
 [`--date`](#index-_002d_002ddate-1):
 
-
-
 [Options for date](#Options-for-date)
 
 [`--dead`](#index-_002d_002ddead):
-
-
 
 [who invocation](#who-invocation)
 
 [`--debug`](#index-_002d_002ddebug):
 
-
-
 [cksum general options](#cksum-general-options)
 
 [`--debug`](#index-_002d_002ddebug-1):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`--debug`](#index-_002d_002ddebug-2):
 
-
-
 [install invocation](#install-invocation)
 
 [`--debug`](#index-_002d_002ddebug-3):
-
-
 
 [mv invocation](#mv-invocation)
 
 [`--debug`](#index-_002d_002ddebug-4):
 
-
-
 [Options for date](#Options-for-date)
 
 [`--debug`](#index-_002d_002ddebug-5):
-
-
 
 [env invocation](#env-invocation)
 
 [`--debug`](#index-_002d_002ddebug-6):
 
-
-
 [numfmt invocation](#numfmt-invocation)
 
 [`--decode`](#index-_002d_002ddecode):
-
-
 
 [base64 invocation](#base64-invocation)
 
 [`--delete`](#index-_002d_002ddelete):
 
-
-
 [tr invocation](#tr-invocation)
 
 [`--delimiter`](#index-_002d_002ddelimiter):
-
-
 
 [cut invocation](#cut-invocation)
 
 [`--delimiter`](#index-_002d_002ddelimiter-1):
 
-
-
 [numfmt invocation](#numfmt-invocation)
 
 [`--delimiters`](#index-_002d_002ddelimiters):
-
-
 
 [paste invocation](#paste-invocation)
 
 [`--dereference`](#index-_002d_002ddereference):
 
-
-
 [Which files are listed](#Which-files-are-listed)
 
 [`--dereference`](#index-_002d_002ddereference-1):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`--dereference`](#index-_002d_002ddereference-2):
 
-
-
 [chown invocation](#chown-invocation)
 
 [`--dereference`](#index-_002d_002ddereference-3):
-
-
 
 [chgrp invocation](#chgrp-invocation)
 
 [`--dereference`](#index-_002d_002ddereference-4):
 
-
-
 [du invocation](#du-invocation)
 
 [`--dereference`](#index-_002d_002ddereference-5):
-
-
 
 [stat invocation](#stat-invocation)
 
 [`--dereference`](#index-_002d_002ddereference-6):
 
-
-
 [chcon invocation](#chcon-invocation)
 
 [`--dereference-args`](#index-_002d_002ddereference_002dargs):
-
-
 
 [du invocation](#du-invocation)
 
 [`--dereference-command-line`](#index-_002d_002ddereference_002dcommand_002dline):
 
-
-
 [Which files are listed](#Which-files-are-listed)
 
 [`--dereference-command-line-symlink-to-dir`](#index-_002d_002ddereference_002dcommand_002dline_002dsymlink_002dto_002ddir):
-
-
 
 [Which files are listed](#Which-files-are-listed)
 
 [`--dictionary-order`](#index-_002d_002ddictionary_002dorder):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`--digits`](#index-_002d_002ddigits):
-
-
 
 [csplit invocation](#csplit-invocation)
 
 [`--dir`](#index-_002d_002ddir):
 
-
-
 [rm invocation](#rm-invocation)
 
 [`--directory`](#index-_002d_002ddirectory):
-
-
 
 [Which files are listed](#Which-files-are-listed)
 
 [`--directory`](#index-_002d_002ddirectory-1):
 
-
-
 [install invocation](#install-invocation)
 
 [`--directory`](#index-_002d_002ddirectory-2):
-
-
 
 [ln invocation](#ln-invocation)
 
 [`--directory`](#index-_002d_002ddirectory-3):
 
-
-
 [mktemp invocation](#mktemp-invocation)
 
 [`--dired`](#index-_002d_002ddired):
-
-
 
 [What information is listed](#What-information-is-listed)
 
 [`--double-space`](#index-_002d_002ddouble_002dspace):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`--dry-run`](#index-_002d_002ddry_002drun):
-
-
 
 [mktemp invocation](#mktemp-invocation)
 
 [`--echo`](#index-_002d_002decho):
 
-
-
 [shuf invocation](#shuf-invocation)
 
 [`--elide-empty-files`](#index-_002d_002delide_002dempty_002dfiles):
-
-
 
 [split invocation](#split-invocation)
 
 [`--elide-empty-files`](#index-_002d_002delide_002dempty_002dfiles-1):
 
-
-
 [csplit invocation](#csplit-invocation)
 
 [`--endian`](#index-_002d_002dendian):
-
-
 
 [od invocation](#od-invocation)
 
 [`--equal-width`](#index-_002d_002dequal_002dwidth):
 
-
-
 [seq invocation](#seq-invocation)
 
 [`--error`](#index-_002d_002derror):
-
-
 
 [stdbuf invocation](#stdbuf-invocation)
 
 [`--escape`](#index-_002d_002descape):
 
-
-
 [Formatting the file names](#Formatting-the-file-names)
 
 [`--exact`](#index-_002d_002dexact):
-
-
 
 [shred invocation](#shred-invocation)
 
 [`--exclude-from=file`](#index-_002d_002dexclude_002dfrom_003dfile):
 
-
-
 [du invocation](#du-invocation)
 
 [`--exclude-type`](#index-_002d_002dexclude_002dtype):
-
-
 
 [df invocation](#df-invocation)
 
 [`--exclude=pattern`](#index-_002d_002dexclude_003dpattern):
 
-
-
 [du invocation](#du-invocation)
 
 [`--expand-tabs`](#index-_002d_002dexpand_002dtabs):
-
-
 
 [pr invocation](#pr-invocation)
 
 [`--exponents`](#index-_002d_002dexponents):
 
-
-
 [factor invocation](#factor-invocation)
 
 [`--field`](#index-_002d_002dfield):
-
-
 
 [numfmt invocation](#numfmt-invocation)
 
 [`--field-separator`](#index-_002d_002dfield_002dseparator):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`--fields`](#index-_002d_002dfields):
-
-
 
 [cut invocation](#cut-invocation)
 
 [`--file`](#index-_002d_002dfile):
 
-
-
 [stty invocation](#stty-invocation)
 
 [`--file`](#index-_002d_002dfile-1):
-
-
 
 [Options for date](#Options-for-date)
 
 [`--file-system`](#index-_002d_002dfile_002dsystem):
 
-
-
 [stat invocation](#stat-invocation)
 
 [`--file-system`](#index-_002d_002dfile_002dsystem-1):
-
-
 
 [sync invocation](#sync-invocation)
 
 [`--file-type`](#index-_002d_002dfile_002dtype):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [`--files0-from=file`](#index-_002d_002dfiles0_002dfrom_003dfile):
-
-
 
 [wc invocation](#wc-invocation)
 
 [`--files0-from=file`](#index-_002d_002dfiles0_002dfrom_003dfile-1):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`--files0-from=file`](#index-_002d_002dfiles0_002dfrom_003dfile-2):
-
-
 
 [du invocation](#du-invocation)
 
 [`--filter`](#index-_002d_002dfilter):
 
-
-
 [split invocation](#split-invocation)
 
 [`--first-line-number`](#index-_002d_002dfirst_002dline_002dnumber):
-
-
 
 [pr invocation](#pr-invocation)
 
 [`--flag-truncation`](#index-_002d_002dflag_002dtruncation):
 
-
-
 [Output formatting in ptx](#Output-formatting-in-ptx)
 
 [`--follow`](#index-_002d_002dfollow):
-
-
 
 [tail invocation](#tail-invocation)
 
 [`--footer-numbering`](#index-_002d_002dfooter_002dnumbering):
 
-
-
 [nl invocation](#nl-invocation)
 
 [`--force`](#index-_002d_002dforce):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`--force`](#index-_002d_002dforce-1):
 
-
-
 [mv invocation](#mv-invocation)
 
 [`--force`](#index-_002d_002dforce-2):
-
-
 
 [rm invocation](#rm-invocation)
 
 [`--force`](#index-_002d_002dforce-3):
 
-
-
 [shred invocation](#shred-invocation)
 
 [`--force`](#index-_002d_002dforce-4):
-
-
 
 [ln invocation](#ln-invocation)
 
 [`--foreground`](#index-_002d_002dforeground):
 
-
-
 [timeout invocation](#timeout-invocation)
 
 [`--form-feed`](#index-_002d_002dform_002dfeed):
-
-
 
 [pr invocation](#pr-invocation)
 
 [`--format`](#index-_002d_002dformat):
 
-
-
 [od invocation](#od-invocation)
 
 [`--format`](#index-_002d_002dformat-1):
-
-
 
 [What information is listed](#What-information-is-listed)
 
 [`--format`](#index-_002d_002dformat-2):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [`--format`](#index-_002d_002dformat-3):
-
-
 
 [General output formatting](#General-output-formatting)
 
 [`--format`](#index-_002d_002dformat-4):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [`--format`](#index-_002d_002dformat-5):
-
-
 
 [General output formatting](#General-output-formatting)
 
 [`--format`](#index-_002d_002dformat-6):
 
-
-
 [numfmt invocation](#numfmt-invocation)
 
 [`--format`](#index-_002d_002dformat-7):
-
-
 
 [seq invocation](#seq-invocation)
 
 [`--format=format`](#index-_002d_002dformat_003dformat):
 
-
-
 [stat invocation](#stat-invocation)
 
 [`--format=roff`](#index-_002d_002dformat_003droff):
-
-
 
 [Output formatting in ptx](#Output-formatting-in-ptx)
 
 [`--format=tex`](#index-_002d_002dformat_003dtex):
 
-
-
 [Output formatting in ptx](#Output-formatting-in-ptx)
 
 [`--from`](#index-_002d_002dfrom):
-
-
 
 [chown invocation](#chown-invocation)
 
 [`--from`](#index-_002d_002dfrom-1):
 
-
-
 [numfmt invocation](#numfmt-invocation)
 
 [`--from-unit`](#index-_002d_002dfrom_002dunit):
-
-
 
 [numfmt invocation](#numfmt-invocation)
 
 [`--full-time`](#index-_002d_002dfull_002dtime):
 
-
-
 [What information is listed](#What-information-is-listed)
 
 [`--gap-size`](#index-_002d_002dgap_002dsize):
-
-
 
 [Output formatting in ptx](#Output-formatting-in-ptx)
 
 [`--general-numeric-sort`](#index-_002d_002dgeneral_002dnumeric_002dsort):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`--goal`](#index-_002d_002dgoal):
-
-
 
 [fmt invocation](#fmt-invocation)
 
 [`--group`](#index-_002d_002dgroup):
 
-
-
 [uniq invocation](#uniq-invocation)
 
 [`--group`](#index-_002d_002dgroup-1):
-
-
 
 [install invocation](#install-invocation)
 
 [`--group`](#index-_002d_002dgroup-2):
 
-
-
 [id invocation](#id-invocation)
 
 [`--group-directories-first`](#index-_002d_002dgroup_002ddirectories_002dfirst):
-
-
 
 [Which files are listed](#Which-files-are-listed)
 
 [`--grouping`](#index-_002d_002dgrouping):
 
-
-
 [numfmt invocation](#numfmt-invocation)
 
 [`--groups`](#index-_002d_002dgroups):
-
-
 
 [id invocation](#id-invocation)
 
 [`--groups`](#index-_002d_002dgroups-1):
 
-
-
 [chroot invocation](#chroot-invocation)
 
 [`--hardware-platform`](#index-_002d_002dhardware_002dplatform):
-
-
 
 [uname invocation](#uname-invocation)
 
 [`--head-count`](#index-_002d_002dhead_002dcount):
 
-
-
 [shuf invocation](#shuf-invocation)
 
 [`--header`](#index-_002d_002dheader):
-
-
 
 [pr invocation](#pr-invocation)
 
 [`--header`](#index-_002d_002dheader-1):
 
-
-
 [General options in join](#General-options-in-join)
 
 [`--header`](#index-_002d_002dheader-2):
-
-
 
 [numfmt invocation](#numfmt-invocation)
 
 [`--header-numbering`](#index-_002d_002dheader_002dnumbering):
 
-
-
 [nl invocation](#nl-invocation)
 
 [`--header=N`](#index-_002d_002dheader_003dN):
-
-
 
 [numfmt invocation](#numfmt-invocation)
 
 [`--heading`](#index-_002d_002dheading):
 
-
-
 [who invocation](#who-invocation)
 
 [`--help`](#index-_002d_002dhelp):
-
-
 
 [Common options](#Common-options)
 
 [`--hex-suffixes`](#index-_002d_002dhex_002dsuffixes):
 
-
-
 [split invocation](#split-invocation)
 
 [`--hide-control-chars`](#index-_002d_002dhide_002dcontrol_002dchars):
-
-
 
 [Formatting the file names](#Formatting-the-file-names)
 
 [`--hide=pattern`](#index-_002d_002dhide_003dpattern):
 
-
-
 [Which files are listed](#Which-files-are-listed)
 
 [`--human-numeric-sort`](#index-_002d_002dhuman_002dnumeric_002dsort):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`--human-readable`](#index-_002d_002dhuman_002dreadable):
 
-
-
 [Block size](#Block-size)
 
 [`--human-readable`](#index-_002d_002dhuman_002dreadable-1):
-
-
 
 [What information is listed](#What-information-is-listed)
 
 [`--human-readable`](#index-_002d_002dhuman_002dreadable-2):
 
-
-
 [df invocation](#df-invocation)
 
 [`--human-readable`](#index-_002d_002dhuman_002dreadable-3):
-
-
 
 [du invocation](#du-invocation)
 
 [`--hyperlink`](#index-_002d_002dhyperlink):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [`--ignore`](#index-_002d_002dignore):
-
-
 
 [nproc invocation](#nproc-invocation)
 
 [`--ignore-backups`](#index-_002d_002dignore_002dbackups):
 
-
-
 [Which files are listed](#Which-files-are-listed)
 
 [`--ignore-case`](#index-_002d_002dignore_002dcase):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`--ignore-case`](#index-_002d_002dignore_002dcase-1):
 
-
-
 [uniq invocation](#uniq-invocation)
 
 [`--ignore-case`](#index-_002d_002dignore_002dcase-2):
-
-
 
 [Charset selection in ptx](#Charset-selection-in-ptx)
 
 [`--ignore-case`](#index-_002d_002dignore_002dcase-3):
 
-
-
 [General options in join](#General-options-in-join)
 
 [`--ignore-environment`](#index-_002d_002dignore_002denvironment):
-
-
 
 [env invocation](#env-invocation)
 
 [`--ignore-fail-on-non-empty`](#index-_002d_002dignore_002dfail_002don_002dnon_002dempty):
 
-
-
 [rmdir invocation](#rmdir-invocation)
 
 [`--ignore-file`](#index-_002d_002dignore_002dfile):
-
-
 
 [Input processing in ptx](#Input-processing-in-ptx)
 
 [`--ignore-garbage`](#index-_002d_002dignore_002dgarbage):
 
-
-
 [base64 invocation](#base64-invocation)
 
 [`--ignore-interrupts`](#index-_002d_002dignore_002dinterrupts):
-
-
 
 [tee invocation](#tee-invocation)
 
 [`--ignore-leading-blanks`](#index-_002d_002dignore_002dleading_002dblanks):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`--ignore-missing`](#index-_002d_002dignore_002dmissing):
-
-
 
 [cksum common options](#cksum-common-options)
 
 [`--ignore-nonprinting`](#index-_002d_002dignore_002dnonprinting):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`--ignore=pattern`](#index-_002d_002dignore_003dpattern):
-
-
 
 [Which files are listed](#Which-files-are-listed)
 
 [`--indent`](#index-_002d_002dindent):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`--indicator-style`](#index-_002d_002dindicator_002dstyle):
-
-
 
 [General output formatting](#General-output-formatting)
 
 [`--indicator-style`](#index-_002d_002dindicator_002dstyle-1):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [`--indicator-style`](#index-_002d_002dindicator_002dstyle-2):
-
-
 
 [General output formatting](#General-output-formatting)
 
 [`--indicator-style`](#index-_002d_002dindicator_002dstyle-3):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [`--initial`](#index-_002d_002dinitial):
-
-
 
 [expand invocation](#expand-invocation)
 
 [`--inode`](#index-_002d_002dinode):
 
-
-
 [What information is listed](#What-information-is-listed)
 
 [`--inodes`](#index-_002d_002dinodes):
-
-
 
 [df invocation](#df-invocation)
 
 [`--inodes`](#index-_002d_002dinodes-1):
 
-
-
 [du invocation](#du-invocation)
 
 [`--input`](#index-_002d_002dinput):
-
-
 
 [stdbuf invocation](#stdbuf-invocation)
 
 [`--input-range`](#index-_002d_002dinput_002drange):
 
-
-
 [shuf invocation](#shuf-invocation)
 
 [`--interactive`](#index-_002d_002dinteractive):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`--interactive`](#index-_002d_002dinteractive-1):
 
-
-
 [mv invocation](#mv-invocation)
 
 [`--interactive`](#index-_002d_002dinteractive-2):
-
-
 
 [rm invocation](#rm-invocation)
 
 [`--interactive`](#index-_002d_002dinteractive-3):
 
-
-
 [ln invocation](#ln-invocation)
 
 [`--invalid`](#index-_002d_002dinvalid):
-
-
 
 [numfmt invocation](#numfmt-invocation)
 
 [`--io-blocks`](#index-_002d_002dio_002dblocks):
 
-
-
 [truncate invocation](#truncate-invocation)
 
 [`--iso-8601[=timespec]`](#index-_002d_002diso_002d8601_005b_003dtimespec_005d):
-
-
 
 [Options for date](#Options-for-date)
 
 [`--iterations=number`](#index-_002d_002diterations_003dnumber):
 
-
-
 [shred invocation](#shred-invocation)
 
 [`--join-blank-lines`](#index-_002d_002djoin_002dblank_002dlines):
-
-
 
 [nl invocation](#nl-invocation)
 
 [`--join-lines`](#index-_002d_002djoin_002dlines):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`--keep-files`](#index-_002d_002dkeep_002dfiles):
-
-
 
 [csplit invocation](#csplit-invocation)
 
 [`--kernel-name`](#index-_002d_002dkernel_002dname):
 
-
-
 [uname invocation](#uname-invocation)
 
 [`--kernel-release`](#index-_002d_002dkernel_002drelease):
-
-
 
 [uname invocation](#uname-invocation)
 
 [`--kernel-version`](#index-_002d_002dkernel_002dversion):
 
-
-
 [uname invocation](#uname-invocation)
 
 [`--key`](#index-_002d_002dkey):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`--kibibytes`](#index-_002d_002dkibibytes):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [`--kill-after`](#index-_002d_002dkill_002dafter):
-
-
 
 [timeout invocation](#timeout-invocation)
 
 [`--length`](#index-_002d_002dlength):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`--length`](#index-_002d_002dlength-1):
-
-
 
 [cksum general options](#cksum-general-options)
 
 [`--length`](#index-_002d_002dlength-2):
 
-
-
 [b2sum invocation](#b2sum-invocation)
 
 [`--line-bytes`](#index-_002d_002dline_002dbytes):
-
-
 
 [split invocation](#split-invocation)
 
 [`--line-increment`](#index-_002d_002dline_002dincrement):
 
-
-
 [nl invocation](#nl-invocation)
 
 [`--lines`](#index-_002d_002dlines):
-
-
 
 [head invocation](#head-invocation)
 
 [`--lines`](#index-_002d_002dlines-1):
 
-
-
 [tail invocation](#tail-invocation)
 
 [`--lines`](#index-_002d_002dlines-2):
-
-
 
 [split invocation](#split-invocation)
 
 [`--lines`](#index-_002d_002dlines-3):
 
-
-
 [wc invocation](#wc-invocation)
 
 [`--link`](#index-_002d_002dlink):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`--literal`](#index-_002d_002dliteral):
 
-
-
 [Formatting the file names](#Formatting-the-file-names)
 
 [`--local`](#index-_002d_002dlocal):
-
-
 
 [df invocation](#df-invocation)
 
 [`--logical`](#index-_002d_002dlogical):
 
-
-
 [ln invocation](#ln-invocation)
 
 [`--logical`](#index-_002d_002dlogical-1):
-
-
 
 [realpath invocation](#realpath-invocation)
 
 [`--logical`](#index-_002d_002dlogical-2):
 
-
-
 [pwd invocation](#pwd-invocation)
 
 [`--login`](#index-_002d_002dlogin):
-
-
 
 [who invocation](#who-invocation)
 
 [`--lookup`](#index-_002d_002dlookup):
 
-
-
 [who invocation](#who-invocation)
 
 [`--machine`](#index-_002d_002dmachine):
-
-
 
 [uname invocation](#uname-invocation)
 
 [`--macro-name`](#index-_002d_002dmacro_002dname):
 
-
-
 [Output formatting in ptx](#Output-formatting-in-ptx)
 
 [`--max-depth=depth`](#index-_002d_002dmax_002ddepth_003ddepth):
-
-
 
 [du invocation](#du-invocation)
 
 [`--max-line-length`](#index-_002d_002dmax_002dline_002dlength):
 
-
-
 [wc invocation](#wc-invocation)
 
 [`--max-unchanged-stats`](#index-_002d_002dmax_002dunchanged_002dstats):
-
-
 
 [tail invocation](#tail-invocation)
 
 [`--merge`](#index-_002d_002dmerge):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`--merge`](#index-_002d_002dmerge-1):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`--mesg`](#index-_002d_002dmesg):
 
-
-
 [who invocation](#who-invocation)
 
 [`--message`](#index-_002d_002dmessage):
-
-
 
 [who invocation](#who-invocation)
 
 [`--mode`](#index-_002d_002dmode):
 
-
-
 [install invocation](#install-invocation)
 
 [`--mode`](#index-_002d_002dmode-1):
-
-
 
 [mkdir invocation](#mkdir-invocation)
 
 [`--mode`](#index-_002d_002dmode-2):
 
-
-
 [mkfifo invocation](#mkfifo-invocation)
 
 [`--mode`](#index-_002d_002dmode-3):
-
-
 
 [mknod invocation](#mknod-invocation)
 
 [`--month-sort`](#index-_002d_002dmonth_002dsort):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`--multiple`](#index-_002d_002dmultiple):
-
-
 
 [basename invocation](#basename-invocation)
 
 [`--name`](#index-_002d_002dname):
 
-
-
 [id invocation](#id-invocation)
 
 [`--no-clobber`](#index-_002d_002dno_002dclobber):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`--no-clobber`](#index-_002d_002dno_002dclobber-1):
 
-
-
 [mv invocation](#mv-invocation)
 
 [`--no-copy`](#index-_002d_002dno_002dcopy):
-
-
 
 [mv invocation](#mv-invocation)
 
 [`--no-create`](#index-_002d_002dno_002dcreate):
 
-
-
 [touch invocation](#touch-invocation)
 
 [`--no-create`](#index-_002d_002dno_002dcreate-1):
-
-
 
 [truncate invocation](#truncate-invocation)
 
 [`--no-dereference`](#index-_002d_002dno_002ddereference):
 
-
-
 [cp invocation](#cp-invocation)
 
 [`--no-dereference`](#index-_002d_002dno_002ddereference-1):
-
-
 
 [ln invocation](#ln-invocation)
 
 [`--no-dereference`](#index-_002d_002dno_002ddereference-2):
 
-
-
 [chown invocation](#chown-invocation)
 
 [`--no-dereference`](#index-_002d_002dno_002ddereference-3):
-
-
 
 [chgrp invocation](#chgrp-invocation)
 
 [`--no-dereference`](#index-_002d_002dno_002ddereference-4):
 
-
-
 [touch invocation](#touch-invocation)
 
 [`--no-dereference`](#index-_002d_002dno_002ddereference-5):
-
-
 
 [du invocation](#du-invocation)
 
 [`--no-dereference`](#index-_002d_002dno_002ddereference-6):
 
-
-
 [chcon invocation](#chcon-invocation)
 
 [`--no-file-warnings`](#index-_002d_002dno_002dfile_002dwarnings):
-
-
 
 [pr invocation](#pr-invocation)
 
 [`--no-group`](#index-_002d_002dno_002dgroup):
 
-
-
 [What information is listed](#What-information-is-listed)
 
 [`--no-newline`](#index-_002d_002dno_002dnewline):
-
-
 
 [readlink invocation](#readlink-invocation)
 
 [`--no-preserve-root`](#index-_002d_002dno_002dpreserve_002droot):
 
-
-
 [rm invocation](#rm-invocation)
 
 [`--no-preserve-root`](#index-_002d_002dno_002dpreserve_002droot-1):
-
-
 
 [chown invocation](#chown-invocation)
 
 [`--no-preserve-root`](#index-_002d_002dno_002dpreserve_002droot-2):
 
-
-
 [chgrp invocation](#chgrp-invocation)
 
 [`--no-preserve-root`](#index-_002d_002dno_002dpreserve_002droot-3):
-
-
 
 [chmod invocation](#chmod-invocation)
 
 [`--no-preserve-root`](#index-_002d_002dno_002dpreserve_002droot-4):
 
-
-
 [chcon invocation](#chcon-invocation)
 
 [`--no-renumber`](#index-_002d_002dno_002drenumber):
-
-
 
 [nl invocation](#nl-invocation)
 
 [`--no-symlinks`](#index-_002d_002dno_002dsymlinks):
 
-
-
 [realpath invocation](#realpath-invocation)
 
 [`--no-sync`](#index-_002d_002dno_002dsync):
-
-
 
 [df invocation](#df-invocation)
 
 [`--no-target-directory`](#index-_002d_002dno_002dtarget_002ddirectory):
 
-
-
 [Target directory](#Target-directory)
 
 [`--no-target-directory`](#index-_002d_002dno_002dtarget_002ddirectory-1):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`--no-target-directory`](#index-_002d_002dno_002dtarget_002ddirectory-2):
 
-
-
 [install invocation](#install-invocation)
 
 [`--no-target-directory`](#index-_002d_002dno_002dtarget_002ddirectory-3):
-
-
 
 [mv invocation](#mv-invocation)
 
 [`--no-target-directory`](#index-_002d_002dno_002dtarget_002ddirectory-4):
 
-
-
 [ln invocation](#ln-invocation)
 
 [`--nodename`](#index-_002d_002dnodename):
-
-
 
 [uname invocation](#uname-invocation)
 
 [`--null`](#index-_002d_002dnull):
 
-
-
 [du invocation](#du-invocation)
 
 [`--null`](#index-_002d_002dnull-1):
-
-
 
 [printenv invocation](#printenv-invocation)
 
 [`--null`](#index-_002d_002dnull-2):
 
-
-
 [env invocation](#env-invocation)
 
 [`--number`](#index-_002d_002dnumber):
-
-
 
 [cat invocation](#cat-invocation)
 
 [`--number`](#index-_002d_002dnumber-1):
 
-
-
 [split invocation](#split-invocation)
 
 [`--number-format`](#index-_002d_002dnumber_002dformat):
-
-
 
 [nl invocation](#nl-invocation)
 
 [`--number-lines`](#index-_002d_002dnumber_002dlines):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`--number-nonblank`](#index-_002d_002dnumber_002dnonblank):
-
-
 
 [cat invocation](#cat-invocation)
 
 [`--number-separator`](#index-_002d_002dnumber_002dseparator):
 
-
-
 [nl invocation](#nl-invocation)
 
 [`--number-width`](#index-_002d_002dnumber_002dwidth):
-
-
 
 [nl invocation](#nl-invocation)
 
 [`--numeric-sort`](#index-_002d_002dnumeric_002dsort):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`--numeric-suffixes`](#index-_002d_002dnumeric_002dsuffixes):
-
-
 
 [split invocation](#split-invocation)
 
 [`--numeric-uid-gid`](#index-_002d_002dnumeric_002duid_002dgid):
 
-
-
 [What information is listed](#What-information-is-listed)
 
 [`--omit-header`](#index-_002d_002domit_002dheader):
-
-
 
 [pr invocation](#pr-invocation)
 
 [`--omit-pagination`](#index-_002d_002domit_002dpagination):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`--one-file-system`](#index-_002d_002done_002dfile_002dsystem):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`--one-file-system`](#index-_002d_002done_002dfile_002dsystem-1):
 
-
-
 [rm invocation](#rm-invocation)
 
 [`--one-file-system`](#index-_002d_002done_002dfile_002dsystem-2):
-
-
 
 [du invocation](#du-invocation)
 
 [`--only-delimited`](#index-_002d_002donly_002ddelimited):
 
-
-
 [cut invocation](#cut-invocation)
 
 [`--only-file`](#index-_002d_002donly_002dfile):
-
-
 
 [Input processing in ptx](#Input-processing-in-ptx)
 
 [`--operating-system`](#index-_002d_002doperating_002dsystem):
 
-
-
 [uname invocation](#uname-invocation)
 
 [`--output`](#index-_002d_002doutput):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`--output`](#index-_002d_002doutput-1):
 
-
-
 [shuf invocation](#shuf-invocation)
 
 [`--output`](#index-_002d_002doutput-2):
-
-
 
 [df invocation](#df-invocation)
 
 [`--output`](#index-_002d_002doutput-3):
 
-
-
 [stdbuf invocation](#stdbuf-invocation)
 
 [`--output-delimiter`](#index-_002d_002doutput_002ddelimiter):
-
-
 
 [cut invocation](#cut-invocation)
 
 [`--output-duplicates`](#index-_002d_002doutput_002dduplicates):
 
-
-
 [od invocation](#od-invocation)
 
 [`--output-error`](#index-_002d_002doutput_002derror):
-
-
 
 [tee invocation](#tee-invocation)
 
 [`--output-tabs`](#index-_002d_002doutput_002dtabs):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`--owner`](#index-_002d_002downer):
-
-
 
 [install invocation](#install-invocation)
 
 [`--padding`](#index-_002d_002dpadding):
 
-
-
 [numfmt invocation](#numfmt-invocation)
 
 [`--pages=page_range`](#index-_002d_002dpages_003dpage_005frange):
-
-
 
 [pr invocation](#pr-invocation)
 
 [`--page_width`](#index-_002d_002dpage_005fwidth):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`--parallel`](#index-_002d_002dparallel):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`--parents`](#index-_002d_002dparents):
 
-
-
 [cp invocation](#cp-invocation)
 
 [`--parents`](#index-_002d_002dparents-1):
-
-
 
 [mkdir invocation](#mkdir-invocation)
 
 [`--parents`](#index-_002d_002dparents-2):
 
-
-
 [rmdir invocation](#rmdir-invocation)
 
 [`--physical`](#index-_002d_002dphysical):
-
-
 
 [ln invocation](#ln-invocation)
 
 [`--physical`](#index-_002d_002dphysical-1):
 
-
-
 [realpath invocation](#realpath-invocation)
 
 [`--physical`](#index-_002d_002dphysical-2):
-
-
 
 [pwd invocation](#pwd-invocation)
 
 [`--pid`](#index-_002d_002dpid):
 
-
-
 [tail invocation](#tail-invocation)
 
 [`--portability`](#index-_002d_002dportability):
-
-
 
 [df invocation](#df-invocation)
 
 [`--portability`](#index-_002d_002dportability-1):
 
-
-
 [pathchk invocation](#pathchk-invocation)
 
 [`--prefix`](#index-_002d_002dprefix):
-
-
 
 [csplit invocation](#csplit-invocation)
 
 [`--preserve`](#index-_002d_002dpreserve):
 
-
-
 [cp invocation](#cp-invocation)
 
 [`--preserve-context`](#index-_002d_002dpreserve_002dcontext):
-
-
 
 [install invocation](#install-invocation)
 
 [`--preserve-root`](#index-_002d_002dpreserve_002droot):
 
-
-
 [rm invocation](#rm-invocation)
 
 [`--preserve-root`](#index-_002d_002dpreserve_002droot-1):
-
-
 
 [chown invocation](#chown-invocation)
 
 [`--preserve-root`](#index-_002d_002dpreserve_002droot-2):
 
-
-
 [chgrp invocation](#chgrp-invocation)
 
 [`--preserve-root`](#index-_002d_002dpreserve_002droot-3):
-
-
 
 [chmod invocation](#chmod-invocation)
 
 [`--preserve-root`](#index-_002d_002dpreserve_002droot-4):
 
-
-
 [chcon invocation](#chcon-invocation)
 
 [`--preserve-status`](#index-_002d_002dpreserve_002dstatus):
-
-
 
 [timeout invocation](#timeout-invocation)
 
 [`--preserve-timestamps`](#index-_002d_002dpreserve_002dtimestamps):
 
-
-
 [install invocation](#install-invocation)
 
 [`--print-database`](#index-_002d_002dprint_002ddatabase):
-
-
 
 [dircolors invocation](#dircolors-invocation)
 
 [`--print-ls-colors`](#index-_002d_002dprint_002dls_002dcolors):
 
-
-
 [dircolors invocation](#dircolors-invocation)
 
 [`--print-type`](#index-_002d_002dprint_002dtype):
-
-
 
 [df invocation](#df-invocation)
 
 [`--printf=format`](#index-_002d_002dprintf_003dformat):
 
-
-
 [stat invocation](#stat-invocation)
 
 [`--process`](#index-_002d_002dprocess):
-
-
 
 [who invocation](#who-invocation)
 
 [`--processor`](#index-_002d_002dprocessor):
 
-
-
 [uname invocation](#uname-invocation)
 
 [`--quiet`](#index-_002d_002dquiet):
-
-
 
 [head invocation](#head-invocation)
 
 [`--quiet`](#index-_002d_002dquiet-1):
 
-
-
 [tail invocation](#tail-invocation)
 
 [`--quiet`](#index-_002d_002dquiet-2):
-
-
 
 [csplit invocation](#csplit-invocation)
 
 [`--quiet`](#index-_002d_002dquiet-3):
 
-
-
 [cksum common options](#cksum-common-options)
 
 [`--quiet`](#index-_002d_002dquiet-4):
-
-
 
 [readlink invocation](#readlink-invocation)
 
 [`--quiet`](#index-_002d_002dquiet-5):
 
-
-
 [chown invocation](#chown-invocation)
 
 [`--quiet`](#index-_002d_002dquiet-6):
-
-
 
 [chgrp invocation](#chgrp-invocation)
 
 [`--quiet`](#index-_002d_002dquiet-7):
 
-
-
 [chmod invocation](#chmod-invocation)
 
 [`--quiet`](#index-_002d_002dquiet-8):
-
-
 
 [mktemp invocation](#mktemp-invocation)
 
 [`--quiet`](#index-_002d_002dquiet-9):
 
-
-
 [realpath invocation](#realpath-invocation)
 
 [`--quiet`](#index-_002d_002dquiet-10):
-
-
 
 [tty invocation](#tty-invocation)
 
 [`--quote-name`](#index-_002d_002dquote_002dname):
 
-
-
 [Formatting the file names](#Formatting-the-file-names)
 
 [`--quoting-style`](#index-_002d_002dquoting_002dstyle):
-
-
 
 [Formatting the file names](#Formatting-the-file-names)
 
 [`--quoting-style`](#index-_002d_002dquoting_002dstyle-1):
 
-
-
 [Formatting the file names](#Formatting-the-file-names)
 
 [`--quoting-style`](#index-_002d_002dquoting_002dstyle-2):
-
-
 
 [Formatting the file names](#Formatting-the-file-names)
 
 [`--quoting-style`](#index-_002d_002dquoting_002dstyle-3):
 
-
-
 [Formatting the file names](#Formatting-the-file-names)
 
 [`--random-sort`](#index-_002d_002drandom_002dsort):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`--random-source`](#index-_002d_002drandom_002dsource):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`--random-source`](#index-_002d_002drandom_002dsource-1):
-
-
 
 [shuf invocation](#shuf-invocation)
 
 [`--random-source`](#index-_002d_002drandom_002dsource-2):
 
-
-
 [shred invocation](#shred-invocation)
 
 [`--range`](#index-_002d_002drange):
-
-
 
 [chcon invocation](#chcon-invocation)
 
 [`--range`](#index-_002d_002drange-1):
 
-
-
 [runcon invocation](#runcon-invocation)
 
 [`--raw`](#index-_002d_002draw):
-
-
 
 [cksum general options](#cksum-general-options)
 
 [`--read-bytes`](#index-_002d_002dread_002dbytes):
 
-
-
 [od invocation](#od-invocation)
 
 [`--real`](#index-_002d_002dreal):
-
-
 
 [id invocation](#id-invocation)
 
 [`--recursive`](#index-_002d_002drecursive):
 
-
-
 [Which files are listed](#Which-files-are-listed)
 
 [`--recursive`](#index-_002d_002drecursive-1):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`--recursive`](#index-_002d_002drecursive-2):
 
-
-
 [rm invocation](#rm-invocation)
 
 [`--recursive`](#index-_002d_002drecursive-3):
-
-
 
 [chown invocation](#chown-invocation)
 
 [`--recursive`](#index-_002d_002drecursive-4):
 
-
-
 [chgrp invocation](#chgrp-invocation)
 
 [`--recursive`](#index-_002d_002drecursive-5):
-
-
 
 [chmod invocation](#chmod-invocation)
 
 [`--recursive`](#index-_002d_002drecursive-6):
 
-
-
 [chcon invocation](#chcon-invocation)
 
 [`--reference`](#index-_002d_002dreference):
-
-
 
 [chown invocation](#chown-invocation)
 
 [`--reference`](#index-_002d_002dreference-1):
 
-
-
 [chgrp invocation](#chgrp-invocation)
 
 [`--reference`](#index-_002d_002dreference-2):
-
-
 
 [chmod invocation](#chmod-invocation)
 
 [`--reference`](#index-_002d_002dreference-3):
 
-
-
 [touch invocation](#touch-invocation)
 
 [`--reference`](#index-_002d_002dreference-4):
-
-
 
 [truncate invocation](#truncate-invocation)
 
 [`--reference`](#index-_002d_002dreference-5):
 
-
-
 [Options for date](#Options-for-date)
 
 [`--reference`](#index-_002d_002dreference-6):
-
-
 
 [chcon invocation](#chcon-invocation)
 
 [`--references`](#index-_002d_002dreferences):
 
-
-
 [Input processing in ptx](#Input-processing-in-ptx)
 
 [`--reflink[=when]`](#index-_002d_002dreflink_005b_003dwhen_005d):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`--regex`](#index-_002d_002dregex):
 
-
-
 [tac invocation](#tac-invocation)
 
 [`--relative`](#index-_002d_002drelative):
-
-
 
 [ln invocation](#ln-invocation)
 
 [`--relative-base`](#index-_002d_002drelative_002dbase):
 
-
-
 [realpath invocation](#realpath-invocation)
 
 [`--relative-base`](#index-_002d_002drelative_002dbase-1):
-
-
 
 [Realpath usage examples](#Realpath-usage-examples)
 
 [`--relative-to`](#index-_002d_002drelative_002dto):
 
-
-
 [realpath invocation](#realpath-invocation)
 
 [`--relative-to`](#index-_002d_002drelative_002dto-1):
-
-
 
 [Realpath usage examples](#Realpath-usage-examples)
 
 [`--remove`](#index-_002d_002dremove):
 
-
-
 [shred invocation](#shred-invocation)
 
 [`--remove-destination`](#index-_002d_002dremove_002ddestination):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`--remove=unlink`](#index-_002d_002dremove_003dunlink):
 
-
-
 [shred invocation](#shred-invocation)
 
 [`--remove=wipe`](#index-_002d_002dremove_003dwipe):
-
-
 
 [shred invocation](#shred-invocation)
 
 [`--remove=wipesync`](#index-_002d_002dremove_003dwipesync):
 
-
-
 [shred invocation](#shred-invocation)
 
 [`--repeat`](#index-_002d_002drepeat):
-
-
 
 [shuf invocation](#shuf-invocation)
 
 [`--repeated`](#index-_002d_002drepeated):
 
-
-
 [uniq invocation](#uniq-invocation)
 
 [`--resolution`](#index-_002d_002dresolution):
-
-
 
 [Options for date](#Options-for-date)
 
 [`--retry`](#index-_002d_002dretry):
 
-
-
 [tail invocation](#tail-invocation)
 
 [`--reverse`](#index-_002d_002dreverse):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`--reverse`](#index-_002d_002dreverse-1):
 
-
-
 [Sorting the output](#Sorting-the-output)
 
 [`--rfc-2822`](#index-_002d_002drfc_002d2822):
-
-
 
 [Options for date](#Options-for-date)
 
 [`--rfc-3339=timespec`](#index-_002d_002drfc_002d3339_003dtimespec):
 
-
-
 [Options for date](#Options-for-date)
 
 [`--rfc-822`](#index-_002d_002drfc_002d822):
-
-
 
 [Options for date](#Options-for-date)
 
 [`--rfc-email`](#index-_002d_002drfc_002demail):
 
-
-
 [Options for date](#Options-for-date)
 
 [`--right-side-refs`](#index-_002d_002dright_002dside_002drefs):
-
-
 
 [Output formatting in ptx](#Output-formatting-in-ptx)
 
 [`--role`](#index-_002d_002drole):
 
-
-
 [chcon invocation](#chcon-invocation)
 
 [`--role`](#index-_002d_002drole-1):
-
-
 
 [runcon invocation](#runcon-invocation)
 
 [`--round`](#index-_002d_002dround):
 
-
-
 [numfmt invocation](#numfmt-invocation)
 
 [`--round=down`](#index-_002d_002dround_003ddown):
-
-
 
 [numfmt invocation](#numfmt-invocation)
 
 [`--round=from-zero`](#index-_002d_002dround_003dfrom_002dzero):
 
-
-
 [numfmt invocation](#numfmt-invocation)
 
 [`--round=nearest`](#index-_002d_002dround_003dnearest):
-
-
 
 [numfmt invocation](#numfmt-invocation)
 
 [`--round=towards-zero`](#index-_002d_002dround_003dtowards_002dzero):
 
-
-
 [numfmt invocation](#numfmt-invocation)
 
 [`--round=up`](#index-_002d_002dround_003dup):
-
-
 
 [numfmt invocation](#numfmt-invocation)
 
 [`--runlevel`](#index-_002d_002drunlevel):
 
-
-
 [who invocation](#who-invocation)
 
 [`--save`](#index-_002d_002dsave):
-
-
 
 [stty invocation](#stty-invocation)
 
 [`--section-delimiter`](#index-_002d_002dsection_002ddelimiter):
 
-
-
 [nl invocation](#nl-invocation)
 
 [`--sentence-regexp`](#index-_002d_002dsentence_002dregexp):
-
-
 
 [Input processing in ptx](#Input-processing-in-ptx)
 
 [`--sep-string`](#index-_002d_002dsep_002dstring):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`--separate-dirs`](#index-_002d_002dseparate_002ddirs):
-
-
 
 [du invocation](#du-invocation)
 
 [`--separator`](#index-_002d_002dseparator):
 
-
-
 [tac invocation](#tac-invocation)
 
 [`--separator`](#index-_002d_002dseparator-1):
-
-
 
 [pr invocation](#pr-invocation)
 
 [`--separator`](#index-_002d_002dseparator-2):
 
-
-
 [split invocation](#split-invocation)
 
 [`--separator`](#index-_002d_002dseparator-3):
-
-
 
 [seq invocation](#seq-invocation)
 
 [`--serial`](#index-_002d_002dserial):
 
-
-
 [paste invocation](#paste-invocation)
 
 [`--set`](#index-_002d_002dset):
-
-
 
 [Options for date](#Options-for-date)
 
 [`--sh`](#index-_002d_002dsh):
 
-
-
 [dircolors invocation](#dircolors-invocation)
 
 [`--show-all`](#index-_002d_002dshow_002dall):
-
-
 
 [cat invocation](#cat-invocation)
 
 [`--show-control-chars`](#index-_002d_002dshow_002dcontrol_002dchars):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`--show-control-chars`](#index-_002d_002dshow_002dcontrol_002dchars-1):
-
-
 
 [Formatting the file names](#Formatting-the-file-names)
 
 [`--show-ends`](#index-_002d_002dshow_002dends):
 
-
-
 [cat invocation](#cat-invocation)
 
 [`--show-nonprinting`](#index-_002d_002dshow_002dnonprinting):
-
-
 
 [cat invocation](#cat-invocation)
 
 [`--show-nonprinting`](#index-_002d_002dshow_002dnonprinting-1):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`--show-tabs`](#index-_002d_002dshow_002dtabs):
-
-
 
 [cat invocation](#cat-invocation)
 
 [`--si`](#index-_002d_002dsi):
 
-
-
 [Block size](#Block-size)
 
 [`--si`](#index-_002d_002dsi-1):
-
-
 
 [What information is listed](#What-information-is-listed)
 
 [`--si`](#index-_002d_002dsi-2):
 
-
-
 [df invocation](#df-invocation)
 
 [`--si`](#index-_002d_002dsi-3):
-
-
 
 [du invocation](#du-invocation)
 
 [`--signal`](#index-_002d_002dsignal):
 
-
-
 [timeout invocation](#timeout-invocation)
 
 [`--silent`](#index-_002d_002dsilent):
-
-
 
 [head invocation](#head-invocation)
 
 [`--silent`](#index-_002d_002dsilent-1):
 
-
-
 [tail invocation](#tail-invocation)
 
 [`--silent`](#index-_002d_002dsilent-2):
-
-
 
 [csplit invocation](#csplit-invocation)
 
 [`--silent`](#index-_002d_002dsilent-3):
 
-
-
 [readlink invocation](#readlink-invocation)
 
 [`--silent`](#index-_002d_002dsilent-4):
-
-
 
 [chown invocation](#chown-invocation)
 
 [`--silent`](#index-_002d_002dsilent-5):
 
-
-
 [chgrp invocation](#chgrp-invocation)
 
 [`--silent`](#index-_002d_002dsilent-6):
-
-
 
 [chmod invocation](#chmod-invocation)
 
 [`--silent`](#index-_002d_002dsilent-7):
 
-
-
 [tty invocation](#tty-invocation)
 
 [`--size`](#index-_002d_002dsize):
-
-
 
 [What information is listed](#What-information-is-listed)
 
 [`--size`](#index-_002d_002dsize-1):
 
-
-
 [truncate invocation](#truncate-invocation)
 
 [`--size=bytes`](#index-_002d_002dsize_003dbytes):
-
-
 
 [shred invocation](#shred-invocation)
 
 [`--skip-bytes`](#index-_002d_002dskip_002dbytes):
 
-
-
 [od invocation](#od-invocation)
 
 [`--skip-chars`](#index-_002d_002dskip_002dchars):
-
-
 
 [uniq invocation](#uniq-invocation)
 
 [`--skip-chdir`](#index-_002d_002dskip_002dchdir):
 
-
-
 [chroot invocation](#chroot-invocation)
 
 [`--skip-fields`](#index-_002d_002dskip_002dfields):
-
-
 
 [uniq invocation](#uniq-invocation)
 
 [`--sleep-interval`](#index-_002d_002dsleep_002dinterval):
 
-
-
 [tail invocation](#tail-invocation)
 
 [`--sort`](#index-_002d_002dsort):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`--sort`](#index-_002d_002dsort-1):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`--sort`](#index-_002d_002dsort-2):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`--sort`](#index-_002d_002dsort-3):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`--sort`](#index-_002d_002dsort-4):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`--sort`](#index-_002d_002dsort-5):
 
-
-
 [Sorting the output](#Sorting-the-output)
 
 [`--sort`](#index-_002d_002dsort-6):
-
-
 
 [Sorting the output](#Sorting-the-output)
 
 [`--sort`](#index-_002d_002dsort-7):
 
-
-
 [Sorting the output](#Sorting-the-output)
 
 [`--sort`](#index-_002d_002dsort-8):
-
-
 
 [Sorting the output](#Sorting-the-output)
 
 [`--sort`](#index-_002d_002dsort-9):
 
-
-
 [Sorting the output](#Sorting-the-output)
 
 [`--sort`](#index-_002d_002dsort-10):
-
-
 
 [Sorting the output](#Sorting-the-output)
 
 [`--spaces`](#index-_002d_002dspaces):
 
-
-
 [fold invocation](#fold-invocation)
 
 [`--sparse=when`](#index-_002d_002dsparse_003dwhen):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`--split-only`](#index-_002d_002dsplit_002donly):
 
-
-
 [fmt invocation](#fmt-invocation)
 
 [`--split-string`](#index-_002d_002dsplit_002dstring):
-
-
 
 [env invocation](#env-invocation)
 
 [`--squeeze-blank`](#index-_002d_002dsqueeze_002dblank):
 
-
-
 [cat invocation](#cat-invocation)
 
 [`--squeeze-repeats`](#index-_002d_002dsqueeze_002drepeats):
-
-
 
 [tr invocation](#tr-invocation)
 
 [`--stable`](#index-_002d_002dstable):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`--starting-line-number`](#index-_002d_002dstarting_002dline_002dnumber):
-
-
 
 [nl invocation](#nl-invocation)
 
 [`--status`](#index-_002d_002dstatus):
 
-
-
 [cksum common options](#cksum-common-options)
 
 [`--strict`](#index-_002d_002dstrict):
-
-
 
 [cksum common options](#cksum-common-options)
 
 [`--strings`](#index-_002d_002dstrings):
 
-
-
 [od invocation](#od-invocation)
 
 [`--strip`](#index-_002d_002dstrip):
-
-
 
 [install invocation](#install-invocation)
 
 [`--strip`](#index-_002d_002dstrip-1):
 
-
-
 [realpath invocation](#realpath-invocation)
 
 [`--strip-program`](#index-_002d_002dstrip_002dprogram):
-
-
 
 [install invocation](#install-invocation)
 
 [`--strip-trailing-slashes`](#index-_002d_002dstrip_002dtrailing_002dslashes):
 
-
-
 [cp invocation](#cp-invocation)
 
 [`--strip-trailing-slashes`](#index-_002d_002dstrip_002dtrailing_002dslashes-1):
-
-
 
 [mv invocation](#mv-invocation)
 
 [`--suffix`](#index-_002d_002dsuffix):
 
-
-
 [Backup options](#Backup-options)
 
 [`--suffix`](#index-_002d_002dsuffix-1):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`--suffix`](#index-_002d_002dsuffix-2):
 
-
-
 [install invocation](#install-invocation)
 
 [`--suffix`](#index-_002d_002dsuffix-3):
-
-
 
 [mv invocation](#mv-invocation)
 
 [`--suffix`](#index-_002d_002dsuffix-4):
 
-
-
 [ln invocation](#ln-invocation)
 
 [`--suffix`](#index-_002d_002dsuffix-5):
-
-
 
 [basename invocation](#basename-invocation)
 
 [`--suffix`](#index-_002d_002dsuffix-6):
 
-
-
 [mktemp invocation](#mktemp-invocation)
 
 [`--suffix`](#index-_002d_002dsuffix-7):
-
-
 
 [numfmt invocation](#numfmt-invocation)
 
 [`--suffix-format`](#index-_002d_002dsuffix_002dformat):
 
-
-
 [csplit invocation](#csplit-invocation)
 
 [`--suffix-length`](#index-_002d_002dsuffix_002dlength):
-
-
 
 [split invocation](#split-invocation)
 
 [`--summarize`](#index-_002d_002dsummarize):
 
-
-
 [du invocation](#du-invocation)
 
 [`--suppress-matched`](#index-_002d_002dsuppress_002dmatched):
-
-
 
 [csplit invocation](#csplit-invocation)
 
 [`--symbolic`](#index-_002d_002dsymbolic):
 
-
-
 [ln invocation](#ln-invocation)
 
 [`--symbolic-link`](#index-_002d_002dsymbolic_002dlink):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`--sync`](#index-_002d_002dsync):
 
-
-
 [df invocation](#df-invocation)
 
 [`--sysv`](#index-_002d_002dsysv):
-
-
 
 [sum invocation](#sum-invocation)
 
 [`--tabs`](#index-_002d_002dtabs):
 
-
-
 [expand invocation](#expand-invocation)
 
 [`--tabs`](#index-_002d_002dtabs-1):
-
-
 
 [unexpand invocation](#unexpand-invocation)
 
 [`--tabsize`](#index-_002d_002dtabsize):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [`--tag`](#index-_002d_002dtag):
-
-
 
 [cksum common options](#cksum-common-options)
 
 [`--tagged-paragraph`](#index-_002d_002dtagged_002dparagraph):
 
-
-
 [fmt invocation](#fmt-invocation)
 
 [`--target-directory`](#index-_002d_002dtarget_002ddirectory):
-
-
 
 [Target directory](#Target-directory)
 
 [`--target-directory`](#index-_002d_002dtarget_002ddirectory-1):
 
-
-
 [cp invocation](#cp-invocation)
 
 [`--target-directory`](#index-_002d_002dtarget_002ddirectory-2):
-
-
 
 [install invocation](#install-invocation)
 
 [`--target-directory`](#index-_002d_002dtarget_002ddirectory-3):
 
-
-
 [mv invocation](#mv-invocation)
 
 [`--target-directory`](#index-_002d_002dtarget_002ddirectory-4):
-
-
 
 [ln invocation](#ln-invocation)
 
 [`--temporary-directory`](#index-_002d_002dtemporary_002ddirectory):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`--terse`](#index-_002d_002dterse):
-
-
 
 [stat invocation](#stat-invocation)
 
 [`--text`](#index-_002d_002dtext):
 
-
-
 [cksum common options](#cksum-common-options)
 
 [`--threshold`](#index-_002d_002dthreshold):
-
-
 
 [du invocation](#du-invocation)
 
 [`--time`](#index-_002d_002dtime):
 
-
-
 [Sorting the output](#Sorting-the-output)
 
 [`--time`](#index-_002d_002dtime-1):
-
-
 
 [Sorting the output](#Sorting-the-output)
 
 [`--time`](#index-_002d_002dtime-2):
 
-
-
 [Sorting the output](#Sorting-the-output)
 
 [`--time`](#index-_002d_002dtime-3):
-
-
 
 [Sorting the output](#Sorting-the-output)
 
 [`--time`](#index-_002d_002dtime-4):
 
-
-
 [touch invocation](#touch-invocation)
 
 [`--time`](#index-_002d_002dtime-5):
-
-
 
 [touch invocation](#touch-invocation)
 
 [`--time`](#index-_002d_002dtime-6):
 
-
-
 [du invocation](#du-invocation)
 
 [`--time`](#index-_002d_002dtime-7):
-
-
 
 [du invocation](#du-invocation)
 
 [`--time`](#index-_002d_002dtime-8):
 
-
-
 [du invocation](#du-invocation)
 
 [`--time`](#index-_002d_002dtime-9):
-
-
 
 [who invocation](#who-invocation)
 
 [`--time-style`](#index-_002d_002dtime_002dstyle):
 
-
-
 [Formatting file timestamps](#Formatting-file-timestamps)
 
 [`--time-style`](#index-_002d_002dtime_002dstyle-1):
-
-
 
 [du invocation](#du-invocation)
 
 [`--tmpdir`](#index-_002d_002dtmpdir):
 
-
-
 [mktemp invocation](#mktemp-invocation)
 
 [`--to`](#index-_002d_002dto):
-
-
 
 [numfmt invocation](#numfmt-invocation)
 
 [`--to-unit`](#index-_002d_002dto_002dunit):
 
-
-
 [numfmt invocation](#numfmt-invocation)
 
 [`--total`](#index-_002d_002dtotal):
-
-
 
 [df invocation](#df-invocation)
 
 [`--total`](#index-_002d_002dtotal-1):
 
-
-
 [du invocation](#du-invocation)
 
 [`--total=when`](#index-_002d_002dtotal_003dwhen):
-
-
 
 [wc invocation](#wc-invocation)
 
 [`--traditional`](#index-_002d_002dtraditional):
 
-
-
 [od invocation](#od-invocation)
 
 [`--truncate-set1`](#index-_002d_002dtruncate_002dset1):
-
-
 
 [tr invocation](#tr-invocation)
 
 [`--type`](#index-_002d_002dtype):
 
-
-
 [df invocation](#df-invocation)
 
 [`--type`](#index-_002d_002dtype-1):
-
-
 
 [chcon invocation](#chcon-invocation)
 
 [`--type`](#index-_002d_002dtype-2):
 
-
-
 [runcon invocation](#runcon-invocation)
 
 [`--unbuffered`](#index-_002d_002dunbuffered):
-
-
 
 [split invocation](#split-invocation)
 
 [`--uniform-spacing`](#index-_002d_002duniform_002dspacing):
 
-
-
 [fmt invocation](#fmt-invocation)
 
 [`--unique`](#index-_002d_002dunique):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`--unique`](#index-_002d_002dunique-1):
 
-
-
 [uniq invocation](#uniq-invocation)
 
 [`--universal`](#index-_002d_002duniversal):
-
-
 
 [Options for date](#Options-for-date)
 
 [`--unset`](#index-_002d_002dunset):
 
-
-
 [env invocation](#env-invocation)
 
 [`--untagged`](#index-_002d_002duntagged):
-
-
 
 [cksum general options](#cksum-general-options)
 
 [`--update`](#index-_002d_002dupdate):
 
-
-
 [mv invocation](#mv-invocation)
 
 [`--update[=which]`](#index-_002d_002dupdate_005b_003dwhich_005d):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`--user`](#index-_002d_002duser):
 
-
-
 [id invocation](#id-invocation)
 
 [`--user`](#index-_002d_002duser-1):
-
-
 
 [chcon invocation](#chcon-invocation)
 
 [`--user`](#index-_002d_002duser-2):
 
-
-
 [runcon invocation](#runcon-invocation)
 
 [`--userspec`](#index-_002d_002duserspec):
-
-
 
 [chroot invocation](#chroot-invocation)
 
 [`--utc`](#index-_002d_002dutc):
 
-
-
 [Options for date](#Options-for-date)
 
 [`--verbose`](#index-_002d_002dverbose):
-
-
 
 [head invocation](#head-invocation)
 
 [`--verbose`](#index-_002d_002dverbose-1):
 
-
-
 [tail invocation](#tail-invocation)
 
 [`--verbose`](#index-_002d_002dverbose-2):
-
-
 
 [split invocation](#split-invocation)
 
 [`--verbose`](#index-_002d_002dverbose-3):
 
-
-
 [cp invocation](#cp-invocation)
 
 [`--verbose`](#index-_002d_002dverbose-4):
-
-
 
 [install invocation](#install-invocation)
 
 [`--verbose`](#index-_002d_002dverbose-5):
 
-
-
 [mv invocation](#mv-invocation)
 
 [`--verbose`](#index-_002d_002dverbose-6):
-
-
 
 [rm invocation](#rm-invocation)
 
 [`--verbose`](#index-_002d_002dverbose-7):
 
-
-
 [shred invocation](#shred-invocation)
 
 [`--verbose`](#index-_002d_002dverbose-8):
-
-
 
 [ln invocation](#ln-invocation)
 
 [`--verbose`](#index-_002d_002dverbose-9):
 
-
-
 [mkdir invocation](#mkdir-invocation)
 
 [`--verbose`](#index-_002d_002dverbose-10):
-
-
 
 [readlink invocation](#readlink-invocation)
 
 [`--verbose`](#index-_002d_002dverbose-11):
 
-
-
 [rmdir invocation](#rmdir-invocation)
 
 [`--verbose`](#index-_002d_002dverbose-12):
-
-
 
 [chown invocation](#chown-invocation)
 
 [`--verbose`](#index-_002d_002dverbose-13):
 
-
-
 [chgrp invocation](#chgrp-invocation)
 
 [`--verbose`](#index-_002d_002dverbose-14):
-
-
 
 [chmod invocation](#chmod-invocation)
 
 [`--verbose`](#index-_002d_002dverbose-15):
 
-
-
 [chcon invocation](#chcon-invocation)
 
 [`--verbose`](#index-_002d_002dverbose-16):
-
-
 
 [timeout invocation](#timeout-invocation)
 
 [`--version`](#index-_002d_002dversion):
 
-
-
 [Common options](#Common-options)
 
 [`--version-sort`](#index-_002d_002dversion_002dsort):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`--warn`](#index-_002d_002dwarn):
 
-
-
 [cksum common options](#cksum-common-options)
 
 [`--width`](#index-_002d_002dwidth):
-
-
 
 [od invocation](#od-invocation)
 
 [`--width`](#index-_002d_002dwidth-1):
 
-
-
 [fmt invocation](#fmt-invocation)
 
 [`--width`](#index-_002d_002dwidth-2):
-
-
 
 [pr invocation](#pr-invocation)
 
 [`--width`](#index-_002d_002dwidth-3):
 
-
-
 [fold invocation](#fold-invocation)
 
 [`--width`](#index-_002d_002dwidth-4):
-
-
 
 [Output formatting in ptx](#Output-formatting-in-ptx)
 
 [`--width`](#index-_002d_002dwidth-5):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [`--word-regexp`](#index-_002d_002dword_002dregexp):
-
-
 
 [Input processing in ptx](#Input-processing-in-ptx)
 
 [`--words`](#index-_002d_002dwords):
 
-
-
 [wc invocation](#wc-invocation)
 
 [`--wrap`](#index-_002d_002dwrap):
-
-
 
 [base64 invocation](#base64-invocation)
 
 [`--writable`](#index-_002d_002dwritable):
 
-
-
 [who invocation](#who-invocation)
 
 [`--z85`](#index-_002d_002dz85):
-
-
 
 [basenc invocation](#basenc-invocation)
 
 [`--zero`](#index-_002d_002dzero):
 
-
-
 [cksum common options](#cksum-common-options)
 
 [`--zero`](#index-_002d_002dzero-1):
-
-
 
 [General output formatting](#General-output-formatting)
 
 [`--zero`](#index-_002d_002dzero-2):
 
-
-
 [shred invocation](#shred-invocation)
 
 [`--zero`](#index-_002d_002dzero-3):
-
-
 
 [readlink invocation](#readlink-invocation)
 
 [`--zero`](#index-_002d_002dzero-4):
 
-
-
 [basename invocation](#basename-invocation)
 
 [`--zero`](#index-_002d_002dzero-5):
-
-
 
 [dirname invocation](#dirname-invocation)
 
 [`--zero`](#index-_002d_002dzero-6):
 
-
-
 [realpath invocation](#realpath-invocation)
 
 [`--zero`](#index-_002d_002dzero-7):
-
-
 
 [id invocation](#id-invocation)
 
 [`--zero-terminated`](#index-_002d_002dzero_002dterminated):
 
-
-
 [head invocation](#head-invocation)
 
 [`--zero-terminated`](#index-_002d_002dzero_002dterminated-1):
-
-
 
 [tail invocation](#tail-invocation)
 
 [`--zero-terminated`](#index-_002d_002dzero_002dterminated-2):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`--zero-terminated`](#index-_002d_002dzero_002dterminated-3):
-
-
 
 [shuf invocation](#shuf-invocation)
 
 [`--zero-terminated`](#index-_002d_002dzero_002dterminated-4):
 
-
-
 [uniq invocation](#uniq-invocation)
 
 [`--zero-terminated`](#index-_002d_002dzero_002dterminated-5):
-
-
 
 [comm invocation](#comm-invocation)
 
 [`--zero-terminated`](#index-_002d_002dzero_002dterminated-6):
 
-
-
 [cut invocation](#cut-invocation)
 
 [`--zero-terminated`](#index-_002d_002dzero_002dterminated-7):
-
-
 
 [paste invocation](#paste-invocation)
 
 [`--zero-terminated`](#index-_002d_002dzero_002dterminated-8):
 
-
-
 [General options in join](#General-options-in-join)
 
 [`--zero-terminated`](#index-_002d_002dzero_002dterminated-9):
-
-
 
 [numfmt invocation](#numfmt-invocation)
 
 [`-0`](#index-_002d0):
 
-
-
 [du invocation](#du-invocation)
 
 [`-0`](#index-_002d0-1):
-
-
 
 [printenv invocation](#printenv-invocation)
 
 [`-0`](#index-_002d0-2):
 
-
-
 [env invocation](#env-invocation)
 
 [`-1`](#index-_002d1):
-
-
 
 [comm invocation](#comm-invocation)
 
 [`-1`](#index-_002d1-1):
 
-
-
 [General options in join](#General-options-in-join)
 
 [`-1`](#index-_002d1-2):
-
-
 
 [General output formatting](#General-output-formatting)
 
 [`-2`](#index-_002d2):
 
-
-
 [comm invocation](#comm-invocation)
 
 [`-2`](#index-_002d2-1):
-
-
 
 [General options in join](#General-options-in-join)
 
 [`-3`](#index-_002d3):
 
-
-
 [comm invocation](#comm-invocation)
 
 [`-A`](#index-_002dA):
-
-
 
 [cat invocation](#cat-invocation)
 
 [`-A`](#index-_002dA-1):
 
-
-
 [od invocation](#od-invocation)
 
 [`-a`](#index-_002da):
-
-
 
 [od invocation](#od-invocation)
 
 [`-a`](#index-_002da-1):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`-a`](#index-_002da-2):
-
-
 
 [split invocation](#split-invocation)
 
 [`-a`](#index-_002da-3):
 
-
-
 [cksum general options](#cksum-general-options)
 
 [`-A`](#index-_002dA-2):
-
-
 
 [Output formatting in ptx](#Output-formatting-in-ptx)
 
 [`-a`](#index-_002da-4):
 
-
-
 [General options in join](#General-options-in-join)
 
 [`-a`](#index-_002da-5):
-
-
 
 [unexpand invocation](#unexpand-invocation)
 
 [`-a`](#index-_002da-6):
 
-
-
 [Which files are listed](#Which-files-are-listed)
 
 [`-A`](#index-_002dA-3):
-
-
 
 [Which files are listed](#Which-files-are-listed)
 
 [`-a`](#index-_002da-7):
 
-
-
 [cp invocation](#cp-invocation)
 
 [`-a`](#index-_002da-8):
-
-
 
 [touch invocation](#touch-invocation)
 
 [`-a`](#index-_002da-9):
 
-
-
 [df invocation](#df-invocation)
 
 [`-a`](#index-_002da-10):
-
-
 
 [du invocation](#du-invocation)
 
 [`-a`](#index-_002da-11):
 
-
-
 [Connectives for test](#Connectives-for-test)
 
 [`-a`](#index-_002da-12):
-
-
 
 [tee invocation](#tee-invocation)
 
 [`-a`](#index-_002da-13):
 
-
-
 [basename invocation](#basename-invocation)
 
 [`-a`](#index-_002da-14):
-
-
 
 [stty invocation](#stty-invocation)
 
 [`-a`](#index-_002da-15):
 
-
-
 [who invocation](#who-invocation)
 
 [`-a`](#index-_002da-16):
-
-
 
 [uname invocation](#uname-invocation)
 
 [`-b`](#index-_002db):
 
-
-
 [Backup options](#Backup-options)
 
 [`-b`](#index-_002db-1):
-
-
 
 [cat invocation](#cat-invocation)
 
 [`-b`](#index-_002db-2):
 
-
-
 [tac invocation](#tac-invocation)
 
 [`-b`](#index-_002db-3):
-
-
 
 [nl invocation](#nl-invocation)
 
 [`-b`](#index-_002db-4):
 
-
-
 [od invocation](#od-invocation)
 
 [`-b`](#index-_002db-5):
-
-
 
 [fold invocation](#fold-invocation)
 
 [`-b`](#index-_002db-6):
 
-
-
 [split invocation](#split-invocation)
 
 [`-b`](#index-_002db-7):
-
-
 
 [csplit invocation](#csplit-invocation)
 
 [`-b`](#index-_002db-8):
 
-
-
 [cksum common options](#cksum-common-options)
 
 [`-b`](#index-_002db-9):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`-b`](#index-_002db-10):
 
-
-
 [Input processing in ptx](#Input-processing-in-ptx)
 
 [`-b`](#index-_002db-11):
-
-
 
 [cut invocation](#cut-invocation)
 
 [`-B`](#index-_002dB):
 
-
-
 [Which files are listed](#Which-files-are-listed)
 
 [`-b`](#index-_002db-12):
-
-
 
 [Formatting the file names](#Formatting-the-file-names)
 
 [`-b`](#index-_002db-13):
 
-
-
 [dircolors invocation](#dircolors-invocation)
 
 [`-b`](#index-_002db-14):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`-b`](#index-_002db-15):
 
-
-
 [install invocation](#install-invocation)
 
 [`-b`](#index-_002db-16):
-
-
 
 [mv invocation](#mv-invocation)
 
 [`-b`](#index-_002db-17):
 
-
-
 [ln invocation](#ln-invocation)
 
 [`-B`](#index-_002dB-1):
-
-
 
 [df invocation](#df-invocation)
 
 [`-B`](#index-_002dB-2):
 
-
-
 [du invocation](#du-invocation)
 
 [`-b`](#index-_002db-18):
-
-
 
 [du invocation](#du-invocation)
 
 [`-b`](#index-_002db-19):
 
-
-
 [File type tests](#File-type-tests)
 
 [`-b`](#index-_002db-20):
-
-
 
 [who invocation](#who-invocation)
 
 [`-c`](#index-_002dc):
 
-
-
 [od invocation](#od-invocation)
 
 [`-c`](#index-_002dc-1):
-
-
 
 [fmt invocation](#fmt-invocation)
 
 [`-c`](#index-_002dc-2):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`-c`](#index-_002dc-3):
-
-
 
 [head invocation](#head-invocation)
 
 [`-c`](#index-_002dc-4):
 
-
-
 [tail invocation](#tail-invocation)
 
 [`-C`](#index-_002dC):
-
-
 
 [split invocation](#split-invocation)
 
 [`-c`](#index-_002dc-5):
 
-
-
 [wc invocation](#wc-invocation)
 
 [`-c`](#index-_002dc-6):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`-c`](#index-_002dc-7):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`-c`](#index-_002dc-8):
-
-
 
 [shuf invocation](#shuf-invocation)
 
 [`-c`](#index-_002dc-9):
 
-
-
 [uniq invocation](#uniq-invocation)
 
 [`-c`](#index-_002dc-10):
-
-
 
 [cut invocation](#cut-invocation)
 
 [`-c`](#index-_002dc-11):
 
-
-
 [tr invocation](#tr-invocation)
 
 [`-C`](#index-_002dC-1):
-
-
 
 [tr invocation](#tr-invocation)
 
 [`-c`](#index-_002dc-12):
 
-
-
 [Sorting the output](#Sorting-the-output)
 
 [`-C`](#index-_002dC-2):
-
-
 
 [General output formatting](#General-output-formatting)
 
 [`-c`](#index-_002dc-13):
 
-
-
 [dircolors invocation](#dircolors-invocation)
 
 [`-C`](#index-_002dC-3):
-
-
 
 [install invocation](#install-invocation)
 
 [`-c`](#index-_002dc-14):
 
-
-
 [install invocation](#install-invocation)
 
 [`-c`](#index-_002dc-15):
-
-
 
 [chown invocation](#chown-invocation)
 
 [`-c`](#index-_002dc-16):
 
-
-
 [chgrp invocation](#chgrp-invocation)
 
 [`-c`](#index-_002dc-17):
-
-
 
 [chmod invocation](#chmod-invocation)
 
 [`-c`](#index-_002dc-18):
 
-
-
 [touch invocation](#touch-invocation)
 
 [`-c`](#index-_002dc-19):
-
-
 
 [du invocation](#du-invocation)
 
 [`-c`](#index-_002dc-20):
 
-
-
 [stat invocation](#stat-invocation)
 
 [`-c`](#index-_002dc-21):
-
-
 
 [truncate invocation](#truncate-invocation)
 
 [`-c`](#index-_002dc-22):
 
-
-
 [File type tests](#File-type-tests)
 
 [`-c`](#index-_002dc-23):
-
-
 
 [runcon invocation](#runcon-invocation)
 
 [`-C`](#index-_002dC-4):
 
-
-
 [env invocation](#env-invocation)
 
 [`-column`](#index-_002dcolumn):
-
-
 
 [pr invocation](#pr-invocation)
 
 [`-d`](#index-_002dd):
 
-
-
 [nl invocation](#nl-invocation)
 
 [`-d`](#index-_002dd-1):
-
-
 
 [od invocation](#od-invocation)
 
 [`-d`](#index-_002dd-2):
 
-
-
 [base64 invocation](#base64-invocation)
 
 [`-d`](#index-_002dd-3):
-
-
 
 [pr invocation](#pr-invocation)
 
 [`-d`](#index-_002dd-4):
 
-
-
 [split invocation](#split-invocation)
 
 [`-d`](#index-_002dd-5):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`-d`](#index-_002dd-6):
 
-
-
 [uniq invocation](#uniq-invocation)
 
 [`-D`](#index-_002dD):
-
-
 
 [uniq invocation](#uniq-invocation)
 
 [`-d`](#index-_002dd-7):
 
-
-
 [cut invocation](#cut-invocation)
 
 [`-d`](#index-_002dd-8):
-
-
 
 [paste invocation](#paste-invocation)
 
 [`-d`](#index-_002dd-9):
 
-
-
 [tr invocation](#tr-invocation)
 
 [`-d`](#index-_002dd-10):
-
-
 
 [Which files are listed](#Which-files-are-listed)
 
 [`-D`](#index-_002dD-1):
 
-
-
 [What information is listed](#What-information-is-listed)
 
 [`-d`](#index-_002dd-11):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`-D`](#index-_002dD-2):
 
-
-
 [install invocation](#install-invocation)
 
 [`-d`](#index-_002dd-12):
-
-
 
 [install invocation](#install-invocation)
 
 [`-d`](#index-_002dd-13):
 
-
-
 [rm invocation](#rm-invocation)
 
 [`-d`](#index-_002dd-14):
-
-
 
 [ln invocation](#ln-invocation)
 
 [`-d`](#index-_002dd-15):
 
-
-
 [touch invocation](#touch-invocation)
 
 [`-D`](#index-_002dD-3):
-
-
 
 [du invocation](#du-invocation)
 
 [`-d`](#index-_002dd-16):
 
-
-
 [File type tests](#File-type-tests)
 
 [`-d`](#index-_002dd-17):
-
-
 
 [mktemp invocation](#mktemp-invocation)
 
 [`-d`](#index-_002dd-18):
 
-
-
 [who invocation](#who-invocation)
 
 [`-d`](#index-_002dd-19):
-
-
 
 [Options for date](#Options-for-date)
 
 [`-d`](#index-_002dd-20):
 
-
-
 [numfmt invocation](#numfmt-invocation)
 
 [`-d depth`](#index-_002dd-depth):
-
-
 
 [du invocation](#du-invocation)
 
 [`-e`](#index-_002de):
 
-
-
 [cat invocation](#cat-invocation)
 
 [`-E`](#index-_002dE):
-
-
 
 [cat invocation](#cat-invocation)
 
 [`-e`](#index-_002de-1):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`-e`](#index-_002de-2):
-
-
 
 [split invocation](#split-invocation)
 
 [`-e`](#index-_002de-3):
 
-
-
 [General options in join](#General-options-in-join)
 
 [`-e`](#index-_002de-4):
-
-
 
 [readlink invocation](#readlink-invocation)
 
 [`-e`](#index-_002de-5):
 
-
-
 [echo invocation](#echo-invocation)
 
 [`-E`](#index-_002dE-1):
-
-
 
 [echo invocation](#echo-invocation)
 
 [`-e`](#index-_002de-6):
 
-
-
 [File characteristic tests](#File-characteristic-tests)
 
 [`-e`](#index-_002de-7):
-
-
 
 [realpath invocation](#realpath-invocation)
 
 [`-e`](#index-_002de-8):
 
-
-
 [stdbuf invocation](#stdbuf-invocation)
 
 [`-ef`](#index-_002def):
-
-
 
 [File characteristic tests](#File-characteristic-tests)
 
 [`-eq`](#index-_002deq):
 
-
-
 [Numeric tests](#Numeric-tests)
 
 [`-f`](#index-_002df):
-
-
 
 [nl invocation](#nl-invocation)
 
 [`-f`](#index-_002df-1):
 
-
-
 [od invocation](#od-invocation)
 
 [`-F`](#index-_002dF):
-
-
 
 [pr invocation](#pr-invocation)
 
 [`-f`](#index-_002df-2):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`-f`](#index-_002df-3):
-
-
 
 [tail invocation](#tail-invocation)
 
 [`-F`](#index-_002dF-1):
 
-
-
 [tail invocation](#tail-invocation)
 
 [`-f`](#index-_002df-4):
-
-
 
 [csplit invocation](#csplit-invocation)
 
 [`-f`](#index-_002df-5):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`-f`](#index-_002df-6):
-
-
 
 [uniq invocation](#uniq-invocation)
 
 [`-f`](#index-_002df-7):
 
-
-
 [Charset selection in ptx](#Charset-selection-in-ptx)
 
 [`-F`](#index-_002dF-2):
-
-
 
 [Output formatting in ptx](#Output-formatting-in-ptx)
 
 [`-f`](#index-_002df-8):
 
-
-
 [cut invocation](#cut-invocation)
 
 [`-f`](#index-_002df-9):
-
-
 
 [Sorting the output](#Sorting-the-output)
 
 [`-F`](#index-_002dF-3):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [`-f`](#index-_002df-10):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`-f`](#index-_002df-11):
 
-
-
 [mv invocation](#mv-invocation)
 
 [`-f`](#index-_002df-12):
-
-
 
 [rm invocation](#rm-invocation)
 
 [`-f`](#index-_002df-13):
 
-
-
 [shred invocation](#shred-invocation)
 
 [`-F`](#index-_002dF-4):
-
-
 
 [ln invocation](#ln-invocation)
 
 [`-f`](#index-_002df-14):
 
-
-
 [ln invocation](#ln-invocation)
 
 [`-f`](#index-_002df-15):
-
-
 
 [readlink invocation](#readlink-invocation)
 
 [`-f`](#index-_002df-16):
 
-
-
 [chown invocation](#chown-invocation)
 
 [`-f`](#index-_002df-17):
-
-
 
 [chgrp invocation](#chgrp-invocation)
 
 [`-f`](#index-_002df-18):
 
-
-
 [chmod invocation](#chmod-invocation)
 
 [`-f`](#index-_002df-19):
-
-
 
 [touch invocation](#touch-invocation)
 
 [`-f`](#index-_002df-20):
 
-
-
 [stat invocation](#stat-invocation)
 
 [`-f`](#index-_002df-21):
-
-
 
 [File type tests](#File-type-tests)
 
 [`-F`](#index-_002dF-5):
 
-
-
 [stty invocation](#stty-invocation)
 
 [`-f`](#index-_002df-22):
-
-
 
 [Options for date](#Options-for-date)
 
 [`-f`](#index-_002df-23):
 
-
-
 [seq invocation](#seq-invocation)
 
 [`-g`](#index-_002dg):
-
-
 
 [fmt invocation](#fmt-invocation)
 
 [`-g`](#index-_002dg-1):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`-g`](#index-_002dg-2):
-
-
 
 [Output formatting in ptx](#Output-formatting-in-ptx)
 
 [`-g`](#index-_002dg-3):
 
-
-
 [What information is listed](#What-information-is-listed)
 
 [`-G`](#index-_002dG):
-
-
 
 [What information is listed](#What-information-is-listed)
 
 [`-g`](#index-_002dg-4):
 
-
-
 [install invocation](#install-invocation)
 
 [`-g`](#index-_002dg-5):
-
-
 
 [Access permission tests](#Access-permission-tests)
 
 [`-G`](#index-_002dG-1):
 
-
-
 [Access permission tests](#Access-permission-tests)
 
 [`-g`](#index-_002dg-6):
-
-
 
 [stty invocation](#stty-invocation)
 
 [`-g`](#index-_002dg-7):
 
-
-
 [id invocation](#id-invocation)
 
 [`-G`](#index-_002dG-2):
-
-
 
 [id invocation](#id-invocation)
 
 [`-ge`](#index-_002dge):
 
-
-
 [Numeric tests](#Numeric-tests)
 
 [`-gt`](#index-_002dgt):
-
-
 
 [Numeric tests](#Numeric-tests)
 
 [`-h`](#index-_002dh):
 
-
-
 [Block size](#Block-size)
 
 [`-H`](#index-_002dH):
-
-
 
 [Traversing symlinks](#Traversing-symlinks)
 
 [`-h`](#index-_002dh-1):
 
-
-
 [nl invocation](#nl-invocation)
 
 [`-h`](#index-_002dh-2):
-
-
 
 [pr invocation](#pr-invocation)
 
 [`-h`](#index-_002dh-3):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`-H`](#index-_002dH-1):
-
-
 
 [Which files are listed](#Which-files-are-listed)
 
 [`-h`](#index-_002dh-4):
 
-
-
 [What information is listed](#What-information-is-listed)
 
 [`-H`](#index-_002dH-2):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`-h`](#index-_002dh-5):
 
-
-
 [chown invocation](#chown-invocation)
 
 [`-H`](#index-_002dH-3):
-
-
 
 [chown invocation](#chown-invocation)
 
 [`-h`](#index-_002dh-6):
 
-
-
 [chgrp invocation](#chgrp-invocation)
 
 [`-H`](#index-_002dH-4):
-
-
 
 [chgrp invocation](#chgrp-invocation)
 
 [`-h`](#index-_002dh-7):
 
-
-
 [touch invocation](#touch-invocation)
 
 [`-h`](#index-_002dh-8):
-
-
 
 [df invocation](#df-invocation)
 
 [`-H`](#index-_002dH-5):
 
-
-
 [df invocation](#df-invocation)
 
 [`-H`](#index-_002dH-6):
-
-
 
 [du invocation](#du-invocation)
 
 [`-h`](#index-_002dh-9):
 
-
-
 [du invocation](#du-invocation)
 
 [`-h`](#index-_002dh-10):
-
-
 
 [File type tests](#File-type-tests)
 
 [`-H`](#index-_002dH-7):
 
-
-
 [who invocation](#who-invocation)
 
 [`-h`](#index-_002dh-11):
-
-
 
 [chcon invocation](#chcon-invocation)
 
 [`-H`](#index-_002dH-8):
 
-
-
 [chcon invocation](#chcon-invocation)
 
 [`-h`](#index-_002dh-12):
-
-
 
 [factor invocation](#factor-invocation)
 
 [`-i`](#index-_002di):
 
-
-
 [nl invocation](#nl-invocation)
 
 [`-i`](#index-_002di-1):
-
-
 
 [od invocation](#od-invocation)
 
 [`-i`](#index-_002di-2):
 
-
-
 [base64 invocation](#base64-invocation)
 
 [`-i`](#index-_002di-3):
-
-
 
 [pr invocation](#pr-invocation)
 
 [`-i`](#index-_002di-4):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`-i`](#index-_002di-5):
-
-
 
 [shuf invocation](#shuf-invocation)
 
 [`-i`](#index-_002di-6):
 
-
-
 [uniq invocation](#uniq-invocation)
 
 [`-i`](#index-_002di-7):
-
-
 
 [Input processing in ptx](#Input-processing-in-ptx)
 
 [`-i`](#index-_002di-8):
 
-
-
 [General options in join](#General-options-in-join)
 
 [`-i`](#index-_002di-9):
-
-
 
 [expand invocation](#expand-invocation)
 
 [`-I`](#index-_002dI):
 
-
-
 [Which files are listed](#Which-files-are-listed)
 
 [`-i`](#index-_002di-10):
-
-
 
 [What information is listed](#What-information-is-listed)
 
 [`-i`](#index-_002di-11):
 
-
-
 [cp invocation](#cp-invocation)
 
 [`-i`](#index-_002di-12):
-
-
 
 [mv invocation](#mv-invocation)
 
 [`-i`](#index-_002di-13):
 
-
-
 [rm invocation](#rm-invocation)
 
 [`-I`](#index-_002dI-1):
-
-
 
 [rm invocation](#rm-invocation)
 
 [`-i`](#index-_002di-14):
 
-
-
 [ln invocation](#ln-invocation)
 
 [`-i`](#index-_002di-15):
-
-
 
 [df invocation](#df-invocation)
 
 [`-i`](#index-_002di-16):
 
-
-
 [tee invocation](#tee-invocation)
 
 [`-i`](#index-_002di-17):
-
-
 
 [uname invocation](#uname-invocation)
 
 [`-i`](#index-_002di-18):
 
-
-
 [env invocation](#env-invocation)
 
 [`-i`](#index-_002di-19):
-
-
 
 [stdbuf invocation](#stdbuf-invocation)
 
 [`-I[timespec]`](#index-_002dI_005btimespec_005d):
 
-
-
 [Options for date](#Options-for-date)
 
 [`-j`](#index-_002dj):
-
-
 
 [od invocation](#od-invocation)
 
 [`-J`](#index-_002dJ):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`-k`](#index-_002dk):
-
-
 
 [Block size](#Block-size)
 
 [`-k`](#index-_002dk-1):
 
-
-
 [csplit invocation](#csplit-invocation)
 
 [`-k`](#index-_002dk-2):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`-k`](#index-_002dk-3):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [`-k`](#index-_002dk-4):
-
-
 
 [df invocation](#df-invocation)
 
 [`-k`](#index-_002dk-5):
 
-
-
 [du invocation](#du-invocation)
 
 [`-k`](#index-_002dk-6):
-
-
 
 [Access permission tests](#Access-permission-tests)
 
 [`-k`](#index-_002dk-7):
 
-
-
 [timeout invocation](#timeout-invocation)
 
 [`-L`](#index-_002dL):
-
-
 
 [Traversing symlinks](#Traversing-symlinks)
 
 [`-l`](#index-_002dl):
 
-
-
 [nl invocation](#nl-invocation)
 
 [`-l`](#index-_002dl-1):
-
-
 
 [od invocation](#od-invocation)
 
 [`-l`](#index-_002dl-2):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`-l`](#index-_002dl-3):
-
-
 
 [split invocation](#split-invocation)
 
 [`-l`](#index-_002dl-4):
 
-
-
 [wc invocation](#wc-invocation)
 
 [`-L`](#index-_002dL-1):
-
-
 
 [wc invocation](#wc-invocation)
 
 [`-l`](#index-_002dl-5):
 
-
-
 [cksum general options](#cksum-general-options)
 
 [`-l`](#index-_002dl-6):
-
-
 
 [b2sum invocation](#b2sum-invocation)
 
 [`-L`](#index-_002dL-2):
 
-
-
 [Which files are listed](#Which-files-are-listed)
 
 [`-l`](#index-_002dl-7):
-
-
 
 [What information is listed](#What-information-is-listed)
 
 [`-l`](#index-_002dl-8):
 
-
-
 [cp invocation](#cp-invocation)
 
 [`-L`](#index-_002dL-3):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`-L`](#index-_002dL-4):
 
-
-
 [ln invocation](#ln-invocation)
 
 [`-L`](#index-_002dL-5):
-
-
 
 [chown invocation](#chown-invocation)
 
 [`-L`](#index-_002dL-6):
 
-
-
 [chgrp invocation](#chgrp-invocation)
 
 [`-l`](#index-_002dl-9):
-
-
 
 [df invocation](#df-invocation)
 
 [`-L`](#index-_002dL-7):
 
-
-
 [du invocation](#du-invocation)
 
 [`-l`](#index-_002dl-10):
-
-
 
 [du invocation](#du-invocation)
 
 [`-L`](#index-_002dL-8):
 
-
-
 [stat invocation](#stat-invocation)
 
 [`-L`](#index-_002dL-9):
-
-
 
 [File type tests](#File-type-tests)
 
 [`-L`](#index-_002dL-10):
 
-
-
 [realpath invocation](#realpath-invocation)
 
 [`-L`](#index-_002dL-11):
-
-
 
 [pwd invocation](#pwd-invocation)
 
 [`-l`](#index-_002dl-11):
 
-
-
 [who invocation](#who-invocation)
 
 [`-L`](#index-_002dL-12):
-
-
 
 [chcon invocation](#chcon-invocation)
 
 [`-l`](#index-_002dl-12):
 
-
-
 [chcon invocation](#chcon-invocation)
 
 [`-l`](#index-_002dl-13):
-
-
 
 [runcon invocation](#runcon-invocation)
 
 [`-le`](#index-_002dle):
 
-
-
 [Numeric tests](#Numeric-tests)
 
 [`-lt`](#index-_002dlt):
-
-
 
 [Numeric tests](#Numeric-tests)
 
 [`-m`](#index-_002dm):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`-m`](#index-_002dm-1):
-
-
 
 [wc invocation](#wc-invocation)
 
 [`-m`](#index-_002dm-2):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`-M`](#index-_002dM):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`-M`](#index-_002dM-1):
 
-
-
 [Output formatting in ptx](#Output-formatting-in-ptx)
 
 [`-m`](#index-_002dm-3):
-
-
 
 [General output formatting](#General-output-formatting)
 
 [`-m`](#index-_002dm-4):
 
-
-
 [install invocation](#install-invocation)
 
 [`-m`](#index-_002dm-5):
-
-
 
 [mkdir invocation](#mkdir-invocation)
 
 [`-m`](#index-_002dm-6):
 
-
-
 [mkfifo invocation](#mkfifo-invocation)
 
 [`-m`](#index-_002dm-7):
-
-
 
 [mknod invocation](#mknod-invocation)
 
 [`-m`](#index-_002dm-8):
 
-
-
 [readlink invocation](#readlink-invocation)
 
 [`-m`](#index-_002dm-9):
-
-
 
 [touch invocation](#touch-invocation)
 
 [`-m`](#index-_002dm-10):
 
-
-
 [du invocation](#du-invocation)
 
 [`-m`](#index-_002dm-11):
-
-
 
 [realpath invocation](#realpath-invocation)
 
 [`-m`](#index-_002dm-12):
 
-
-
 [who invocation](#who-invocation)
 
 [`-m`](#index-_002dm-13):
-
-
 
 [uname invocation](#uname-invocation)
 
 [`-n`](#index-_002dn):
 
-
-
 [cat invocation](#cat-invocation)
 
 [`-n`](#index-_002dn-1):
-
-
 
 [nl invocation](#nl-invocation)
 
 [`-N`](#index-_002dN):
 
-
-
 [od invocation](#od-invocation)
 
 [`-n`](#index-_002dn-2):
-
-
 
 [pr invocation](#pr-invocation)
 
 [`-N`](#index-_002dN-1):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`-n`](#index-_002dn-3):
-
-
 
 [head invocation](#head-invocation)
 
 [`-n`](#index-_002dn-4):
 
-
-
 [tail invocation](#tail-invocation)
 
 [`-n`](#index-_002dn-5):
-
-
 
 [split invocation](#split-invocation)
 
 [`-n`](#index-_002dn-6):
 
-
-
 [csplit invocation](#csplit-invocation)
 
 [`-n`](#index-_002dn-7):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`-n`](#index-_002dn-8):
 
-
-
 [shuf invocation](#shuf-invocation)
 
 [`-n`](#index-_002dn-9):
-
-
 
 [cut invocation](#cut-invocation)
 
 [`-n`](#index-_002dn-10):
 
-
-
 [What information is listed](#What-information-is-listed)
 
 [`-N`](#index-_002dN-2):
-
-
 
 [Formatting the file names](#Formatting-the-file-names)
 
 [`-n`](#index-_002dn-11):
 
-
-
 [cp invocation](#cp-invocation)
 
 [`-n`](#index-_002dn-12):
-
-
 
 [mv invocation](#mv-invocation)
 
 [`-n`](#index-_002dn-13):
 
-
-
 [ln invocation](#ln-invocation)
 
 [`-n`](#index-_002dn-14):
-
-
 
 [readlink invocation](#readlink-invocation)
 
 [`-n`](#index-_002dn-15):
 
-
-
 [echo invocation](#echo-invocation)
 
 [`-N`](#index-_002dN-3):
-
-
 
 [File characteristic tests](#File-characteristic-tests)
 
 [`-n`](#index-_002dn-16):
 
-
-
 [String tests](#String-tests)
 
 [`-n`](#index-_002dn-17):
-
-
 
 [id invocation](#id-invocation)
 
 [`-n`](#index-_002dn-18):
 
-
-
 [uname invocation](#uname-invocation)
 
 [`-n`](#index-_002dn-19):
-
-
 
 [nice invocation](#nice-invocation)
 
 [`-n number`](#index-_002dn-number):
 
-
-
 [shred invocation](#shred-invocation)
 
 [`-ne`](#index-_002dne):
-
-
 
 [Numeric tests](#Numeric-tests)
 
 [`-nt`](#index-_002dnt):
 
-
-
 [File characteristic tests](#File-characteristic-tests)
 
 [`-o`](#index-_002do):
-
-
 
 [od invocation](#od-invocation)
 
 [`-o`](#index-_002do-1):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`-o`](#index-_002do-2):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`-o`](#index-_002do-3):
 
-
-
 [shuf invocation](#shuf-invocation)
 
 [`-o`](#index-_002do-4):
-
-
 
 [Input processing in ptx](#Input-processing-in-ptx)
 
 [`-O`](#index-_002dO):
 
-
-
 [Output formatting in ptx](#Output-formatting-in-ptx)
 
 [`-o`](#index-_002do-5):
-
-
 
 [What information is listed](#What-information-is-listed)
 
 [`-o`](#index-_002do-6):
 
-
-
 [install invocation](#install-invocation)
 
 [`-o`](#index-_002do-7):
-
-
 
 [truncate invocation](#truncate-invocation)
 
 [`-O`](#index-_002dO-1):
 
-
-
 [Access permission tests](#Access-permission-tests)
 
 [`-o`](#index-_002do-8):
-
-
 
 [Connectives for test](#Connectives-for-test)
 
 [`-o`](#index-_002do-9):
 
-
-
 [uname invocation](#uname-invocation)
 
 [`-o`](#index-_002do-10):
-
-
 
 [stdbuf invocation](#stdbuf-invocation)
 
 [`-ot`](#index-_002dot):
 
-
-
 [File characteristic tests](#File-characteristic-tests)
 
 [`-P`](#index-_002dP):
-
-
 
 [Traversing symlinks](#Traversing-symlinks)
 
 [`-p`](#index-_002dp):
 
-
-
 [nl invocation](#nl-invocation)
 
 [`-p`](#index-_002dp-1):
-
-
 
 [General output formatting](#General-output-formatting)
 
 [`-p`](#index-_002dp-2):
 
-
-
 [dircolors invocation](#dircolors-invocation)
 
 [`-P`](#index-_002dP-1):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`-p`](#index-_002dp-3):
 
-
-
 [cp invocation](#cp-invocation)
 
 [`-p`](#index-_002dp-4):
-
-
 
 [install invocation](#install-invocation)
 
 [`-P`](#index-_002dP-2):
 
-
-
 [ln invocation](#ln-invocation)
 
 [`-p`](#index-_002dp-5):
-
-
 
 [mkdir invocation](#mkdir-invocation)
 
 [`-p`](#index-_002dp-6):
 
-
-
 [rmdir invocation](#rmdir-invocation)
 
 [`-P`](#index-_002dP-3):
-
-
 
 [chown invocation](#chown-invocation)
 
 [`-P`](#index-_002dP-4):
 
-
-
 [chgrp invocation](#chgrp-invocation)
 
 [`-P`](#index-_002dP-5):
-
-
 
 [df invocation](#df-invocation)
 
 [`-P`](#index-_002dP-6):
 
-
-
 [du invocation](#du-invocation)
 
 [`-p`](#index-_002dp-7):
-
-
 
 [File type tests](#File-type-tests)
 
 [`-p`](#index-_002dp-8):
 
-
-
 [tee invocation](#tee-invocation)
 
 [`-p`](#index-_002dp-9):
-
-
 
 [pathchk invocation](#pathchk-invocation)
 
 [`-P`](#index-_002dP-7):
 
-
-
 [pathchk invocation](#pathchk-invocation)
 
 [`-p`](#index-_002dp-10):
-
-
 
 [mktemp invocation](#mktemp-invocation)
 
 [`-P`](#index-_002dP-8):
 
-
-
 [realpath invocation](#realpath-invocation)
 
 [`-P`](#index-_002dP-9):
-
-
 
 [pwd invocation](#pwd-invocation)
 
 [`-p`](#index-_002dp-11):
 
-
-
 [who invocation](#who-invocation)
 
 [`-p`](#index-_002dp-12):
-
-
 
 [uname invocation](#uname-invocation)
 
 [`-P`](#index-_002dP-10):
 
-
-
 [chcon invocation](#chcon-invocation)
 
 [`-q`](#index-_002dq):
-
-
 
 [head invocation](#head-invocation)
 
 [`-q`](#index-_002dq-1):
 
-
-
 [tail invocation](#tail-invocation)
 
 [`-q`](#index-_002dq-2):
-
-
 
 [csplit invocation](#csplit-invocation)
 
 [`-q`](#index-_002dq-3):
 
-
-
 [Formatting the file names](#Formatting-the-file-names)
 
 [`-Q`](#index-_002dQ):
-
-
 
 [Formatting the file names](#Formatting-the-file-names)
 
 [`-q`](#index-_002dq-4):
 
-
-
 [readlink invocation](#readlink-invocation)
 
 [`-q`](#index-_002dq-5):
-
-
 
 [mktemp invocation](#mktemp-invocation)
 
 [`-q`](#index-_002dq-6):
 
-
-
 [realpath invocation](#realpath-invocation)
 
 [`-q`](#index-_002dq-7):
-
-
 
 [who invocation](#who-invocation)
 
 [`-r`](#index-_002dr):
 
-
-
 [tac invocation](#tac-invocation)
 
 [`-r`](#index-_002dr-1):
-
-
 
 [pr invocation](#pr-invocation)
 
 [`-r`](#index-_002dr-2):
 
-
-
 [sum invocation](#sum-invocation)
 
 [`-r`](#index-_002dr-3):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`-R`](#index-_002dR):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`-r`](#index-_002dr-4):
-
-
 
 [shuf invocation](#shuf-invocation)
 
 [`-r`](#index-_002dr-5):
 
-
-
 [Input processing in ptx](#Input-processing-in-ptx)
 
 [`-R`](#index-_002dR-1):
-
-
 
 [Output formatting in ptx](#Output-formatting-in-ptx)
 
 [`-R`](#index-_002dR-2):
 
-
-
 [Which files are listed](#Which-files-are-listed)
 
 [`-r`](#index-_002dr-6):
-
-
 
 [Sorting the output](#Sorting-the-output)
 
 [`-R`](#index-_002dR-3):
 
-
-
 [cp invocation](#cp-invocation)
 
 [`-r`](#index-_002dr-7):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`-r`](#index-_002dr-8):
 
-
-
 [rm invocation](#rm-invocation)
 
 [`-R`](#index-_002dR-4):
-
-
 
 [rm invocation](#rm-invocation)
 
 [`-r`](#index-_002dr-9):
 
-
-
 [ln invocation](#ln-invocation)
 
 [`-R`](#index-_002dR-5):
-
-
 
 [chown invocation](#chown-invocation)
 
 [`-R`](#index-_002dR-6):
 
-
-
 [chgrp invocation](#chgrp-invocation)
 
 [`-R`](#index-_002dR-7):
-
-
 
 [chmod invocation](#chmod-invocation)
 
 [`-r`](#index-_002dr-10):
 
-
-
 [touch invocation](#touch-invocation)
 
 [`-r`](#index-_002dr-11):
-
-
 
 [truncate invocation](#truncate-invocation)
 
 [`-r`](#index-_002dr-12):
 
-
-
 [Access permission tests](#Access-permission-tests)
 
 [`-r`](#index-_002dr-13):
-
-
 
 [id invocation](#id-invocation)
 
 [`-r`](#index-_002dr-14):
 
-
-
 [who invocation](#who-invocation)
 
 [`-r`](#index-_002dr-15):
-
-
 
 [Options for date](#Options-for-date)
 
 [`-R`](#index-_002dR-8):
 
-
-
 [Options for date](#Options-for-date)
 
 [`-r`](#index-_002dr-16):
-
-
 
 [uname invocation](#uname-invocation)
 
 [`-R`](#index-_002dR-9):
 
-
-
 [chcon invocation](#chcon-invocation)
 
 [`-r`](#index-_002dr-17):
-
-
 
 [chcon invocation](#chcon-invocation)
 
 [`-r`](#index-_002dr-18):
 
-
-
 [runcon invocation](#runcon-invocation)
 
 [`-S`](#index-_002dS):
-
-
 
 [Backup options](#Backup-options)
 
 [`-s`](#index-_002ds):
 
-
-
 [cat invocation](#cat-invocation)
 
 [`-s`](#index-_002ds-1):
-
-
 
 [tac invocation](#tac-invocation)
 
 [`-s`](#index-_002ds-2):
 
-
-
 [nl invocation](#nl-invocation)
 
 [`-S`](#index-_002dS-1):
-
-
 
 [od invocation](#od-invocation)
 
 [`-s`](#index-_002ds-3):
 
-
-
 [od invocation](#od-invocation)
 
 [`-s`](#index-_002ds-4):
-
-
 
 [fmt invocation](#fmt-invocation)
 
 [`-s`](#index-_002ds-5):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`-S`](#index-_002dS-2):
-
-
 
 [pr invocation](#pr-invocation)
 
 [`-s`](#index-_002ds-6):
 
-
-
 [fold invocation](#fold-invocation)
 
 [`-s`](#index-_002ds-7):
-
-
 
 [tail invocation](#tail-invocation)
 
 [`-s`](#index-_002ds-8):
 
-
-
 [csplit invocation](#csplit-invocation)
 
 [`-s`](#index-_002ds-9):
-
-
 
 [sum invocation](#sum-invocation)
 
 [`-s`](#index-_002ds-10):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`-S`](#index-_002dS-3):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`-s`](#index-_002ds-11):
 
-
-
 [uniq invocation](#uniq-invocation)
 
 [`-S`](#index-_002dS-4):
-
-
 
 [Input processing in ptx](#Input-processing-in-ptx)
 
 [`-s`](#index-_002ds-12):
 
-
-
 [cut invocation](#cut-invocation)
 
 [`-s`](#index-_002ds-13):
-
-
 
 [paste invocation](#paste-invocation)
 
 [`-s`](#index-_002ds-14):
 
-
-
 [tr invocation](#tr-invocation)
 
 [`-s`](#index-_002ds-15):
-
-
 
 [What information is listed](#What-information-is-listed)
 
 [`-S`](#index-_002dS-5):
 
-
-
 [Sorting the output](#Sorting-the-output)
 
 [`-s`](#index-_002ds-16):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`-S`](#index-_002dS-6):
 
-
-
 [cp invocation](#cp-invocation)
 
 [`-s`](#index-_002ds-17):
-
-
 
 [install invocation](#install-invocation)
 
 [`-S`](#index-_002dS-7):
 
-
-
 [install invocation](#install-invocation)
 
 [`-S`](#index-_002dS-8):
-
-
 
 [mv invocation](#mv-invocation)
 
 [`-s`](#index-_002ds-18):
 
-
-
 [ln invocation](#ln-invocation)
 
 [`-S`](#index-_002dS-9):
-
-
 
 [ln invocation](#ln-invocation)
 
 [`-s`](#index-_002ds-19):
 
-
-
 [readlink invocation](#readlink-invocation)
 
 [`-S`](#index-_002dS-10):
-
-
 
 [du invocation](#du-invocation)
 
 [`-s`](#index-_002ds-20):
 
-
-
 [du invocation](#du-invocation)
 
 [`-s`](#index-_002ds-21):
-
-
 
 [truncate invocation](#truncate-invocation)
 
 [`-S`](#index-_002dS-11):
 
-
-
 [File type tests](#File-type-tests)
 
 [`-s`](#index-_002ds-22):
-
-
 
 [File characteristic tests](#File-characteristic-tests)
 
 [`-s`](#index-_002ds-23):
 
-
-
 [basename invocation](#basename-invocation)
 
 [`-s`](#index-_002ds-24):
-
-
 
 [realpath invocation](#realpath-invocation)
 
 [`-s`](#index-_002ds-25):
 
-
-
 [tty invocation](#tty-invocation)
 
 [`-s`](#index-_002ds-26):
-
-
 
 [who invocation](#who-invocation)
 
 [`-s`](#index-_002ds-27):
 
-
-
 [Options for date](#Options-for-date)
 
 [`-s`](#index-_002ds-28):
-
-
 
 [uname invocation](#uname-invocation)
 
 [`-S`](#index-_002dS-12):
 
-
-
 [env invocation](#env-invocation)
 
 [`-s`](#index-_002ds-29):
-
-
 
 [timeout invocation](#timeout-invocation)
 
 [`-s`](#index-_002ds-30):
 
-
-
 [seq invocation](#seq-invocation)
 
 [`-s bytes`](#index-_002ds-bytes):
-
-
 
 [shred invocation](#shred-invocation)
 
 [\-S, env and single quotes](#index-_002dS_002c-env-and-single-quotes):
 
-
-
 [env invocation](#env-invocation)
 
 [`-t`](#index-_002dt):
-
-
 
 [cat invocation](#cat-invocation)
 
 [`-T`](#index-_002dT):
 
-
-
 [cat invocation](#cat-invocation)
 
 [`-t`](#index-_002dt-1):
-
-
 
 [od invocation](#od-invocation)
 
 [`-t`](#index-_002dt-2):
 
-
-
 [fmt invocation](#fmt-invocation)
 
 [`-t`](#index-_002dt-3):
-
-
 
 [pr invocation](#pr-invocation)
 
 [`-T`](#index-_002dT-1):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`-t`](#index-_002dt-4):
-
-
 
 [split invocation](#split-invocation)
 
 [`-t`](#index-_002dt-5):
 
-
-
 [cksum common options](#cksum-common-options)
 
 [`-t`](#index-_002dt-6):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`-T`](#index-_002dT-2):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`-T`](#index-_002dT-3):
-
-
 
 [Output formatting in ptx](#Output-formatting-in-ptx)
 
 [`-t`](#index-_002dt-7):
 
-
-
 [tr invocation](#tr-invocation)
 
 [`-t`](#index-_002dt-8):
-
-
 
 [expand invocation](#expand-invocation)
 
 [`-t`](#index-_002dt-9):
 
-
-
 [unexpand invocation](#unexpand-invocation)
 
 [`-t`](#index-_002dt-10):
-
-
 
 [Sorting the output](#Sorting-the-output)
 
 [`-T`](#index-_002dT-4):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [`-t`](#index-_002dt-11):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`-T`](#index-_002dT-5):
 
-
-
 [cp invocation](#cp-invocation)
 
 [`-t`](#index-_002dt-12):
-
-
 
 [install invocation](#install-invocation)
 
 [`-T`](#index-_002dT-6):
 
-
-
 [install invocation](#install-invocation)
 
 [`-t`](#index-_002dt-13):
-
-
 
 [mv invocation](#mv-invocation)
 
 [`-T`](#index-_002dT-7):
 
-
-
 [mv invocation](#mv-invocation)
 
 [`-t`](#index-_002dt-14):
-
-
 
 [ln invocation](#ln-invocation)
 
 [`-T`](#index-_002dT-8):
 
-
-
 [ln invocation](#ln-invocation)
 
 [`-t`](#index-_002dt-15):
-
-
 
 [df invocation](#df-invocation)
 
 [`-T`](#index-_002dT-9):
 
-
-
 [df invocation](#df-invocation)
 
 [`-t`](#index-_002dt-16):
-
-
 
 [du invocation](#du-invocation)
 
 [`-t`](#index-_002dt-17):
 
-
-
 [stat invocation](#stat-invocation)
 
 [`-t`](#index-_002dt-18):
-
-
 
 [File type tests](#File-type-tests)
 
 [`-t`](#index-_002dt-19):
 
-
-
 [mktemp invocation](#mktemp-invocation)
 
 [`-t`](#index-_002dt-20):
-
-
 
 [who invocation](#who-invocation)
 
 [`-T`](#index-_002dT-10):
 
-
-
 [who invocation](#who-invocation)
 
 [`-t`](#index-_002dt-21):
-
-
 
 [chcon invocation](#chcon-invocation)
 
 [`-t`](#index-_002dt-22):
 
-
-
 [runcon invocation](#runcon-invocation)
 
 [`-u`](#index-_002du):
-
-
 
 [cat invocation](#cat-invocation)
 
 [`-u`](#index-_002du-1):
 
-
-
 [fmt invocation](#fmt-invocation)
 
 [`-u`](#index-_002du-2):
-
-
 
 [split invocation](#split-invocation)
 
 [`-u`](#index-_002du-3):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`-u`](#index-_002du-4):
-
-
 
 [uniq invocation](#uniq-invocation)
 
 [`-u`](#index-_002du-5):
 
-
-
 [Sorting the output](#Sorting-the-output)
 
 [`-U`](#index-_002dU):
-
-
 
 [Sorting the output](#Sorting-the-output)
 
 [`-u`](#index-_002du-6):
 
-
-
 [cp invocation](#cp-invocation)
 
 [`-u`](#index-_002du-7):
-
-
 
 [mv invocation](#mv-invocation)
 
 [`-u`](#index-_002du-8):
 
-
-
 [shred invocation](#shred-invocation)
 
 [`-u`](#index-_002du-9):
-
-
 
 [Access permission tests](#Access-permission-tests)
 
 [`-u`](#index-_002du-10):
 
-
-
 [mktemp invocation](#mktemp-invocation)
 
 [`-u`](#index-_002du-11):
-
-
 
 [id invocation](#id-invocation)
 
 [`-u`](#index-_002du-12):
 
-
-
 [who invocation](#who-invocation)
 
 [`-u`](#index-_002du-13):
-
-
 
 [Options for date](#Options-for-date)
 
 [`-u`](#index-_002du-14):
 
-
-
 [chcon invocation](#chcon-invocation)
 
 [`-u`](#index-_002du-15):
-
-
 
 [runcon invocation](#runcon-invocation)
 
 [`-u`](#index-_002du-16):
 
-
-
 [env invocation](#env-invocation)
 
 [`-v`](#index-_002dv):
-
-
 
 [cat invocation](#cat-invocation)
 
 [`-v`](#index-_002dv-1):
 
-
-
 [nl invocation](#nl-invocation)
 
 [`-v`](#index-_002dv-2):
-
-
 
 [od invocation](#od-invocation)
 
 [`-v`](#index-_002dv-3):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`-v`](#index-_002dv-4):
-
-
 
 [head invocation](#head-invocation)
 
 [`-v`](#index-_002dv-5):
 
-
-
 [tail invocation](#tail-invocation)
 
 [`-V`](#index-_002dV):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`-v`](#index-_002dv-6):
 
-
-
 [Sorting the output](#Sorting-the-output)
 
 [`-v`](#index-_002dv-7):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`-v`](#index-_002dv-8):
 
-
-
 [install invocation](#install-invocation)
 
 [`-v`](#index-_002dv-9):
-
-
 
 [mv invocation](#mv-invocation)
 
 [`-v`](#index-_002dv-10):
 
-
-
 [rm invocation](#rm-invocation)
 
 [`-v`](#index-_002dv-11):
-
-
 
 [shred invocation](#shred-invocation)
 
 [`-v`](#index-_002dv-12):
 
-
-
 [ln invocation](#ln-invocation)
 
 [`-v`](#index-_002dv-13):
-
-
 
 [mkdir invocation](#mkdir-invocation)
 
 [`-v`](#index-_002dv-14):
 
-
-
 [readlink invocation](#readlink-invocation)
 
 [`-v`](#index-_002dv-15):
-
-
 
 [rmdir invocation](#rmdir-invocation)
 
 [`-v`](#index-_002dv-16):
 
-
-
 [chown invocation](#chown-invocation)
 
 [`-v`](#index-_002dv-17):
-
-
 
 [chgrp invocation](#chgrp-invocation)
 
 [`-v`](#index-_002dv-18):
 
-
-
 [chmod invocation](#chmod-invocation)
 
 [`-v`](#index-_002dv-19):
-
-
 
 [uname invocation](#uname-invocation)
 
 [`-v`](#index-_002dv-20):
 
-
-
 [chcon invocation](#chcon-invocation)
 
 [`-v`](#index-_002dv-21):
-
-
 
 [env invocation](#env-invocation)
 
 [`-v`](#index-_002dv-22):
 
-
-
 [timeout invocation](#timeout-invocation)
 
 [`-w`](#index-_002dw):
-
-
 
 [nl invocation](#nl-invocation)
 
 [`-w`](#index-_002dw-1):
 
-
-
 [od invocation](#od-invocation)
 
 [`-w`](#index-_002dw-2):
-
-
 
 [base64 invocation](#base64-invocation)
 
 [`-w`](#index-_002dw-3):
 
-
-
 [fmt invocation](#fmt-invocation)
 
 [`-w`](#index-_002dw-4):
-
-
 
 [pr invocation](#pr-invocation)
 
 [`-W`](#index-_002dW):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`-w`](#index-_002dw-5):
-
-
 
 [fold invocation](#fold-invocation)
 
 [`-w`](#index-_002dw-6):
 
-
-
 [wc invocation](#wc-invocation)
 
 [`-w`](#index-_002dw-7):
-
-
 
 [cksum common options](#cksum-common-options)
 
 [`-w`](#index-_002dw-8):
 
-
-
 [uniq invocation](#uniq-invocation)
 
 [`-W`](#index-_002dW-1):
-
-
 
 [Input processing in ptx](#Input-processing-in-ptx)
 
 [`-w`](#index-_002dw-9):
 
-
-
 [Output formatting in ptx](#Output-formatting-in-ptx)
 
 [`-w`](#index-_002dw-10):
-
-
 
 [General output formatting](#General-output-formatting)
 
 [`-w`](#index-_002dw-11):
 
-
-
 [Access permission tests](#Access-permission-tests)
 
 [`-w`](#index-_002dw-12):
-
-
 
 [who invocation](#who-invocation)
 
 [`-w`](#index-_002dw-13):
 
-
-
 [seq invocation](#seq-invocation)
 
 [`-width`](#index-_002dwidth):
-
-
 
 [fmt invocation](#fmt-invocation)
 
 [`-x`](#index-_002dx):
 
-
-
 [od invocation](#od-invocation)
 
 [`-x`](#index-_002dx-1):
-
-
 
 [split invocation](#split-invocation)
 
 [`-X`](#index-_002dX):
 
-
-
 [Sorting the output](#Sorting-the-output)
 
 [`-x`](#index-_002dx-2):
-
-
 
 [General output formatting](#General-output-formatting)
 
 [`-x`](#index-_002dx-3):
 
-
-
 [cp invocation](#cp-invocation)
 
 [`-x`](#index-_002dx-4):
-
-
 
 [shred invocation](#shred-invocation)
 
 [`-x`](#index-_002dx-5):
 
-
-
 [df invocation](#df-invocation)
 
 [`-x`](#index-_002dx-6):
-
-
 
 [du invocation](#du-invocation)
 
 [`-x`](#index-_002dx-7):
 
-
-
 [Access permission tests](#Access-permission-tests)
 
 [`-X file`](#index-_002dX-file):
-
-
 
 [du invocation](#du-invocation)
 
 [`-z`](#index-_002dz):
 
-
-
 [head invocation](#head-invocation)
 
 [`-z`](#index-_002dz-1):
-
-
 
 [tail invocation](#tail-invocation)
 
 [`-z`](#index-_002dz-2):
 
-
-
 [csplit invocation](#csplit-invocation)
 
 [`-z`](#index-_002dz-3):
-
-
 
 [cksum common options](#cksum-common-options)
 
 [`-z`](#index-_002dz-4):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`-z`](#index-_002dz-5):
-
-
 
 [shuf invocation](#shuf-invocation)
 
 [`-z`](#index-_002dz-6):
 
-
-
 [uniq invocation](#uniq-invocation)
 
 [`-z`](#index-_002dz-7):
-
-
 
 [comm invocation](#comm-invocation)
 
 [`-z`](#index-_002dz-8):
 
-
-
 [cut invocation](#cut-invocation)
 
 [`-z`](#index-_002dz-9):
-
-
 
 [paste invocation](#paste-invocation)
 
 [`-z`](#index-_002dz-10):
 
-
-
 [General options in join](#General-options-in-join)
 
 [`-Z`](#index-_002dZ):
-
-
 
 [What information is listed](#What-information-is-listed)
 
 [`-Z`](#index-_002dZ-1):
 
-
-
 [cp invocation](#cp-invocation)
 
 [`-Z`](#index-_002dZ-2):
-
-
 
 [install invocation](#install-invocation)
 
 [`-Z`](#index-_002dZ-3):
 
-
-
 [mv invocation](#mv-invocation)
 
 [`-z`](#index-_002dz-11):
-
-
 
 [shred invocation](#shred-invocation)
 
 [`-Z`](#index-_002dZ-4):
 
-
-
 [mkdir invocation](#mkdir-invocation)
 
 [`-Z`](#index-_002dZ-5):
-
-
 
 [mkfifo invocation](#mkfifo-invocation)
 
 [`-Z`](#index-_002dZ-6):
 
-
-
 [mknod invocation](#mknod-invocation)
 
 [`-z`](#index-_002dz-12):
-
-
 
 [readlink invocation](#readlink-invocation)
 
 [`-z`](#index-_002dz-13):
 
-
-
 [String tests](#String-tests)
 
 [`-z`](#index-_002dz-14):
-
-
 
 [basename invocation](#basename-invocation)
 
 [`-z`](#index-_002dz-15):
 
-
-
 [dirname invocation](#dirname-invocation)
 
 [`-z`](#index-_002dz-16):
-
-
 
 [realpath invocation](#realpath-invocation)
 
 [`-Z`](#index-_002dZ-7):
 
-
-
 [id invocation](#id-invocation)
 
 [`-z`](#index-_002dz-17):
 
-
-
 [id invocation](#id-invocation)
 
 [`-z`](#index-_002dz-18):
-
-
 
 [numfmt invocation](#numfmt-invocation)
 
@@ -21017,8 +18647,6 @@ Section
 
 [`/`](#index-_002f):
 
-
-
 [Numeric expressions](#Numeric-expressions)
 
 ---
@@ -21027,19 +18655,13 @@ Section
 
 [128-bit checksum](#index-128_002dbit-checksum):
 
-
-
 [md5sum invocation](#md5sum-invocation)
 
 [16-bit checksum](#index-16_002dbit-checksum):
 
-
-
 [sum invocation](#sum-invocation)
 
 [160-bit checksum](#index-160_002dbit-checksum):
-
-
 
 [sha1sum invocation](#sha1sum-invocation)
 
@@ -21049,13 +18671,9 @@ Section
 
 [224-bit checksum](#index-224_002dbit-checksum):
 
-
-
 [sha2 utilities](#sha2-utilities)
 
 [256-bit checksum](#index-256_002dbit-checksum):
-
-
 
 [sha2 utilities](#sha2-utilities)
 
@@ -21065,13 +18683,9 @@ Section
 
 [32-bit checksum](#index-32_002dbit-checksum):
 
-
-
 [cksum invocation](#cksum-invocation)
 
 [384-bit checksum](#index-384_002dbit-checksum):
-
-
 
 [sha2 utilities](#sha2-utilities)
 
@@ -21081,13 +18695,9 @@ Section
 
 [512-bit checksum](#index-512_002dbit-checksum):
 
-
-
 [b2sum invocation](#b2sum-invocation)
 
 [512-bit checksum](#index-512_002dbit-checksum-1):
-
-
 
 [sha2 utilities](#sha2-utilities)
 
@@ -21097,13 +18707,9 @@ Section
 
 [`<`](#index-_003c):
 
-
-
 [Relations for expr](#Relations-for-expr)
 
 [`<=`](#index-_003c_003d):
-
-
 
 [Relations for expr](#Relations-for-expr)
 
@@ -21113,25 +18719,17 @@ Section
 
 [`=`](#index-_003d):
 
-
-
 [Relations for expr](#Relations-for-expr)
 
 [`=`](#index-_003d-1):
-
-
 
 [String tests](#String-tests)
 
 [`==`](#index-_003d_003d):
 
-
-
 [Relations for expr](#Relations-for-expr)
 
 [`==`](#index-_003d_003d-1):
-
-
 
 [String tests](#String-tests)
 
@@ -21141,13 +18739,9 @@ Section
 
 [`>`](#index-_003e):
 
-
-
 [Relations for expr](#Relations-for-expr)
 
 [`>=`](#index-_003e_003d):
-
-
 
 [Relations for expr](#Relations-for-expr)
 
@@ -21157,55 +18751,37 @@ Section
 
 [`\( regexp operator`](#index-_005c_0028-regexp-operator):
 
-
-
 [String expressions](#String-expressions)
 
 [`\+ regexp operator`](#index-_005c_002b-regexp-operator):
-
-
 
 [String expressions](#String-expressions)
 
 [`\? regexp operator`](#index-_005c_003f-regexp-operator):
 
-
-
 [String expressions](#String-expressions)
 
 [`\c`](#index-_005cc):
-
-
 
 [printf invocation](#printf-invocation)
 
 [`\ooo`](#index-_005cooo):
 
-
-
 [printf invocation](#printf-invocation)
 
 [`\uhhhh`](#index-_005cuhhhh):
-
-
 
 [printf invocation](#printf-invocation)
 
 [`\Uhhhhhhhh`](#index-_005cUhhhhhhhh):
 
-
-
 [printf invocation](#printf-invocation)
 
 [`\xhh`](#index-_005cxhh):
 
-
-
 [printf invocation](#printf-invocation)
 
 [`\| regexp operator`](#index-_005c_007c-regexp-operator):
-
-
 
 [String expressions](#String-expressions)
 
@@ -21215,31 +18791,21 @@ Section
 
 [`_POSIX2_VERSION`](#index-_005fPOSIX2_005fVERSION):
 
-
-
 [Standards conformance](#Standards-conformance)
 
 [`_POSIX2_VERSION`](#index-_005fPOSIX2_005fVERSION-1):
-
-
 
 [tail invocation](#tail-invocation)
 
 [`_POSIX2_VERSION`](#index-_005fPOSIX2_005fVERSION-2):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`_POSIX2_VERSION`](#index-_005fPOSIX2_005fVERSION-3):
 
-
-
 [uniq invocation](#uniq-invocation)
 
 [`_POSIX2_VERSION`](#index-_005fPOSIX2_005fVERSION-4):
-
-
 
 [touch invocation](#touch-invocation)
 
@@ -21249,8 +18815,6 @@ Section
 
 [`|`](#index-_007c):
 
-
-
 [Relations for expr](#Relations-for-expr)
 
 ---
@@ -21259,319 +18823,213 @@ A
 
 [abbreviations for months](#index-abbreviations-for-months):
 
-
-
 [Calendar date items](#Calendar-date-items)
 
 [access control lists (ACLs)](#index-access-control-lists-_0028ACLs_0029):
-
-
 
 [cp invocation](#cp-invocation)
 
 [access control lists (ACLs)](#index-access-control-lists-_0028ACLs_0029-1):
 
-
-
 [cp invocation](#cp-invocation)
 
 [access permission tests](#index-access-permission-tests):
-
-
 
 [Access permission tests](#Access-permission-tests)
 
 [access permissions, changing](#index-access-permissions_002c-changing):
 
-
-
 [chmod invocation](#chmod-invocation)
 
 [`access time, changing`](#index-access-time_002c-changing):
-
-
 
 [touch invocation](#touch-invocation)
 
 [access timestamp](#index-access-timestamp):
 
-
-
 [dd invocation](#dd-invocation)
 
 [`access timestamp, printing or sorting files by`](#index-access-timestamp_002c-printing-or-sorting-files-by):
-
-
 
 [Sorting the output](#Sorting-the-output)
 
 [`access timestamp, show the most recent`](#index-access-timestamp_002c-show-the-most-recent):
 
-
-
 [du invocation](#du-invocation)
 
 [across columns](#index-across-columns):
-
-
 
 [pr invocation](#pr-invocation)
 
 [`across, listing files`](#index-across_002c-listing-files):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [adding permissions](#index-adding-permissions):
-
-
 
 [Setting Permissions](#Setting-Permissions)
 
 [addition](#index-addition):
 
-
-
 [Numeric expressions](#Numeric-expressions)
 
 [`ago in date strings`](#index-ago-in-date-strings):
-
-
 
 [Relative items in date strings](#Relative-items-in-date-strings)
 
 [all lines, grouping](#index-all-lines_002c-grouping):
 
-
-
 [uniq invocation](#uniq-invocation)
 
 [all repeated lines, outputting](#index-all-repeated-lines_002c-outputting):
-
-
 
 [uniq invocation](#uniq-invocation)
 
 [`alnum`](#index-alnum):
 
-
-
 [Character arrays](#Character-arrays)
 
 [`alpha`](#index-alpha):
-
-
 
 [Character arrays](#Character-arrays)
 
 [`alternate ebcdic, converting to`](#index-alternate-ebcdic_002c-converting-to):
 
-
-
 [dd invocation](#dd-invocation)
 
 [`always classify option`](#index-always-classify-option):
-
-
 
 [General output formatting](#General-output-formatting)
 
 [`always color option`](#index-always-color-option):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [`always hyperlink option`](#index-always-hyperlink-option):
-
-
 
 [General output formatting](#General-output-formatting)
 
 [`always interactive option`](#index-always-interactive-option):
 
-
-
 [rm invocation](#rm-invocation)
 
 [`always total option`](#index-always-total-option):
-
-
 
 [wc invocation](#wc-invocation)
 
 [`am i`](#index-am-i):
 
-
-
 [who invocation](#who-invocation)
 
 [`am in date strings`](#index-am-in-date-strings):
-
-
 
 [Time of day items](#Time-of-day-items)
 
 [and operator](#index-and-operator):
 
-
-
 [Connectives for test](#Connectives-for-test)
 
 [and operator](#index-and-operator-1):
-
-
 
 [Relations for expr](#Relations-for-expr)
 
 [`append`](#index-append):
 
-
-
 [dd invocation](#dd-invocation)
 
 [appending to the output file](#index-appending-to-the-output-file):
-
-
 
 [dd invocation](#dd-invocation)
 
 [appropriate privileges](#index-appropriate-privileges):
 
-
-
 [install invocation](#install-invocation)
 
 [appropriate privileges](#index-appropriate-privileges-1):
-
-
 
 [Setting the time](#Setting-the-time)
 
 [appropriate privileges](#index-appropriate-privileges-2):
 
-
-
 [hostname invocation](#hostname-invocation)
 
 [appropriate privileges](#index-appropriate-privileges-3):
-
-
 
 [nice invocation](#nice-invocation)
 
 [arbitrary date strings, debugging](#index-arbitrary-date-strings_002c-debugging):
 
-
-
 [Options for date](#Options-for-date)
 
 [arbitrary date strings, parsing](#index-arbitrary-date-strings_002c-parsing):
-
-
 
 [Options for date](#Options-for-date)
 
 [arbitrary text, displaying](#index-arbitrary-text_002c-displaying):
 
-
-
 [echo invocation](#echo-invocation)
 
 [`arch`](#index-arch):
-
-
 
 [arch invocation](#arch-invocation)
 
 [arithmetic tests](#index-arithmetic-tests):
 
-
-
 [Numeric tests](#Numeric-tests)
 
 [arrays of characters in `tr`](#index-arrays-of-characters-in-tr):
-
-
 
 [Character arrays](#Character-arrays)
 
 [ASCII dump of files](#index-ASCII-dump-of-files):
 
-
-
 [od invocation](#od-invocation)
 
 [`ascii, converting to`](#index-ascii_002c-converting-to):
-
-
 
 [dd invocation](#dd-invocation)
 
 [atime](#index-atime):
 
-
-
 [File timestamps](#File-timestamps)
 
 [`atime, changing`](#index-atime_002c-changing):
-
-
 
 [touch invocation](#touch-invocation)
 
 [`atime, printing or sorting files by`](#index-atime_002c-printing-or-sorting-files-by):
 
-
-
 [Sorting the output](#Sorting-the-output)
 
 [`atime, show the most recent`](#index-atime_002c-show-the-most-recent):
-
-
 
 [du invocation](#du-invocation)
 
 [attribute caching](#index-attribute-caching):
 
-
-
 [stat invocation](#stat-invocation)
 
 [attributes, file](#index-attributes_002c-file):
-
-
 
 [Changing file attributes](#Changing-file-attributes)
 
 [authors of `parse_datetime`](#index-authors-of-parse_005fdatetime):
 
-
-
 [Authors of parse_datetime](#Authors-of-parse_005fdatetime)
 
 [`auto classify option`](#index-auto-classify-option):
-
-
 
 [General output formatting](#General-output-formatting)
 
 [`auto color option`](#index-auto-color-option):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [`auto hyperlink option`](#index-auto-hyperlink-option):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [`auto total option`](#index-auto-total-option):
-
-
 
 [wc invocation](#wc-invocation)
 
@@ -21581,493 +19039,329 @@ B
 
 [`b for block special file`](#index-b-for-block-special-file):
 
-
-
 [mknod invocation](#mknod-invocation)
 
 [`b2sum`](#index-b2sum):
-
-
 
 [b2sum invocation](#b2sum-invocation)
 
 [background jobs, stopping at terminal write](#index-background-jobs_002c-stopping-at-terminal-write):
 
-
-
 [Local](#Local)
 
 [backslash escapes](#index-backslash-escapes):
-
-
 
 [Character arrays](#Character-arrays)
 
 [backslash escapes](#index-backslash-escapes-1):
 
-
-
 [echo invocation](#echo-invocation)
 
 [backslash escapes](#index-backslash-escapes-2):
-
-
 
 [echo invocation](#echo-invocation)
 
 [backslash sequences for file names](#index-backslash-sequences-for-file-names):
 
-
-
 [Formatting the file names](#Formatting-the-file-names)
 
 [backup files, ignoring](#index-backup-files_002c-ignoring):
-
-
 
 [Which files are listed](#Which-files-are-listed)
 
 [backup options](#index-backup-options):
 
-
-
 [Backup options](#Backup-options)
 
 [backup suffix](#index-backup-suffix):
-
-
 
 [Backup options](#Backup-options)
 
 [backups, making](#index-backups_002c-making):
 
-
-
 [Backup options](#Backup-options)
 
 [backups, making](#index-backups_002c-making-1):
-
-
 
 [cp invocation](#cp-invocation)
 
 [backups, making](#index-backups_002c-making-2):
 
-
-
 [install invocation](#install-invocation)
 
 [backups, making](#index-backups_002c-making-3):
-
-
 
 [mv invocation](#mv-invocation)
 
 [backups, making](#index-backups_002c-making-4):
 
-
-
 [ln invocation](#ln-invocation)
 
 [backups, making only](#index-backups_002c-making-only):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`base32`](#index-base32):
 
-
-
 [base32 invocation](#base32-invocation)
 
 [base32 encoding](#index-base32-encoding):
-
-
 
 [base32 invocation](#base32-invocation)
 
 [base32 encoding](#index-base32-encoding-1):
 
-
-
 [basenc invocation](#basenc-invocation)
 
 [`base64`](#index-base64):
-
-
 
 [base64 invocation](#base64-invocation)
 
 [base64 checksum encoding](#index-base64-checksum-encoding):
 
-
-
 [cksum general options](#cksum-general-options)
 
 [Base64 decoding](#index-Base64-decoding):
-
-
 
 [base64 invocation](#base64-invocation)
 
 [base64 encoding](#index-base64-encoding):
 
-
-
 [base64 invocation](#base64-invocation)
 
 [`basename`](#index-basename):
-
-
 
 [basename invocation](#basename-invocation)
 
 [`basenc`](#index-basenc):
 
-
-
 [basenc invocation](#basenc-invocation)
 
 [baud rate, setting](#index-baud-rate_002c-setting):
-
-
 
 [Special](#Special)
 
 [beeping at input buffer full](#index-beeping-at-input-buffer-full):
 
-
-
 [Input](#Input)
 
 [beginning of time](#index-beginning-of-time):
-
-
 
 [Time conversion specifiers](#Time-conversion-specifiers)
 
 [beginning of time, for POSIX](#index-beginning-of-time_002c-for-POSIX):
 
-
-
 [Seconds since the Epoch](#Seconds-since-the-Epoch)
 
 [Bellovin, Steven M.](#index-Bellovin_002c-Steven-M_002e):
-
-
 
 [Authors of parse_datetime](#Authors-of-parse_005fdatetime)
 
 [Berets, Jim](#index-Berets_002c-Jim):
 
-
-
 [Authors of parse_datetime](#Authors-of-parse_005fdatetime)
 
 [Berry, K.](#index-Berry_002c-K_002e):
-
-
 
 [Introduction](#Introduction)
 
 [Berry, K.](#index-Berry_002c-K_002e-1):
 
-
-
 [Authors of parse_datetime](#Authors-of-parse_005fdatetime)
 
 [`binary`](#index-binary):
-
-
 
 [dd invocation](#dd-invocation)
 
 [binary I/O](#index-binary-I_002fO):
 
-
-
 [dd invocation](#dd-invocation)
 
 [binary input files](#index-binary-input-files):
-
-
 
 [cksum common options](#cksum-common-options)
 
 [bind mount](#index-bind-mount):
 
-
-
 [rm invocation](#rm-invocation)
 
 [bind mount](#index-bind-mount-1):
-
-
 
 [stat invocation](#stat-invocation)
 
 [`birth time, printing or sorting files by`](#index-birth-time_002c-printing-or-sorting-files-by):
 
-
-
 [Sorting the output](#Sorting-the-output)
 
 [birthtime](#index-birthtime):
-
-
 
 [File timestamps](#File-timestamps)
 
 [BLAKE2](#index-BLAKE2):
 
-
-
 [b2sum invocation](#b2sum-invocation)
 
 [BLAKE2 hash length](#index-BLAKE2-hash-length):
-
-
 
 [cksum general options](#cksum-general-options)
 
 [BLAKE2 hash length](#index-BLAKE2-hash-length-1):
 
-
-
 [b2sum invocation](#b2sum-invocation)
 
 [`blank`](#index-blank):
-
-
 
 [Character arrays](#Character-arrays)
 
 [blank lines, numbering](#index-blank-lines_002c-numbering):
 
-
-
 [nl invocation](#nl-invocation)
 
 [blanks, ignoring leading](#index-blanks_002c-ignoring-leading):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`block (space-padding)`](#index-block-_0028space_002dpadding_0029):
 
-
-
 [dd invocation](#dd-invocation)
 
 [block size](#index-block-size):
-
-
 
 [Block size](#Block-size)
 
 [block size](#index-block-size-1):
 
-
-
 [dd invocation](#dd-invocation)
 
 [block size of conversion](#index-block-size-of-conversion):
-
-
 
 [dd invocation](#dd-invocation)
 
 [block size of input](#index-block-size-of-input):
 
-
-
 [dd invocation](#dd-invocation)
 
 [block size of output](#index-block-size-of-output):
-
-
 
 [dd invocation](#dd-invocation)
 
 [block special check](#index-block-special-check):
 
-
-
 [File type tests](#File-type-tests)
 
 [block special files](#index-block-special-files):
-
-
 
 [mknod invocation](#mknod-invocation)
 
 [block special files, creating](#index-block-special-files_002c-creating):
 
-
-
 [mknod invocation](#mknod-invocation)
 
 [`BLOCKSIZE`](#index-BLOCKSIZE):
-
-
 
 [Block size](#Block-size)
 
 [`BLOCK_SIZE`](#index-BLOCK_005fSIZE):
 
-
-
 [Block size](#Block-size)
 
 [body, numbering](#index-body_002c-numbering):
-
-
 
 [nl invocation](#nl-invocation)
 
 [Bourne shell syntax for color setup](#index-Bourne-shell-syntax-for-color-setup):
 
-
-
 [dircolors invocation](#dircolors-invocation)
 
 [breaks, cause interrupts](#index-breaks_002c-cause-interrupts):
-
-
 
 [Input](#Input)
 
 [breaks, ignoring](#index-breaks_002c-ignoring):
 
-
-
 [Input](#Input)
 
 [`brkint`](#index-brkint):
-
-
 
 [Input](#Input)
 
 [`bs`](#index-bs):
 
-
-
 [dd invocation](#dd-invocation)
 
 [BSD output](#index-BSD-output):
-
-
 
 [cksum common options](#cksum-common-options)
 
 [BSD `sum`](#index-BSD-sum):
 
-
-
 [sum invocation](#sum-invocation)
 
 [BSD `tail`](#index-BSD-tail):
-
-
 
 [tail invocation](#tail-invocation)
 
 [BSD `touch` compatibility](#index-BSD-touch-compatibility):
 
-
-
 [touch invocation](#touch-invocation)
 
 [`bsn`](#index-bsn):
-
-
 
 [Output](#Output)
 
 [`btrfs file system type`](#index-btrfs-file-system-type):
 
-
-
 [df invocation](#df-invocation)
 
 [bugs, reporting](#index-bugs_002c-reporting):
-
-
 
 [Introduction](#Introduction)
 
 [built-in shell commands, conflicts with](#index-built_002din-shell-commands_002c-conflicts-with):
 
-
-
 [mknod invocation](#mknod-invocation)
 
 [built-in shell commands, conflicts with](#index-built_002din-shell-commands_002c-conflicts-with-1):
-
-
 
 [stat invocation](#stat-invocation)
 
 [built-in shell commands, conflicts with](#index-built_002din-shell-commands_002c-conflicts-with-2):
 
-
-
 [echo invocation](#echo-invocation)
 
 [built-in shell commands, conflicts with](#index-built_002din-shell-commands_002c-conflicts-with-3):
-
-
 
 [printf invocation](#printf-invocation)
 
 [built-in shell commands, conflicts with](#index-built_002din-shell-commands_002c-conflicts-with-4):
 
-
-
 [test invocation](#test-invocation)
 
 [built-in shell commands, conflicts with](#index-built_002din-shell-commands_002c-conflicts-with-5):
-
-
 
 [pwd invocation](#pwd-invocation)
 
 [built-in shell commands, conflicts with](#index-built_002din-shell-commands_002c-conflicts-with-6):
 
-
-
 [nice invocation](#nice-invocation)
 
 [built-in shell commands, conflicts with](#index-built_002din-shell-commands_002c-conflicts-with-7):
-
-
 
 [kill invocation](#kill-invocation)
 
 [built-in shell commands, conflicts with](#index-built_002din-shell-commands_002c-conflicts-with-8):
 
-
-
 [sleep invocation](#sleep-invocation)
 
 [byte count](#index-byte-count):
-
-
 
 [wc invocation](#wc-invocation)
 
 [byte-swapping](#index-byte_002dswapping):
 
-
-
 [od invocation](#od-invocation)
 
 [byte-swapping](#index-byte_002dswapping-1):
-
-
 
 [dd invocation](#dd-invocation)
 
@@ -22077,985 +19371,657 @@ C
 
 [`c for character special file`](#index-c-for-character-special-file):
 
-
-
 [mknod invocation](#mknod-invocation)
 
 [C shell syntax for color setup](#index-C-shell-syntax-for-color-setup):
-
-
 
 [dircolors invocation](#dircolors-invocation)
 
 [`C-s/C-q flow control`](#index-C_002ds_002fC_002dq-flow-control):
 
-
-
 [Input](#Input)
 
 [calendar date item](#index-calendar-date-item):
-
-
 
 [Calendar date items](#Calendar-date-items)
 
 [calling combined multi-call program](#index-calling-combined-multi_002dcall-program):
 
-
-
 [Multi-call invocation](#Multi_002dcall-invocation)
 
 [canonical file name](#index-canonical-file-name):
-
-
 
 [readlink invocation](#readlink-invocation)
 
 [canonical file name](#index-canonical-file-name-1):
 
-
-
 [realpath invocation](#realpath-invocation)
 
 [canonicalize a file name](#index-canonicalize-a-file-name):
-
-
 
 [readlink invocation](#readlink-invocation)
 
 [canonicalize a file name](#index-canonicalize-a-file-name-1):
 
-
-
 [realpath invocation](#realpath-invocation)
 
 [case folding](#index-case-folding):
-
-
 
 [sort invocation](#sort-invocation)
 
 [case translation](#index-case-translation):
 
-
-
 [Local](#Local)
 
 [case, ignored in dates](#index-case_002c-ignored-in-dates):
-
-
 
 [General date syntax](#General-date-syntax)
 
 [`cat`](#index-cat):
 
-
-
 [cat invocation](#cat-invocation)
 
 [`cbreak`](#index-cbreak):
-
-
 
 [Combination](#Combination)
 
 [`cbs`](#index-cbs):
 
-
-
 [dd invocation](#dd-invocation)
 
 [CD-ROM file system type](#index-CD_002dROM-file-system-type):
-
-
 
 [df invocation](#df-invocation)
 
 [`cdfs file system type`](#index-cdfs-file-system-type):
 
-
-
 [df invocation](#df-invocation)
 
 [`cdtrdsr`](#index-cdtrdsr):
-
-
 
 [Control](#Control)
 
 [change or print terminal settings](#index-change-or-print-terminal-settings):
 
-
-
 [stty invocation](#stty-invocation)
 
 [change SELinux context](#index-change-SELinux-context):
-
-
 
 [chcon invocation](#chcon-invocation)
 
 [changed files, verbosely describing](#index-changed-files_002c-verbosely-describing):
 
-
-
 [chgrp invocation](#chgrp-invocation)
 
 [changed owners, verbosely describing](#index-changed-owners_002c-verbosely-describing):
-
-
 
 [chown invocation](#chown-invocation)
 
 [changing access permissions](#index-changing-access-permissions):
 
-
-
 [chmod invocation](#chmod-invocation)
 
 [changing file attributes](#index-changing-file-attributes):
-
-
 
 [Changing file attributes](#Changing-file-attributes)
 
 [changing file ownership](#index-changing-file-ownership):
 
-
-
 [chown invocation](#chown-invocation)
 
 [changing file timestamps](#index-changing-file-timestamps):
-
-
 
 [touch invocation](#touch-invocation)
 
 [changing group ownership](#index-changing-group-ownership):
 
-
-
 [chown invocation](#chown-invocation)
 
 [changing group ownership](#index-changing-group-ownership-1):
-
-
 
 [chgrp invocation](#chgrp-invocation)
 
 [changing security context](#index-changing-security-context):
 
-
-
 [chcon invocation](#chcon-invocation)
 
 [changing special mode bits](#index-changing-special-mode-bits):
-
-
 
 [Changing Special Mode Bits](#Changing-Special-Mode-Bits)
 
 [character classes](#index-character-classes):
 
-
-
 [Character arrays](#Character-arrays)
 
 [character count](#index-character-count):
-
-
 
 [wc invocation](#wc-invocation)
 
 [character size](#index-character-size):
 
-
-
 [Control](#Control)
 
 [character special check](#index-character-special-check):
-
-
 
 [File type tests](#File-type-tests)
 
 [character special files](#index-character-special-files):
 
-
-
 [mknod invocation](#mknod-invocation)
 
 [character special files, creating](#index-character-special-files_002c-creating):
-
-
 
 [mknod invocation](#mknod-invocation)
 
 [characters, special](#index-characters_002c-special):
 
-
-
 [Characters](#Characters)
 
 [`chcon`](#index-chcon):
-
-
 
 [chcon invocation](#chcon-invocation)
 
 [check file types](#index-check-file-types):
 
-
-
 [test invocation](#test-invocation)
 
 [checking whether a file is sorted](#index-checking-whether-a-file-is-sorted):
-
-
 
 [sort invocation](#sort-invocation)
 
 [checking whether a file is sorted](#index-checking-whether-a-file-is-sorted-1):
 
-
-
 [sort invocation](#sort-invocation)
 
 [checksum, 128-bit](#index-checksum_002c-128_002dbit):
-
-
 
 [md5sum invocation](#md5sum-invocation)
 
 [checksum, 16-bit](#index-checksum_002c-16_002dbit):
 
-
-
 [sum invocation](#sum-invocation)
 
 [checksum, 160-bit](#index-checksum_002c-160_002dbit):
-
-
 
 [sha1sum invocation](#sha1sum-invocation)
 
 [checksum, 224-bit](#index-checksum_002c-224_002dbit):
 
-
-
 [sha2 utilities](#sha2-utilities)
 
 [checksum, 256-bit](#index-checksum_002c-256_002dbit):
-
-
 
 [sha2 utilities](#sha2-utilities)
 
 [checksum, 32-bit](#index-checksum_002c-32_002dbit):
 
-
-
 [cksum invocation](#cksum-invocation)
 
 [checksum, 384-bit](#index-checksum_002c-384_002dbit):
-
-
 
 [sha2 utilities](#sha2-utilities)
 
 [checksum, 512-bit](#index-checksum_002c-512_002dbit):
 
-
-
 [b2sum invocation](#b2sum-invocation)
 
 [checksum, 512-bit](#index-checksum_002c-512_002dbit-1):
-
-
 
 [sha2 utilities](#sha2-utilities)
 
 [`chgrp`](#index-chgrp):
 
-
-
 [chgrp invocation](#chgrp-invocation)
 
 [`chmod`](#index-chmod):
-
-
 
 [chmod invocation](#chmod-invocation)
 
 [`chown`](#index-chown):
 
-
-
 [chown invocation](#chown-invocation)
 
 [`chroot`](#index-chroot):
-
-
 
 [chroot invocation](#chroot-invocation)
 
 [`cio`](#index-cio):
 
-
-
 [dd invocation](#dd-invocation)
 
 [`cksum`](#index-cksum):
-
-
 
 [cksum invocation](#cksum-invocation)
 
 [`clocal`](#index-clocal):
 
-
-
 [Control](#Control)
 
 [clock skew](#index-clock-skew):
-
-
 
 [Formatting file timestamps](#Formatting-file-timestamps)
 
 [clock skew](#index-clock-skew-1):
 
-
-
 [File timestamps](#File-timestamps)
 
 [clone](#index-clone):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`cmspar`](#index-cmspar):
 
-
-
 [Control](#Control)
 
 [`cntrl`](#index-cntrl):
-
-
 
 [Character arrays](#Character-arrays)
 
 [color database, printing](#index-color-database_002c-printing):
 
-
-
 [dircolors invocation](#dircolors-invocation)
 
 [color setup](#index-color-setup):
-
-
 
 [dircolors invocation](#dircolors-invocation)
 
 [color, distinguishing file types with](#index-color_002c-distinguishing-file-types-with):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [`cols`](#index-cols):
-
-
 
 [Special](#Special)
 
 [column to wrap data after](#index-column-to-wrap-data-after):
 
-
-
 [base64 invocation](#base64-invocation)
 
 [`COLUMNS`](#index-COLUMNS):
-
-
 
 [General output formatting](#General-output-formatting)
 
 [`COLUMNS`](#index-COLUMNS-1):
 
-
-
 [Special](#Special)
 
 [`columns`](#index-columns):
-
-
 
 [Special](#Special)
 
 [combination settings](#index-combination-settings):
 
-
-
 [Combination](#Combination)
 
 [combined](#index-combined):
-
-
 
 [Multi-call invocation](#Multi_002dcall-invocation)
 
 [combined date and time of day item](#index-combined-date-and-time-of-day-item):
 
-
-
 [Combined date and time of day items](#Combined-date-and-time-of-day-items)
 
 [`comm`](#index-comm):
-
-
 
 [comm invocation](#comm-invocation)
 
 [command-line operands to shuffle](#index-command_002dline-operands-to-shuffle):
 
-
-
 [shuf invocation](#shuf-invocation)
 
 [commands for controlling processes](#index-commands-for-controlling-processes):
-
-
 
 [Process control](#Process-control)
 
 [commands for delaying](#index-commands-for-delaying):
 
-
-
 [Delaying](#Delaying)
 
 [commands for exit status](#index-commands-for-exit-status):
-
-
 
 [Conditions](#Conditions)
 
 [commands for file name manipulation](#index-commands-for-file-name-manipulation):
 
-
-
 [File name manipulation](#File-name-manipulation)
 
 [commands for invoking other commands](#index-commands-for-invoking-other-commands):
-
-
 
 [Modified command invocation](#Modified-command-invocation)
 
 [commands for printing text](#index-commands-for-printing-text):
 
-
-
 [Printing text](#Printing-text)
 
 [commands for printing the working context](#index-commands-for-printing-the-working-context):
-
-
 
 [Working context](#Working-context)
 
 [commands for printing user information](#index-commands-for-printing-user-information):
 
-
-
 [User information](#User-information)
 
 [commands for redirection](#index-commands-for-redirection):
-
-
 
 [Redirection](#Redirection)
 
 [commands for SELinux context](#index-commands-for-SELinux-context):
 
-
-
 [SELinux context](#SELinux-context)
 
 [commands for system context](#index-commands-for-system-context):
-
-
 
 [System context](#System-context)
 
 [`commas, outputting between files`](#index-commas_002c-outputting-between-files):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [comments, in dates](#index-comments_002c-in-dates):
-
-
 
 [General date syntax](#General-date-syntax)
 
 [common field, joining on](#index-common-field_002c-joining-on):
 
-
-
 [join invocation](#join-invocation)
 
 [common lines](#index-common-lines):
-
-
 
 [comm invocation](#comm-invocation)
 
 [common options](#index-common-options):
 
-
-
 [Common options](#Common-options)
 
 [compare values](#index-compare-values):
-
-
 
 [test invocation](#test-invocation)
 
 [comparing sorted files](#index-comparing-sorted-files):
 
-
-
 [comm invocation](#comm-invocation)
 
 [comparison operators](#index-comparison-operators):
-
-
 
 [Relations for expr](#Relations-for-expr)
 
 [compression and `du`](#index-compression-and-du):
 
-
-
 [du invocation](#du-invocation)
 
 [concatenate and write files](#index-concatenate-and-write-files):
-
-
 
 [cat invocation](#cat-invocation)
 
 [concurrent I/O](#index-concurrent-I_002fO):
 
-
-
 [dd invocation](#dd-invocation)
 
 [conditional executability](#index-conditional-executability):
-
-
 
 [Conditional Executability](#Conditional-Executability)
 
 [conditions](#index-conditions):
 
-
-
 [Conditions](#Conditions)
 
 [conflicts with shell built-ins](#index-conflicts-with-shell-built_002dins):
-
-
 
 [mknod invocation](#mknod-invocation)
 
 [conflicts with shell built-ins](#index-conflicts-with-shell-built_002dins-1):
 
-
-
 [stat invocation](#stat-invocation)
 
 [conflicts with shell built-ins](#index-conflicts-with-shell-built_002dins-2):
-
-
 
 [echo invocation](#echo-invocation)
 
 [conflicts with shell built-ins](#index-conflicts-with-shell-built_002dins-3):
 
-
-
 [printf invocation](#printf-invocation)
 
 [conflicts with shell built-ins](#index-conflicts-with-shell-built_002dins-4):
-
-
 
 [test invocation](#test-invocation)
 
 [conflicts with shell built-ins](#index-conflicts-with-shell-built_002dins-5):
 
-
-
 [pwd invocation](#pwd-invocation)
 
 [conflicts with shell built-ins](#index-conflicts-with-shell-built_002dins-6):
-
-
 
 [nice invocation](#nice-invocation)
 
 [conflicts with shell built-ins](#index-conflicts-with-shell-built_002dins-7):
 
-
-
 [kill invocation](#kill-invocation)
 
 [conflicts with shell built-ins](#index-conflicts-with-shell-built_002dins-8):
-
-
 
 [sleep invocation](#sleep-invocation)
 
 [connectives, logical](#index-connectives_002c-logical):
 
-
-
 [Connectives for test](#Connectives-for-test)
 
 [connectives, logical](#index-connectives_002c-logical-1):
-
-
 
 [Relations for expr](#Relations-for-expr)
 
 [constant parity](#index-constant-parity):
 
-
-
 [Control](#Control)
 
 [context splitting](#index-context-splitting):
-
-
 
 [csplit invocation](#csplit-invocation)
 
 [context, system](#index-context_002c-system):
 
-
-
 [System context](#System-context)
 
 [control characters, using ‘^c’](#index-control-characters_002c-using-_005ec):
-
-
 
 [Local](#Local)
 
 [control settings](#index-control-settings):
 
-
-
 [Control](#Control)
 
 [controlling terminal](#index-controlling-terminal):
-
-
 
 [dd invocation](#dd-invocation)
 
 [`conv`](#index-conv):
 
-
-
 [dd invocation](#dd-invocation)
 
 [conversion block size](#index-conversion-block-size):
-
-
 
 [dd invocation](#dd-invocation)
 
 [conversion specifiers, date](#index-conversion-specifiers_002c-date):
 
-
-
 [Date conversion specifiers](#Date-conversion-specifiers)
 
 [conversion specifiers, literal](#index-conversion-specifiers_002c-literal):
-
-
 
 [Literal conversion specifiers](#Literal-conversion-specifiers)
 
 [conversion specifiers, time](#index-conversion-specifiers_002c-time):
 
-
-
 [Time conversion specifiers](#Time-conversion-specifiers)
 
 [converting tabs to spaces](#index-converting-tabs-to-spaces):
-
-
 
 [expand invocation](#expand-invocation)
 
 [converting while copying a file](#index-converting-while-copying-a-file):
 
-
-
 [dd invocation](#dd-invocation)
 
 [`cooked`](#index-cooked):
-
-
 
 [Combination](#Combination)
 
 [Coordinated Universal Time](#index-Coordinated-Universal-Time):
 
-
-
 [Options for date](#Options-for-date)
 
 [copy on write](#index-copy-on-write):
-
-
 
 [cp invocation](#cp-invocation)
 
 [copy-on-write and `du`](#index-copy_002don_002dwrite-and-du):
 
-
-
 [du invocation](#du-invocation)
 
 [copying directories recursively](#index-copying-directories-recursively):
-
-
 
 [cp invocation](#cp-invocation)
 
 [copying directories recursively](#index-copying-directories-recursively-1):
 
-
-
 [cp invocation](#cp-invocation)
 
 [copying existing permissions](#index-copying-existing-permissions):
-
-
 
 [Copying Permissions](#Copying-Permissions)
 
 [copying files](#index-copying-files):
 
-
-
 [cat invocation](#cat-invocation)
 
 [copying files and directories](#index-copying-files-and-directories):
-
-
 
 [cp invocation](#cp-invocation)
 
 [copying files and setting attributes](#index-copying-files-and-setting-attributes):
 
-
-
 [install invocation](#install-invocation)
 
 [core utilities](#index-core-utilities):
-
-
 
 [Top](#Top)
 
 [`count`](#index-count):
 
-
-
 [dd invocation](#dd-invocation)
 
 [COW](#index-COW):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`cp`](#index-cp):
 
-
-
 [cp invocation](#cp-invocation)
 
 [crashes and corruption](#index-crashes-and-corruption):
-
-
 
 [sync invocation](#sync-invocation)
 
 [CRC checksum](#index-CRC-checksum):
 
-
-
 [cksum invocation](#cksum-invocation)
 
 [`cread`](#index-cread):
-
-
 
 [Control](#Control)
 
 [creating directories](#index-creating-directories):
 
-
-
 [mkdir invocation](#mkdir-invocation)
 
 [creating FIFOs (named pipes)](#index-creating-FIFOs-_0028named-pipes_0029):
-
-
 
 [mkfifo invocation](#mkfifo-invocation)
 
 [creating links (hard only)](#index-creating-links-_0028hard-only_0029):
 
-
-
 [link invocation](#link-invocation)
 
 [creating links (hard or soft)](#index-creating-links-_0028hard-or-soft_0029):
-
-
 
 [ln invocation](#ln-invocation)
 
 [creating output file, avoiding](#index-creating-output-file_002c-avoiding):
 
-
-
 [dd invocation](#dd-invocation)
 
 [creating output file, requiring](#index-creating-output-file_002c-requiring):
-
-
 
 [dd invocation](#dd-invocation)
 
 [`creation timestamp, printing or sorting files by`](#index-creation-timestamp_002c-printing-or-sorting-files-by):
 
-
-
 [Sorting the output](#Sorting-the-output)
 
 [`crn`](#index-crn):
-
-
 
 [Output](#Output)
 
 [crown margin](#index-crown-margin):
 
-
-
 [fmt invocation](#fmt-invocation)
 
 [`crt`](#index-crt):
-
-
 
 [Combination](#Combination)
 
 [`crterase`](#index-crterase):
 
-
-
 [Local](#Local)
 
 [`crtkill`](#index-crtkill):
-
-
 
 [Local](#Local)
 
 [`crtscts`](#index-crtscts):
 
-
-
 [Control](#Control)
 
 [`csh` syntax for color setup](#index-csh-syntax-for-color-setup):
-
-
 
 [dircolors invocation](#dircolors-invocation)
 
 [`csn`](#index-csn):
 
-
-
 [Control](#Control)
 
 [`csplit`](#index-csplit):
-
-
 
 [csplit invocation](#csplit-invocation)
 
 [`cstopb`](#index-cstopb):
 
-
-
 [Control](#Control)
 
 [ctime](#index-ctime):
-
-
 
 [File timestamps](#File-timestamps)
 
 [`ctime, printing or sorting by`](#index-ctime_002c-printing-or-sorting-by):
 
-
-
 [Sorting the output](#Sorting-the-output)
 
 [`ctime, show the most recent`](#index-ctime_002c-show-the-most-recent):
-
-
 
 [du invocation](#du-invocation)
 
 [`ctlecho`](#index-ctlecho):
 
-
-
 [Local](#Local)
 
 [current working directory, printing](#index-current-working-directory_002c-printing):
-
-
 
 [pwd invocation](#pwd-invocation)
 
 [`cut`](#index-cut):
 
-
-
 [cut invocation](#cut-invocation)
 
 [cyclic redundancy check](#index-cyclic-redundancy-check):
-
-
 
 [cksum invocation](#cksum-invocation)
 
@@ -23065,601 +20031,401 @@ D
 
 [`data modification time, printing or sorting files by`](#index-data-modification-time_002c-printing-or-sorting-files-by):
 
-
-
 [Sorting the output](#Sorting-the-output)
 
 [data, erasing](#index-data_002c-erasing):
-
-
 
 [shred invocation](#shred-invocation)
 
 [database for color setup, printing](#index-database-for-color-setup_002c-printing):
 
-
-
 [dircolors invocation](#dircolors-invocation)
 
 [`date`](#index-date):
-
-
 
 [date invocation](#date-invocation)
 
 [date and time of day format, ISO 8601](#index-date-and-time-of-day-format_002c-ISO-8601):
 
-
-
 [Combined date and time of day items](#Combined-date-and-time-of-day-items)
 
 [date conversion specifiers](#index-date-conversion-specifiers):
-
-
 
 [Date conversion specifiers](#Date-conversion-specifiers)
 
 [date format, ISO 8601](#index-date-format_002c-ISO-8601):
 
-
-
 [Calendar date items](#Calendar-date-items)
 
 [date input formats](#index-date-input-formats):
-
-
 
 [Date input formats](#Date-input-formats)
 
 [`date` options](#index-date-options):
 
-
-
 [Options for date](#Options-for-date)
 
 [date strings, debugging](#index-date-strings_002c-debugging):
-
-
 
 [Options for date](#Options-for-date)
 
 [date strings, parsing](#index-date-strings_002c-parsing):
 
-
-
 [Options for date](#Options-for-date)
 
 [`day in date strings`](#index-day-in-date-strings):
-
-
 
 [Relative items in date strings](#Relative-items-in-date-strings)
 
 [`day in date strings`](#index-day-in-date-strings-1):
 
-
-
 [Relative items in date strings](#Relative-items-in-date-strings)
 
 [day of week item](#index-day-of-week-item):
-
-
 
 [Day of week items](#Day-of-week-items)
 
 [`dd`](#index-dd):
 
-
-
 [dd invocation](#dd-invocation)
 
 [ddrescue](#index-ddrescue):
-
-
 
 [dd invocation](#dd-invocation)
 
 [debugging date strings](#index-debugging-date-strings):
 
-
-
 [Options for date](#Options-for-date)
 
 [debugging, copying](#index-debugging_002c-copying):
-
-
 
 [cp invocation](#cp-invocation)
 
 [debugging, copying](#index-debugging_002c-copying-1):
 
-
-
 [install invocation](#install-invocation)
 
 [debugging, copying](#index-debugging_002c-copying-2):
-
-
 
 [mv invocation](#mv-invocation)
 
 [debugging, `env -S`](#index-debugging_002c-env-_002dS):
 
-
-
 [env invocation](#env-invocation)
 
 [`dec`](#index-dec):
-
-
 
 [Combination](#Combination)
 
 [`decctlq`](#index-decctlq):
 
-
-
 [Combination](#Combination)
 
 [Decode base64 data](#index-Decode-base64-data):
-
-
 
 [base64 invocation](#base64-invocation)
 
 [delay for a specified time](#index-delay-for-a-specified-time):
 
-
-
 [sleep invocation](#sleep-invocation)
 
 [delaying commands](#index-delaying-commands):
-
-
 
 [Delaying](#Delaying)
 
 [deleting characters](#index-deleting-characters):
 
-
-
 [Squeezing and deleting](#Squeezing-and-deleting)
 
 [dereferencing symbolic links](#index-dereferencing-symbolic-links):
-
-
 
 [ln invocation](#ln-invocation)
 
 [`descriptor follow option`](#index-descriptor-follow-option):
 
-
-
 [tail invocation](#tail-invocation)
 
 [destination directory](#index-destination-directory):
-
-
 
 [Target directory](#Target-directory)
 
 [destination directory](#index-destination-directory-1):
 
-
-
 [Target directory](#Target-directory)
 
 [destination directory](#index-destination-directory-2):
-
-
 
 [cp invocation](#cp-invocation)
 
 [destination directory](#index-destination-directory-3):
 
-
-
 [cp invocation](#cp-invocation)
 
 [destination directory](#index-destination-directory-4):
-
-
 
 [install invocation](#install-invocation)
 
 [destination directory](#index-destination-directory-5):
 
-
-
 [install invocation](#install-invocation)
 
 [destination directory](#index-destination-directory-6):
-
-
 
 [mv invocation](#mv-invocation)
 
 [destination directory](#index-destination-directory-7):
 
-
-
 [mv invocation](#mv-invocation)
 
 [destination directory](#index-destination-directory-8):
-
-
 
 [ln invocation](#ln-invocation)
 
 [destination directory](#index-destination-directory-9):
 
-
-
 [ln invocation](#ln-invocation)
 
 [destinations, multiple output](#index-destinations_002c-multiple-output):
-
-
 
 [tee invocation](#tee-invocation)
 
 [device file](#index-device-file):
 
-
-
 [df invocation](#df-invocation)
 
 [`df`](#index-df):
-
-
 
 [df invocation](#df-invocation)
 
 [`DF_BLOCK_SIZE`](#index-DF_005fBLOCK_005fSIZE):
 
-
-
 [Block size](#Block-size)
 
 [diagnostic](#index-diagnostic):
-
-
 
 [chcon invocation](#chcon-invocation)
 
 [dictionary order](#index-dictionary-order):
 
-
-
 [sort invocation](#sort-invocation)
 
 [differing lines](#index-differing-lines):
-
-
 
 [comm invocation](#comm-invocation)
 
 [digest](#index-digest):
 
-
-
 [cksum invocation](#cksum-invocation)
 
 [digest algorithm](#index-digest-algorithm):
-
-
 
 [cksum general options](#cksum-general-options)
 
 [`digit`](#index-digit):
 
-
-
 [Character arrays](#Character-arrays)
 
 [`dir`](#index-dir):
-
-
 
 [dir invocation](#dir-invocation)
 
 [`dircolors`](#index-dircolors):
 
-
-
 [dircolors invocation](#dircolors-invocation)
 
 [`direct`](#index-direct):
-
-
 
 [dd invocation](#dd-invocation)
 
 [direct I/O](#index-direct-I_002fO):
 
-
-
 [dd invocation](#dd-invocation)
 
 [directories, copying](#index-directories_002c-copying):
-
-
 
 [cp invocation](#cp-invocation)
 
 [directories, copying recursively](#index-directories_002c-copying-recursively):
 
-
-
 [cp invocation](#cp-invocation)
 
 [directories, copying recursively](#index-directories_002c-copying-recursively-1):
-
-
 
 [cp invocation](#cp-invocation)
 
 [directories, creating](#index-directories_002c-creating):
 
-
-
 [mkdir invocation](#mkdir-invocation)
 
 [directories, creating with given attributes](#index-directories_002c-creating-with-given-attributes):
-
-
 
 [install invocation](#install-invocation)
 
 [directories, removing](#index-directories_002c-removing):
 
-
-
 [rm invocation](#rm-invocation)
 
 [directories, removing (recursively)](#index-directories_002c-removing-_0028recursively_0029):
-
-
 
 [rm invocation](#rm-invocation)
 
 [directories, removing empty](#index-directories_002c-removing-empty):
 
-
-
 [rmdir invocation](#rmdir-invocation)
 
 [`directory`](#index-directory):
-
-
 
 [dd invocation](#dd-invocation)
 
 [directory check](#index-directory-check):
 
-
-
 [File type tests](#File-type-tests)
 
 [directory components, printing](#index-directory-components_002c-printing):
-
-
 
 [dirname invocation](#dirname-invocation)
 
 [directory deletion, ignoring failures](#index-directory-deletion_002c-ignoring-failures):
 
-
-
 [rmdir invocation](#rmdir-invocation)
 
 [directory deletion, reporting](#index-directory-deletion_002c-reporting):
-
-
 
 [rmdir invocation](#rmdir-invocation)
 
 [directory I/O](#index-directory-I_002fO):
 
-
-
 [dd invocation](#dd-invocation)
 
 [directory listing](#index-directory-listing):
-
-
 
 [ls invocation](#ls-invocation)
 
 [directory listing, brief](#index-directory-listing_002c-brief):
 
-
-
 [dir invocation](#dir-invocation)
 
 [directory listing, recursive](#index-directory-listing_002c-recursive):
-
-
 
 [Which files are listed](#Which-files-are-listed)
 
 [directory listing, verbose](#index-directory-listing_002c-verbose):
 
-
-
 [vdir invocation](#vdir-invocation)
 
 [directory order, listing by](#index-directory-order_002c-listing-by):
-
-
 
 [Sorting the output](#Sorting-the-output)
 
 [directory, creating temporary](#index-directory_002c-creating-temporary):
 
-
-
 [mktemp invocation](#mktemp-invocation)
 
 [directory, stripping from file names](#index-directory_002c-stripping-from-file-names):
-
-
 
 [basename invocation](#basename-invocation)
 
 [dired Emacs mode support](#index-dired-Emacs-mode-support):
 
-
-
 [What information is listed](#What-information-is-listed)
 
 [`dirname`](#index-dirname):
-
-
 
 [dirname invocation](#dirname-invocation)
 
 [disabling special characters](#index-disabling-special-characters):
 
-
-
 [Characters](#Characters)
 
 [disambiguating group names and IDs](#index-disambiguating-group-names-and-IDs):
-
-
 
 [Disambiguating names and IDs](#Disambiguating-names-and-IDs)
 
 [`discard`](#index-discard):
 
-
-
 [Characters](#Characters)
 
 [discarding file cache](#index-discarding-file-cache):
-
-
 
 [dd invocation](#dd-invocation)
 
 [disk device file](#index-disk-device-file):
 
-
-
 [df invocation](#df-invocation)
 
 [disk usage](#index-disk-usage):
-
-
 
 [File space usage](#File-space-usage)
 
 [disk usage by file system](#index-disk-usage-by-file-system):
 
-
-
 [df invocation](#df-invocation)
 
 [disk usage for files](#index-disk-usage-for-files):
-
-
 
 [du invocation](#du-invocation)
 
 [displacement of dates](#index-displacement-of-dates):
 
-
-
 [Relative items in date strings](#Relative-items-in-date-strings)
 
 [displaying text](#index-displaying-text):
-
-
 
 [echo invocation](#echo-invocation)
 
 [displaying value of a symbolic link](#index-displaying-value-of-a-symbolic-link):
 
-
-
 [readlink invocation](#readlink-invocation)
 
 [division](#index-division):
-
-
 
 [Numeric expressions](#Numeric-expressions)
 
 [do nothing, successfully](#index-do-nothing_002c-successfully):
 
-
-
 [true invocation](#true-invocation)
 
 [do nothing, unsuccessfully](#index-do-nothing_002c-unsuccessfully):
-
-
 
 [false invocation](#false-invocation)
 
 [DOS file system](#index-DOS-file-system):
 
-
-
 [df invocation](#df-invocation)
 
 [double spacing](#index-double-spacing):
-
-
 
 [pr invocation](#pr-invocation)
 
 [down columns](#index-down-columns):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`drain`](#index-drain):
-
-
 
 [Special](#Special)
 
 [`dsusp`](#index-dsusp):
 
-
-
 [Characters](#Characters)
 
 [`dsync`](#index-dsync):
-
-
 
 [dd invocation](#dd-invocation)
 
 [DTR/DSR flow control](#index-DTR_002fDSR-flow-control):
 
-
-
 [Control](#Control)
 
 [`du`](#index-du):
-
-
 
 [du invocation](#du-invocation)
 
 [`DU_BLOCK_SIZE`](#index-DU_005fBLOCK_005fSIZE):
 
-
-
 [Block size](#Block-size)
 
 [DVD file system type](#index-DVD-file-system-type):
-
-
 
 [df invocation](#df-invocation)
 
@@ -23669,529 +20435,353 @@ E
 
 [`ebcdic, converting to`](#index-ebcdic_002c-converting-to):
 
-
-
 [dd invocation](#dd-invocation)
 
 [`echo`](#index-echo-1):
-
-
 
 [echo invocation](#echo-invocation)
 
 [`echo`](#index-echo):
 
-
-
 [Local](#Local)
 
 [`echoctl`](#index-echoctl):
-
-
 
 [Local](#Local)
 
 [`echoe`](#index-echoe):
 
-
-
 [Local](#Local)
 
 [`echok`](#index-echok):
-
-
 
 [Local](#Local)
 
 [`echoke`](#index-echoke):
 
-
-
 [Local](#Local)
 
 [`echonl`](#index-echonl):
-
-
 
 [Local](#Local)
 
 [`echoprt`](#index-echoprt):
 
-
-
 [Local](#Local)
 
 [effective user and group IDs, printing](#index-effective-user-and-group-IDs_002c-printing):
-
-
 
 [id invocation](#id-invocation)
 
 [effective user name, printing](#index-effective-user-name_002c-printing):
 
-
-
 [whoami invocation](#whoami-invocation)
 
 [Eggert, Paul](#index-Eggert_002c-Paul):
-
-
 
 [Authors of parse_datetime](#Authors-of-parse_005fdatetime)
 
 [eight-bit characters](#index-eight_002dbit-characters):
 
-
-
 [Control](#Control)
 
 [eight-bit characters](#index-eight_002dbit-characters-1):
-
-
 
 [Combination](#Combination)
 
 [eight-bit input](#index-eight_002dbit-input):
 
-
-
 [Input](#Input)
 
 [`ek`](#index-ek):
-
-
 
 [Combination](#Combination)
 
 [empty files, creating](#index-empty-files_002c-creating):
 
-
-
 [touch invocation](#touch-invocation)
 
 [empty lines, numbering](#index-empty-lines_002c-numbering):
-
-
 
 [nl invocation](#nl-invocation)
 
 [endianness](#index-endianness):
 
-
-
 [od invocation](#od-invocation)
 
 [entire files, output of](#index-entire-files_002c-output-of):
-
-
 
 [Output of entire files](#Output-of-entire-files)
 
 [`env`](#index-env):
 
-
-
 [env invocation](#env-invocation)
 
 [`env -S`, and single quotes](#index-env-_002dS_002c-and-single-quotes):
-
-
 
 [env invocation](#env-invocation)
 
 [`env -S`, debugging](#index-env-_002dS_002c-debugging):
 
-
-
 [env invocation](#env-invocation)
 
 [env in scripts](#index-env-in-scripts):
-
-
 
 [env invocation](#env-invocation)
 
 [environment variables, printing](#index-environment-variables_002c-printing):
 
-
-
 [printenv invocation](#printenv-invocation)
 
 [environment, printing](#index-environment_002c-printing):
-
-
 
 [env invocation](#env-invocation)
 
 [environment, running a program in a modified](#index-environment_002c-running-a-program-in-a-modified):
 
-
-
 [env invocation](#env-invocation)
 
 [`eof`](#index-eof):
-
-
 
 [Characters](#Characters)
 
 [`eol`](#index-eol):
 
-
-
 [Characters](#Characters)
 
 [`eol2`](#index-eol2):
-
-
 
 [Characters](#Characters)
 
 [Epoch, for POSIX](#index-Epoch_002c-for-POSIX):
 
-
-
 [Seconds since the Epoch](#Seconds-since-the-Epoch)
 
 [Epoch, seconds since](#index-Epoch_002c-seconds-since):
-
-
 
 [Time conversion specifiers](#Time-conversion-specifiers)
 
 [equal string check](#index-equal-string-check):
 
-
-
 [String tests](#String-tests)
 
 [equal string check](#index-equal-string-check-1):
-
-
 
 [String tests](#String-tests)
 
 [equivalence classes](#index-equivalence-classes):
 
-
-
 [Character arrays](#Character-arrays)
 
 [`erase`](#index-erase):
-
-
 
 [Characters](#Characters)
 
 [erasing data](#index-erasing-data):
 
-
-
 [shred invocation](#shred-invocation)
 
 [error messages, omitting](#index-error-messages_002c-omitting):
-
-
 
 [chown invocation](#chown-invocation)
 
 [error messages, omitting](#index-error-messages_002c-omitting-1):
 
-
-
 [chgrp invocation](#chgrp-invocation)
 
 [error messages, omitting](#index-error-messages_002c-omitting-2):
-
-
 
 [chmod invocation](#chmod-invocation)
 
 [evaluation of expressions](#index-evaluation-of-expressions):
 
-
-
 [expr invocation](#expr-invocation)
 
 [even parity](#index-even-parity):
-
-
 
 [Control](#Control)
 
 [`evenp`](#index-evenp):
 
-
-
 [Combination](#Combination)
 
 [exabyte, definition of](#index-exabyte_002c-definition-of):
-
-
 
 [Block size](#Block-size)
 
 [examples of `date`](#index-examples-of-date):
 
-
-
 [Examples of date](#Examples-of-date)
 
 [examples of `expr`](#index-examples-of-expr):
-
-
 
 [Examples of expr](#Examples-of-expr)
 
 [exbibyte, definition of](#index-exbibyte_002c-definition-of):
 
-
-
 [Block size](#Block-size)
 
 [`excl`](#index-excl):
-
-
 
 [dd invocation](#dd-invocation)
 
 [excluding files from `du`](#index-excluding-files-from-du):
 
-
-
 [du invocation](#du-invocation)
 
 [excluding files from `du`](#index-excluding-files-from-du-1):
-
-
 
 [du invocation](#du-invocation)
 
 [executable file check](#index-executable-file-check):
 
-
-
 [Access permission tests](#Access-permission-tests)
 
 [executables and file type, marking](#index-executables-and-file-type_002c-marking):
-
-
 
 [General output formatting](#General-output-formatting)
 
 [execute/search permission](#index-execute_002fsearch-permission):
 
-
-
 [Mode Structure](#Mode-Structure)
 
 [execute/search permission, symbolic](#index-execute_002fsearch-permission_002c-symbolic):
-
-
 
 [Setting Permissions](#Setting-Permissions)
 
 [existence-of-file check](#index-existence_002dof_002dfile-check):
 
-
-
 [File characteristic tests](#File-characteristic-tests)
 
 [`existing backup method`](#index-existing-backup-method):
-
-
 
 [Backup options](#Backup-options)
 
 [exit status commands](#index-exit-status-commands):
 
-
-
 [Conditions](#Conditions)
 
 [exit status of `chroot`](#index-exit-status-of-chroot):
-
-
 
 [chroot invocation](#chroot-invocation)
 
 [exit status of `env`](#index-exit-status-of-env):
 
-
-
 [env invocation](#env-invocation)
 
 [exit status of `expr`](#index-exit-status-of-expr):
-
-
 
 [expr invocation](#expr-invocation)
 
 [exit status of `false`](#index-exit-status-of-false):
 
-
-
 [false invocation](#false-invocation)
 
 [exit status of `ls`](#index-exit-status-of-ls):
-
-
 
 [ls invocation](#ls-invocation)
 
 [exit status of `mktemp`](#index-exit-status-of-mktemp):
 
-
-
 [mktemp invocation](#mktemp-invocation)
 
 [exit status of `nice`](#index-exit-status-of-nice):
-
-
 
 [nice invocation](#nice-invocation)
 
 [exit status of `nohup`](#index-exit-status-of-nohup):
 
-
-
 [nohup invocation](#nohup-invocation)
 
 [exit status of `pathchk`](#index-exit-status-of-pathchk):
-
-
 
 [pathchk invocation](#pathchk-invocation)
 
 [exit status of `printenv`](#index-exit-status-of-printenv):
 
-
-
 [printenv invocation](#printenv-invocation)
 
 [exit status of `realpath`](#index-exit-status-of-realpath):
-
-
 
 [realpath invocation](#realpath-invocation)
 
 [exit status of `runcon`](#index-exit-status-of-runcon):
 
-
-
 [runcon invocation](#runcon-invocation)
 
 [exit status of `sort`](#index-exit-status-of-sort):
-
-
 
 [sort invocation](#sort-invocation)
 
 [exit status of `stdbuf`](#index-exit-status-of-stdbuf):
 
-
-
 [stdbuf invocation](#stdbuf-invocation)
 
 [exit status of `test`](#index-exit-status-of-test):
-
-
 
 [test invocation](#test-invocation)
 
 [exit status of `timeout`](#index-exit-status-of-timeout):
 
-
-
 [timeout invocation](#timeout-invocation)
 
 [exit status of `true`](#index-exit-status-of-true):
-
-
 
 [true invocation](#true-invocation)
 
 [exit status of `tty`](#index-exit-status-of-tty):
 
-
-
 [tty invocation](#tty-invocation)
 
 [`expand`](#index-expand):
-
-
 
 [expand invocation](#expand-invocation)
 
 [`expr`](#index-expr):
 
-
-
 [expr invocation](#expr-invocation)
 
 [expression evaluation](#index-expression-evaluation):
-
-
 
 [test invocation](#test-invocation)
 
 [expression evaluation](#index-expression-evaluation-1):
 
-
-
 [expr invocation](#expr-invocation)
 
 [expressions, numeric](#index-expressions_002c-numeric):
-
-
 
 [Numeric expressions](#Numeric-expressions)
 
 [expressions, string](#index-expressions_002c-string):
 
-
-
 [String expressions](#String-expressions)
 
 [`ext2 file system type`](#index-ext2-file-system-type):
-
-
 
 [df invocation](#df-invocation)
 
 [`ext3 file system type`](#index-ext3-file-system-type):
 
-
-
 [df invocation](#df-invocation)
 
 [`ext4 file system type`](#index-ext4-file-system-type):
-
-
 
 [df invocation](#df-invocation)
 
 [extended attributes, xattr](#index-extended-attributes_002c-xattr):
 
-
-
 [install invocation](#install-invocation)
 
 [extended attributes, xattr](#index-extended-attributes_002c-xattr-1):
-
-
 
 [mv invocation](#mv-invocation)
 
 [`extension, sorting files by`](#index-extension_002c-sorting-files-by):
 
-
-
 [Sorting the output](#Sorting-the-output)
 
 [`extproc`](#index-extproc):
-
-
 
 [Local](#Local)
 
@@ -24201,475 +20791,317 @@ F
 
 [`factor`](#index-factor):
 
-
-
 [factor invocation](#factor-invocation)
 
 [failure exit status](#index-failure-exit-status):
-
-
 
 [false invocation](#false-invocation)
 
 [`false`](#index-false):
 
-
-
 [false invocation](#false-invocation)
 
 [`fat file system file`](#index-fat-file-system-file):
-
-
 
 [df invocation](#df-invocation)
 
 [`fdatasync`](#index-fdatasync):
 
-
-
 [dd invocation](#dd-invocation)
 
 [`ffn`](#index-ffn):
-
-
 
 [Output](#Output)
 
 [field separator character](#index-field-separator-character):
 
-
-
 [sort invocation](#sort-invocation)
 
 [fields, padding numeric](#index-fields_002c-padding-numeric):
-
-
 
 [Padding and other flags](#Padding-and-other-flags)
 
 [FIFOs, creating](#index-FIFOs_002c-creating):
 
-
-
 [mkfifo invocation](#mkfifo-invocation)
 
 [file attributes, changing](#index-file-attributes_002c-changing):
-
-
 
 [Changing file attributes](#Changing-file-attributes)
 
 [file characteristic tests](#index-file-characteristic-tests):
 
-
-
 [File characteristic tests](#File-characteristic-tests)
 
 [file contents, dumping unambiguously](#index-file-contents_002c-dumping-unambiguously):
-
-
 
 [od invocation](#od-invocation)
 
 [file information, preserving](#index-file-information_002c-preserving):
 
-
-
 [cp invocation](#cp-invocation)
 
 [file information, preserving, extended attributes, xattr](#index-file-information_002c-preserving_002c-extended-attributes_002c-xattr):
-
-
 
 [cp invocation](#cp-invocation)
 
 [file mode bits, numeric](#index-file-mode-bits_002c-numeric):
 
-
-
 [Numeric Modes](#Numeric-Modes)
 
 [file name manipulation](#index-file-name-manipulation):
-
-
 
 [File name manipulation](#File-name-manipulation)
 
 [file names, canonicalization](#index-file-names_002c-canonicalization):
 
-
-
 [realpath invocation](#realpath-invocation)
 
 [file names, checking validity and portability](#index-file-names_002c-checking-validity-and-portability):
-
-
 
 [pathchk invocation](#pathchk-invocation)
 
 [file names, creating temporary](#index-file-names_002c-creating-temporary):
 
-
-
 [mktemp invocation](#mktemp-invocation)
 
 [file names, stripping directory and suffix](#index-file-names_002c-stripping-directory-and-suffix):
-
-
 
 [basename invocation](#basename-invocation)
 
 [file offset radix](#index-file-offset-radix):
 
-
-
 [od invocation](#od-invocation)
 
 [file ownership, changing](#index-file-ownership_002c-changing):
-
-
 
 [chown invocation](#chown-invocation)
 
 [file sizes](#index-file-sizes):
 
-
-
 [du invocation](#du-invocation)
 
 [File space usage](#index-File-space-usage):
-
-
 
 [File space usage](#File-space-usage)
 
 [file space usage](#index-file-space-usage):
 
-
-
 [du invocation](#du-invocation)
 
 [file status](#index-file-status):
-
-
 
 [stat invocation](#stat-invocation)
 
 [file system allocation](#index-file-system-allocation):
 
-
-
 [What information is listed](#What-information-is-listed)
 
 [file system sizes](#index-file-system-sizes):
-
-
 
 [df invocation](#df-invocation)
 
 [file system space, retrieving current data more slowly](#index-file-system-space_002c-retrieving-current-data-more-slowly):
 
-
-
 [df invocation](#df-invocation)
 
 [file system space, retrieving old data more quickly](#index-file-system-space_002c-retrieving-old-data-more-quickly):
-
-
 
 [df invocation](#df-invocation)
 
 [file system status](#index-file-system-status):
 
-
-
 [stat invocation](#stat-invocation)
 
 [file system types, limiting output to certain](#index-file-system-types_002c-limiting-output-to-certain):
-
-
 
 [df invocation](#df-invocation)
 
 [file system types, limiting output to certain](#index-file-system-types_002c-limiting-output-to-certain-1):
 
-
-
 [df invocation](#df-invocation)
 
 [file system types, printing](#index-file-system-types_002c-printing):
-
-
 
 [df invocation](#df-invocation)
 
 [file system usage](#index-file-system-usage):
 
-
-
 [df invocation](#df-invocation)
 
 [file systems](#index-file-systems):
-
-
 
 [stat invocation](#stat-invocation)
 
 [file systems and hard links](#index-file-systems-and-hard-links):
 
-
-
 [ln invocation](#ln-invocation)
 
 [file systems, omitting copying to different](#index-file-systems_002c-omitting-copying-to-different):
-
-
 
 [cp invocation](#cp-invocation)
 
 [file timestamp resolution](#index-file-timestamp-resolution):
 
-
-
 [File timestamps](#File-timestamps)
 
 [file timestamps, changing](#index-file-timestamps_002c-changing):
-
-
 
 [touch invocation](#touch-invocation)
 
 [file type and executables, marking](#index-file-type-and-executables_002c-marking):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [file type tests](#index-file-type-tests):
-
-
 
 [File type tests](#File-type-tests)
 
 [file type, marking](#index-file-type_002c-marking):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [file type, marking](#index-file-type_002c-marking-1):
-
-
 
 [General output formatting](#General-output-formatting)
 
 [file types](#index-file-types):
 
-
-
 [Special file types](#Special-file-types)
 
 [file types, special](#index-file-types_002c-special):
-
-
 
 [Special file types](#Special-file-types)
 
 [file utilities](#index-file-utilities):
 
-
-
 [Top](#Top)
 
 [files beginning with ‘\-’, removing](#index-files-beginning-with-_002d_002c-removing):
-
-
 
 [rm invocation](#rm-invocation)
 
 [files, copying](#index-files_002c-copying):
 
-
-
 [cp invocation](#cp-invocation)
 
 [files, creating](#index-files_002c-creating):
-
-
 
 [truncate invocation](#truncate-invocation)
 
 [fingerprint, 128-bit](#index-fingerprint_002c-128_002dbit):
 
-
-
 [md5sum invocation](#md5sum-invocation)
 
 [fingerprint, 160-bit](#index-fingerprint_002c-160_002dbit):
-
-
 
 [sha1sum invocation](#sha1sum-invocation)
 
 [fingerprint, 224-bit](#index-fingerprint_002c-224_002dbit):
 
-
-
 [sha2 utilities](#sha2-utilities)
 
 [fingerprint, 256-bit](#index-fingerprint_002c-256_002dbit):
-
-
 
 [sha2 utilities](#sha2-utilities)
 
 [fingerprint, 384-bit](#index-fingerprint_002c-384_002dbit):
 
-
-
 [sha2 utilities](#sha2-utilities)
 
 [fingerprint, 512-bit](#index-fingerprint_002c-512_002dbit):
-
-
 
 [b2sum invocation](#b2sum-invocation)
 
 [fingerprint, 512-bit](#index-fingerprint_002c-512_002dbit-1):
 
-
-
 [sha2 utilities](#sha2-utilities)
 
 [`first in date strings`](#index-first-in-date-strings):
-
-
 
 [General date syntax](#General-date-syntax)
 
 [first part of files, outputting](#index-first-part-of-files_002c-outputting):
 
-
-
 [head invocation](#head-invocation)
 
 [fixed-length records, converting to variable-length](#index-fixed_002dlength-records_002c-converting-to-variable_002dlength):
-
-
 
 [dd invocation](#dd-invocation)
 
 [floating point](#index-floating-point):
 
-
-
 [Floating point](#Floating-point)
 
 [flow control, hardware](#index-flow-control_002c-hardware):
-
-
 
 [Control](#Control)
 
 [flow control, hardware](#index-flow-control_002c-hardware-1):
 
-
-
 [Control](#Control)
 
 [flow control, software](#index-flow-control_002c-software):
-
-
 
 [Input](#Input)
 
 [`flush`](#index-flush):
 
-
-
 [Characters](#Characters)
 
 [flushing, disabling](#index-flushing_002c-disabling):
-
-
 
 [Local](#Local)
 
 [`flusho`](#index-flusho):
 
-
-
 [Local](#Local)
 
 [`fmt`](#index-fmt):
-
-
 
 [fmt invocation](#fmt-invocation)
 
 [`fold`](#index-fold):
 
-
-
 [fold invocation](#fold-invocation)
 
 [folding long input lines](#index-folding-long-input-lines):
-
-
 
 [fold invocation](#fold-invocation)
 
 [footers, numbering](#index-footers_002c-numbering):
 
-
-
 [nl invocation](#nl-invocation)
 
 [force deletion](#index-force-deletion):
-
-
 
 [shred invocation](#shred-invocation)
 
 [formatting file contents](#index-formatting-file-contents):
 
-
-
 [Formatting file contents](#Formatting-file-contents)
 
 [formatting of numbers in `seq`](#index-formatting-of-numbers-in-seq):
-
-
 
 [seq invocation](#seq-invocation)
 
 [formatting times](#index-formatting-times):
 
-
-
 [pr invocation](#pr-invocation)
 
 [formatting times](#index-formatting-times-1):
-
-
 
 [Date format specifiers](#Date-format-specifiers)
 
 [`fortnight in date strings`](#index-fortnight-in-date-strings):
 
-
-
 [Relative items in date strings](#Relative-items-in-date-strings)
 
 [`fsync`](#index-fsync):
 
-
-
 [dd invocation](#dd-invocation)
 
 [`fullblock`](#index-fullblock):
-
-
 
 [dd invocation](#dd-invocation)
 
@@ -24679,115 +21111,77 @@ G
 
 [general date syntax](#index-general-date-syntax):
 
-
-
 [General date syntax](#General-date-syntax)
 
 [general numeric sort](#index-general-numeric-sort):
-
-
 
 [sort invocation](#sort-invocation)
 
 [gibibyte, definition of](#index-gibibyte_002c-definition-of):
 
-
-
 [Block size](#Block-size)
 
 [gigabyte, definition of](#index-gigabyte_002c-definition-of):
-
-
 
 [Block size](#Block-size)
 
 [giving away permissions](#index-giving-away-permissions):
 
-
-
 [Umask and Protection](#Umask-and-Protection)
 
 [GMT](#index-GMT):
-
-
 
 [Options for date](#Options-for-date)
 
 [grand total of file system size, usage and available space](#index-grand-total-of-file-system-size_002c-usage-and-available-space):
 
-
-
 [df invocation](#df-invocation)
 
 [grand total of file system space](#index-grand-total-of-file-system-space):
-
-
 
 [du invocation](#du-invocation)
 
 [`graph`](#index-graph):
 
-
-
 [Character arrays](#Character-arrays)
 
 [Greenwich Mean Time](#index-Greenwich-Mean-Time):
-
-
 
 [Options for date](#Options-for-date)
 
 [group IDs, disambiguating](#index-group-IDs_002c-disambiguating):
 
-
-
 [Disambiguating names and IDs](#Disambiguating-names-and-IDs)
 
 [group names, disambiguating](#index-group-names_002c-disambiguating):
-
-
 
 [Disambiguating names and IDs](#Disambiguating-names-and-IDs)
 
 [group owner, default](#index-group-owner_002c-default):
 
-
-
 [Mode Structure](#Mode-Structure)
 
 [group ownership of installed files, setting](#index-group-ownership-of-installed-files_002c-setting):
-
-
 
 [install invocation](#install-invocation)
 
 [group ownership, changing](#index-group-ownership_002c-changing):
 
-
-
 [chown invocation](#chown-invocation)
 
 [group ownership, changing](#index-group-ownership_002c-changing-1):
-
-
 
 [chgrp invocation](#chgrp-invocation)
 
 [group, permissions for](#index-group_002c-permissions-for):
 
-
-
 [Setting Permissions](#Setting-Permissions)
 
 [`groups`](#index-groups):
 
-
-
 [groups invocation](#groups-invocation)
 
 [growing files](#index-growing-files):
-
-
 
 [tail invocation](#tail-invocation)
 
@@ -24797,223 +21191,149 @@ H
 
 [hangups, immunity to](#index-hangups_002c-immunity-to):
 
-
-
 [nohup invocation](#nohup-invocation)
 
 [hard link check](#index-hard-link-check):
-
-
 
 [File characteristic tests](#File-characteristic-tests)
 
 [hard link, defined](#index-hard-link_002c-defined):
 
-
-
 [ln invocation](#ln-invocation)
 
 [hard links](#index-hard-links):
-
-
 
 [dd invocation](#dd-invocation)
 
 [hard links to directories](#index-hard-links-to-directories):
 
-
-
 [ln invocation](#ln-invocation)
 
 [hard links to symbolic links](#index-hard-links-to-symbolic-links):
-
-
 
 [ln invocation](#ln-invocation)
 
 [hard links, counting in `du`](#index-hard-links_002c-counting-in-du):
 
-
-
 [du invocation](#du-invocation)
 
 [hard links, creating](#index-hard-links_002c-creating):
-
-
 
 [link invocation](#link-invocation)
 
 [hard links, creating](#index-hard-links_002c-creating-1):
 
-
-
 [ln invocation](#ln-invocation)
 
 [hard links, preserving](#index-hard-links_002c-preserving):
-
-
 
 [cp invocation](#cp-invocation)
 
 [hardware class](#index-hardware-class):
 
-
-
 [uname invocation](#uname-invocation)
 
 [hardware flow control](#index-hardware-flow-control):
-
-
 
 [Control](#Control)
 
 [hardware flow control](#index-hardware-flow-control-1):
 
-
-
 [Control](#Control)
 
 [hardware platform](#index-hardware-platform):
-
-
 
 [uname invocation](#uname-invocation)
 
 [hardware type](#index-hardware-type):
 
-
-
 [uname invocation](#uname-invocation)
 
 [hat notation for control characters](#index-hat-notation-for-control-characters):
-
-
 
 [Local](#Local)
 
 [`head`](#index-head):
 
-
-
 [head invocation](#head-invocation)
 
 [head of output](#index-head-of-output):
-
-
 
 [shuf invocation](#shuf-invocation)
 
 [headers, numbering](#index-headers_002c-numbering):
 
-
-
 [nl invocation](#nl-invocation)
 
 [help, online](#index-help_002c-online):
-
-
 
 [Common options](#Common-options)
 
 [hex dump of files](#index-hex-dump-of-files):
 
-
-
 [od invocation](#od-invocation)
 
 [holes, copying files with](#index-holes_002c-copying-files-with):
-
-
 
 [cp invocation](#cp-invocation)
 
 [holes, creating files with](#index-holes_002c-creating-files-with):
 
-
-
 [truncate invocation](#truncate-invocation)
 
 [`horizontal, listing files`](#index-horizontal_002c-listing-files):
-
-
 
 [General output formatting](#General-output-formatting)
 
 [host processor type](#index-host-processor-type):
 
-
-
 [uname invocation](#uname-invocation)
 
 [`hostid`](#index-hostid):
-
-
 
 [hostid invocation](#hostid-invocation)
 
 [`hostname`](#index-hostname-1):
 
-
-
 [hostname invocation](#hostname-invocation)
 
 [hostname](#index-hostname):
-
-
 
 [uname invocation](#uname-invocation)
 
 [`hour in date strings`](#index-hour-in-date-strings):
 
-
-
 [Relative items in date strings](#Relative-items-in-date-strings)
 
 [human numeric sort](#index-human-numeric-sort):
-
-
 
 [sort invocation](#sort-invocation)
 
 [human-readable output](#index-human_002dreadable-output):
 
-
-
 [Block size](#Block-size)
 
 [human-readable output](#index-human_002dreadable-output-1):
-
-
 
 [What information is listed](#What-information-is-listed)
 
 [human-readable output](#index-human_002dreadable-output-2):
 
-
-
 [df invocation](#df-invocation)
 
 [human-readable output](#index-human_002dreadable-output-3):
-
-
 
 [du invocation](#du-invocation)
 
 [`hup[cl]`](#index-hup_005bcl_005d):
 
-
-
 [Control](#Control)
 
 [hurd, author, printing](#index-hurd_002c-author_002c-printing):
 
-
-
 [What information is listed](#What-information-is-listed)
 
 [hyperlink, linking to files](#index-hyperlink_002c-linking-to-files):
-
-
 
 [General output formatting](#General-output-formatting)
 
@@ -25023,325 +21343,217 @@ I
 
 [`ibs`](#index-ibs):
 
-
-
 [dd invocation](#dd-invocation)
 
 [`icanon`](#index-icanon):
-
-
 
 [Local](#Local)
 
 [`icrnl`](#index-icrnl):
 
-
-
 [Input](#Input)
 
 [`id`](#index-id):
-
-
 
 [id invocation](#id-invocation)
 
 [idle time](#index-idle-time):
 
-
-
 [who invocation](#who-invocation)
 
 [IEEE floating point](#index-IEEE-floating-point):
-
-
 
 [Floating point](#Floating-point)
 
 [`iexten`](#index-iexten):
 
-
-
 [Local](#Local)
 
 [`if`](#index-if):
-
-
 
 [dd invocation](#dd-invocation)
 
 [`iflag`](#index-iflag):
 
-
-
 [dd invocation](#dd-invocation)
 
 [`ignbrk`](#index-ignbrk):
-
-
 
 [Input](#Input)
 
 [`igncr`](#index-igncr):
 
-
-
 [Input](#Input)
 
 [ignore file systems](#index-ignore-file-systems):
-
-
 
 [df invocation](#df-invocation)
 
 [Ignore garbage in base64 stream](#index-Ignore-garbage-in-base64-stream):
 
-
-
 [base64 invocation](#base64-invocation)
 
 [ignoring case](#index-ignoring-case):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`ignpar`](#index-ignpar):
 
-
-
 [Input](#Input)
 
 [`imaxbel`](#index-imaxbel):
-
-
 
 [Input](#Input)
 
 [immunity to hangups](#index-immunity-to-hangups):
 
-
-
 [nohup invocation](#nohup-invocation)
 
 [implementation, hardware](#index-implementation_002c-hardware):
-
-
 
 [uname invocation](#uname-invocation)
 
 [indenting lines](#index-indenting-lines):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`index`](#index-index):
-
-
 
 [String expressions](#String-expressions)
 
 [information, about current users](#index-information_002c-about-current-users):
 
-
-
 [who invocation](#who-invocation)
 
 [initial part of files, outputting](#index-initial-part-of-files_002c-outputting):
-
-
 
 [head invocation](#head-invocation)
 
 [initial tabs, converting](#index-initial-tabs_002c-converting):
 
-
-
 [expand invocation](#expand-invocation)
 
 [`inlcr`](#index-inlcr):
-
-
 
 [Input](#Input)
 
 [inode number, printing](#index-inode-number_002c-printing):
 
-
-
 [What information is listed](#What-information-is-listed)
 
 [inode usage](#index-inode-usage):
-
-
 
 [df invocation](#df-invocation)
 
 [inode usage, dereferencing in `du`](#index-inode-usage_002c-dereferencing-in-du):
 
-
-
 [du invocation](#du-invocation)
 
 [inode, and hard links](#index-inode_002c-and-hard-links):
-
-
 
 [ln invocation](#ln-invocation)
 
 [inodes, written buffered](#index-inodes_002c-written-buffered):
 
-
-
 [sync invocation](#sync-invocation)
 
 [`inpck`](#index-inpck):
-
-
 
 [Input](#Input)
 
 [input block size](#index-input-block-size):
 
-
-
 [dd invocation](#dd-invocation)
 
 [input encoding, UTF-8](#index-input-encoding_002c-UTF_002d8):
-
-
 
 [Input](#Input)
 
 [input range to shuffle](#index-input-range-to-shuffle):
 
-
-
 [shuf invocation](#shuf-invocation)
 
 [input settings](#index-input-settings):
-
-
 
 [Input](#Input)
 
 [input tabs](#index-input-tabs):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`install`](#index-install):
-
-
 
 [install invocation](#install-invocation)
 
 [`intr`](#index-intr):
 
-
-
 [Characters](#Characters)
 
 [invocation of commands, modified](#index-invocation-of-commands_002c-modified):
-
-
 
 [Modified command invocation](#Modified-command-invocation)
 
 [`iseek`](#index-iseek):
 
-
-
 [dd invocation](#dd-invocation)
 
 [`isig`](#index-isig):
-
-
 
 [Local](#Local)
 
 [ISO 8601 date and time of day format](#index-ISO-8601-date-and-time-of-day-format):
 
-
-
 [Combined date and time of day items](#Combined-date-and-time-of-day-items)
 
 [ISO 8601 date format](#index-ISO-8601-date-format):
-
-
 
 [Calendar date items](#Calendar-date-items)
 
 [ISO/IEC 10646](#index-ISO_002fIEC-10646):
 
-
-
 [printf invocation](#printf-invocation)
 
 [ISO9660 file system type](#index-ISO9660-file-system-type):
-
-
 
 [df invocation](#df-invocation)
 
 [`iso9660 file system type`](#index-iso9660-file-system-type):
 
-
-
 [df invocation](#df-invocation)
 
 [`ispeed`](#index-ispeed):
-
-
 
 [Special](#Special)
 
 [`istrip`](#index-istrip):
 
-
-
 [Input](#Input)
 
 [items in date strings](#index-items-in-date-strings):
-
-
 
 [General date syntax](#General-date-syntax)
 
 [iterations, selecting the number of](#index-iterations_002c-selecting-the-number-of):
 
-
-
 [shred invocation](#shred-invocation)
 
 [`iuclc`](#index-iuclc):
-
-
 
 [Input](#Input)
 
 [`iutf8`](#index-iutf8):
 
-
-
 [Input](#Input)
 
 [`ixany`](#index-ixany):
-
-
 
 [Input](#Input)
 
 [`ixoff`](#index-ixoff):
 
-
-
 [Input](#Input)
 
 [`ixon`](#index-ixon):
-
-
 
 [Input](#Input)
 
@@ -25351,8 +21563,6 @@ J
 
 [`join`](#index-join):
 
-
-
 [join invocation](#join-invocation)
 
 ---
@@ -25361,61 +21571,41 @@ K
 
 [kernel name](#index-kernel-name):
 
-
-
 [uname invocation](#uname-invocation)
 
 [kernel release](#index-kernel-release):
-
-
 
 [uname invocation](#uname-invocation)
 
 [kernel version](#index-kernel-version):
 
-
-
 [uname invocation](#uname-invocation)
 
 [kibibyte, definition of](#index-kibibyte_002c-definition-of):
-
-
 
 [Block size](#Block-size)
 
 [kibibytes for file sizes](#index-kibibytes-for-file-sizes):
 
-
-
 [du invocation](#du-invocation)
 
 [kibibytes for file system sizes](#index-kibibytes-for-file-system-sizes):
-
-
 
 [df invocation](#df-invocation)
 
 [`kill`](#index-kill-1):
 
-
-
 [kill invocation](#kill-invocation)
 
 [`kill`](#index-kill):
-
-
 
 [Characters](#Characters)
 
 [kilobyte, definition of](#index-kilobyte_002c-definition-of):
 
-
-
 [Block size](#Block-size)
 
 [Knuth, Donald E.](#index-Knuth_002c-Donald-E_002e):
-
-
 
 [fmt invocation](#fmt-invocation)
 
@@ -25425,559 +21615,373 @@ L
 
 [language, in dates](#index-language_002c-in-dates):
 
-
-
 [General date syntax](#General-date-syntax)
 
 [language, in dates](#index-language_002c-in-dates-1):
-
-
 
 [General date syntax](#General-date-syntax)
 
 [`last day`](#index-last-day):
 
-
-
 [Day of week items](#Day-of-week-items)
 
 [`last day`](#index-last-day-1):
-
-
 
 [Options for date](#Options-for-date)
 
 [`last in date strings`](#index-last-in-date-strings):
 
-
-
 [General date syntax](#General-date-syntax)
 
 [last modified dates, displaying in `du`](#index-last-modified-dates_002c-displaying-in-du):
-
-
 
 [du invocation](#du-invocation)
 
 [last part of files, outputting](#index-last-part-of-files_002c-outputting):
 
-
-
 [tail invocation](#tail-invocation)
 
 [`lcase`](#index-lcase):
-
-
 
 [Combination](#Combination)
 
 [`LCASE`](#index-LCASE):
 
-
-
 [Combination](#Combination)
 
 [`lcase, converting to`](#index-lcase_002c-converting-to):
-
-
 
 [dd invocation](#dd-invocation)
 
 [`lchown`](#index-lchown):
 
-
-
 [chown invocation](#chown-invocation)
 
 [`lchown`](#index-lchown-1):
-
-
 
 [chown invocation](#chown-invocation)
 
 [`lchown`](#index-lchown-2):
 
-
-
 [chgrp invocation](#chgrp-invocation)
 
 [`lchown`](#index-lchown-3):
-
-
 
 [chgrp invocation](#chgrp-invocation)
 
 [`LC_ALL`](#index-LC_005fALL):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`LC_ALL`](#index-LC_005fALL-1):
-
-
 
 [ls invocation](#ls-invocation)
 
 [`LC_COLLATE`](#index-LC_005fCOLLATE):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`LC_COLLATE`](#index-LC_005fCOLLATE-1):
-
-
 
 [uniq invocation](#uniq-invocation)
 
 [`LC_COLLATE`](#index-LC_005fCOLLATE-2):
 
-
-
 [comm invocation](#comm-invocation)
 
 [`LC_COLLATE`](#index-LC_005fCOLLATE-3):
-
-
 
 [Sorting files for join](#Sorting-files-for-join)
 
 [`LC_COLLATE`](#index-LC_005fCOLLATE-4):
 
-
-
 [Relations for expr](#Relations-for-expr)
 
 [`LC_CTYPE`](#index-LC_005fCTYPE):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`LC_CTYPE`](#index-LC_005fCTYPE-1):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`LC_CTYPE`](#index-LC_005fCTYPE-2):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`LC_CTYPE`](#index-LC_005fCTYPE-3):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`LC_CTYPE`](#index-LC_005fCTYPE-4):
-
-
 
 [printf invocation](#printf-invocation)
 
 [`LC_MESSAGES`](#index-LC_005fMESSAGES):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`LC_NUMERIC`](#index-LC_005fNUMERIC):
-
-
 
 [Block size](#Block-size)
 
 [`LC_NUMERIC`](#index-LC_005fNUMERIC-1):
 
-
-
 [Floating point](#Floating-point)
 
 [`LC_NUMERIC`](#index-LC_005fNUMERIC-2):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`LC_NUMERIC`](#index-LC_005fNUMERIC-3):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`LC_NUMERIC`](#index-LC_005fNUMERIC-4):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`LC_NUMERIC`](#index-LC_005fNUMERIC-5):
 
-
-
 [printf invocation](#printf-invocation)
 
 [`LC_TIME`](#index-LC_005fTIME):
-
-
 
 [pr invocation](#pr-invocation)
 
 [`LC_TIME`](#index-LC_005fTIME-1):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`LC_TIME`](#index-LC_005fTIME-2):
-
-
 
 [Formatting file timestamps](#Formatting-file-timestamps)
 
 [`LC_TIME`](#index-LC_005fTIME-3):
 
-
-
 [Formatting file timestamps](#Formatting-file-timestamps)
 
 [`LC_TIME`](#index-LC_005fTIME-4):
-
-
 
 [Formatting file timestamps](#Formatting-file-timestamps)
 
 [`LC_TIME`](#index-LC_005fTIME-5):
 
-
-
 [du invocation](#du-invocation)
 
 [`LC_TIME`](#index-LC_005fTIME-6):
-
-
 
 [date invocation](#date-invocation)
 
 [leading directories, creating missing](#index-leading-directories_002c-creating-missing):
 
-
-
 [install invocation](#install-invocation)
 
 [leading directory components, stripping](#index-leading-directory-components_002c-stripping):
-
-
 
 [basename invocation](#basename-invocation)
 
 [leap seconds](#index-leap-seconds):
 
-
-
 [touch invocation](#touch-invocation)
 
 [leap seconds](#index-leap-seconds-1):
-
-
 
 [Time conversion specifiers](#Time-conversion-specifiers)
 
 [leap seconds](#index-leap-seconds-2):
 
-
-
 [Time conversion specifiers](#Time-conversion-specifiers)
 
 [leap seconds](#index-leap-seconds-3):
-
-
 
 [Options for date](#Options-for-date)
 
 [leap seconds](#index-leap-seconds-4):
 
-
-
 [Examples of date](#Examples-of-date)
 
 [leap seconds](#index-leap-seconds-5):
-
-
 
 [General date syntax](#General-date-syntax)
 
 [leap seconds](#index-leap-seconds-6):
 
-
-
 [Time of day items](#Time-of-day-items)
 
 [leap seconds](#index-leap-seconds-7):
-
-
 
 [Seconds since the Epoch](#Seconds-since-the-Epoch)
 
 [left margin](#index-left-margin):
 
-
-
 [pr invocation](#pr-invocation)
 
 [`length`](#index-length):
-
-
 
 [String expressions](#String-expressions)
 
 [limiting output of `du`](#index-limiting-output-of-du):
 
-
-
 [du invocation](#du-invocation)
 
 [`line`](#index-line):
-
-
 
 [Special](#Special)
 
 [line buffered](#index-line-buffered):
 
-
-
 [stdbuf invocation](#stdbuf-invocation)
 
 [line count](#index-line-count):
-
-
 
 [wc invocation](#wc-invocation)
 
 [line numbering](#index-line-numbering):
 
-
-
 [nl invocation](#nl-invocation)
 
 [line separator character](#index-line-separator-character):
-
-
 
 [split invocation](#split-invocation)
 
 [line settings of terminal](#index-line-settings-of-terminal):
 
-
-
 [stty invocation](#stty-invocation)
 
 [line-breaking](#index-line_002dbreaking):
-
-
 
 [fmt invocation](#fmt-invocation)
 
 [line-by-line comparison](#index-line_002dby_002dline-comparison):
 
-
-
 [comm invocation](#comm-invocation)
 
 [`LINES`](#index-LINES):
-
-
 
 [Special](#Special)
 
 [`link`](#index-link):
 
-
-
 [link invocation](#link-invocation)
 
 [links, creating](#index-links_002c-creating):
-
-
 
 [link invocation](#link-invocation)
 
 [links, creating](#index-links_002c-creating-1):
 
-
-
 [ln invocation](#ln-invocation)
 
 [Linux file system types](#index-Linux-file-system-types):
-
-
 
 [df invocation](#df-invocation)
 
 [literal conversion specifiers](#index-literal-conversion-specifiers):
 
-
-
 [Literal conversion specifiers](#Literal-conversion-specifiers)
 
 [`litout`](#index-litout):
-
-
 
 [Combination](#Combination)
 
 [`ln`](#index-ln):
 
-
-
 [ln invocation](#ln-invocation)
 
 [`` ln format for `nl` ``](#index-ln-format-for-nl):
-
-
 
 [nl invocation](#nl-invocation)
 
 [`lnext`](#index-lnext):
 
-
-
 [Characters](#Characters)
 
 [local file system types](#index-local-file-system-types):
-
-
 
 [df invocation](#df-invocation)
 
 [local settings](#index-local-settings):
 
-
-
 [Local](#Local)
 
 [logging out and continuing to run](#index-logging-out-and-continuing-to-run):
-
-
 
 [nohup invocation](#nohup-invocation)
 
 [logical and operator](#index-logical-and-operator):
 
-
-
 [Connectives for test](#Connectives-for-test)
 
 [logical and operator](#index-logical-and-operator-1):
-
-
 
 [Relations for expr](#Relations-for-expr)
 
 [logical connectives](#index-logical-connectives):
 
-
-
 [Connectives for test](#Connectives-for-test)
 
 [logical connectives](#index-logical-connectives-1):
-
-
 
 [Relations for expr](#Relations-for-expr)
 
 [logical or operator](#index-logical-or-operator):
 
-
-
 [Connectives for test](#Connectives-for-test)
 
 [logical or operator](#index-logical-or-operator-1):
-
-
 
 [Relations for expr](#Relations-for-expr)
 
 [logical pages, numbering on](#index-logical-pages_002c-numbering-on):
 
-
-
 [nl invocation](#nl-invocation)
 
 [login name, printing](#index-login-name_002c-printing):
-
-
 
 [logname invocation](#logname-invocation)
 
 [login sessions, printing users with](#index-login-sessions_002c-printing-users-with):
 
-
-
 [users invocation](#users-invocation)
 
 [login time](#index-login-time):
-
-
 
 [who invocation](#who-invocation)
 
 [`logname`](#index-logname):
 
-
-
 [logname invocation](#logname-invocation)
 
 [`long ls format`](#index-long-ls-format):
-
-
 
 [What information is listed](#What-information-is-listed)
 
 [`lower`](#index-lower):
 
-
-
 [Character arrays](#Character-arrays)
 
 [lowercase, translating to output](#index-lowercase_002c-translating-to-output):
-
-
 
 [Output](#Output)
 
 [`ls`](#index-ls):
 
-
-
 [ls invocation](#ls-invocation)
 
 [`LS_BLOCK_SIZE`](#index-LS_005fBLOCK_005fSIZE):
-
-
 
 [Block size](#Block-size)
 
 [`LS_COLORS`](#index-LS_005fCOLORS):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [`LS_COLORS`](#index-LS_005fCOLORS-1):
 
-
-
 [dircolors invocation](#dircolors-invocation)
 
 [`lutimes`](#index-lutimes):
-
-
 
 [touch invocation](#touch-invocation)
 
@@ -25987,367 +21991,245 @@ M
 
 [machine type](#index-machine-type):
 
-
-
 [uname invocation](#uname-invocation)
 
 [machine-readable `stty` output](#index-machine_002dreadable-stty-output):
-
-
 
 [stty invocation](#stty-invocation)
 
 [MacKenzie, D.](#index-MacKenzie_002c-D_002e):
 
-
-
 [Introduction](#Introduction)
 
 [MacKenzie, David](#index-MacKenzie_002c-David):
-
-
 
 [Authors of parse_datetime](#Authors-of-parse_005fdatetime)
 
 [Makefiles, installing programs in](#index-Makefiles_002c-installing-programs-in):
 
-
-
 [install invocation](#install-invocation)
 
 [manipulating files](#index-manipulating-files):
-
-
 
 [Basic operations](#Basic-operations)
 
 [manipulation of file names](#index-manipulation-of-file-names):
 
-
-
 [File name manipulation](#File-name-manipulation)
 
 [mark parity](#index-mark-parity):
-
-
 
 [Control](#Control)
 
 [`match`](#index-match):
 
-
-
 [String expressions](#String-expressions)
 
 [matching patterns](#index-matching-patterns):
-
-
 
 [String expressions](#String-expressions)
 
 [MD5](#index-MD5):
 
-
-
 [md5sum invocation](#md5sum-invocation)
 
 [`md5sum`](#index-md5sum):
-
-
 
 [md5sum invocation](#md5sum-invocation)
 
 [mebibyte, definition of](#index-mebibyte_002c-definition-of):
 
-
-
 [Block size](#Block-size)
 
 [mebibytes for file sizes](#index-mebibytes-for-file-sizes):
-
-
 
 [du invocation](#du-invocation)
 
 [megabyte, definition of](#index-megabyte_002c-definition-of):
 
-
-
 [Block size](#Block-size)
 
 [merging files](#index-merging-files):
-
-
 
 [paste invocation](#paste-invocation)
 
 [merging files in parallel](#index-merging-files-in-parallel):
 
-
-
 [pr invocation](#pr-invocation)
 
 [merging sorted files](#index-merging-sorted-files):
-
-
 
 [sort invocation](#sort-invocation)
 
 [message status](#index-message-status):
 
-
-
 [who invocation](#who-invocation)
 
 [message-digest, 128-bit](#index-message_002ddigest_002c-128_002dbit):
-
-
 
 [md5sum invocation](#md5sum-invocation)
 
 [message-digest, 160-bit](#index-message_002ddigest_002c-160_002dbit):
 
-
-
 [sha1sum invocation](#sha1sum-invocation)
 
 [message-digest, 224-bit](#index-message_002ddigest_002c-224_002dbit):
-
-
 
 [sha2 utilities](#sha2-utilities)
 
 [message-digest, 256-bit](#index-message_002ddigest_002c-256_002dbit):
 
-
-
 [sha2 utilities](#sha2-utilities)
 
 [message-digest, 384-bit](#index-message_002ddigest_002c-384_002dbit):
-
-
 
 [sha2 utilities](#sha2-utilities)
 
 [message-digest, 512-bit](#index-message_002ddigest_002c-512_002dbit):
 
-
-
 [b2sum invocation](#b2sum-invocation)
 
 [message-digest, 512-bit](#index-message_002ddigest_002c-512_002dbit-1):
-
-
 
 [sha2 utilities](#sha2-utilities)
 
 [Meyering, J.](#index-Meyering_002c-J_002e):
 
-
-
 [Introduction](#Introduction)
 
 [Meyering, Jim](#index-Meyering_002c-Jim):
-
-
 
 [Authors of parse_datetime](#Authors-of-parse_005fdatetime)
 
 [`midnight in date strings`](#index-midnight-in-date-strings):
 
-
-
 [Time of day items](#Time-of-day-items)
 
 [`min`](#index-min):
-
-
 
 [Special](#Special)
 
 [`minute in date strings`](#index-minute-in-date-strings):
 
-
-
 [Relative items in date strings](#Relative-items-in-date-strings)
 
 [minutes, time zone correction by](#index-minutes_002c-time-zone-correction-by):
-
-
 
 [Time of day items](#Time-of-day-items)
 
 [`mkdir`](#index-mkdir):
 
-
-
 [mkdir invocation](#mkdir-invocation)
 
 [`mkfifo`](#index-mkfifo):
-
-
 
 [mkfifo invocation](#mkfifo-invocation)
 
 [`mknod`](#index-mknod):
 
-
-
 [mknod invocation](#mknod-invocation)
 
 [`mktemp`](#index-mktemp):
-
-
 
 [mktemp invocation](#mktemp-invocation)
 
 [modem control](#index-modem-control):
 
-
-
 [Control](#Control)
 
 [modes and umask](#index-modes-and-umask):
-
-
 
 [Umask and Protection](#Umask-and-Protection)
 
 [modes of created directories, setting](#index-modes-of-created-directories_002c-setting):
 
-
-
 [mkdir invocation](#mkdir-invocation)
 
 [modes of created FIFOs, setting](#index-modes-of-created-FIFOs_002c-setting):
-
-
 
 [mkfifo invocation](#mkfifo-invocation)
 
 [`modification timestamp, sorting files by`](#index-modification-timestamp_002c-sorting-files-by):
 
-
-
 [Sorting the output](#Sorting-the-output)
 
 [modified command invocation](#index-modified-command-invocation):
-
-
 
 [Modified command invocation](#Modified-command-invocation)
 
 [modified environment, running a program in a](#index-modified-environment_002c-running-a-program-in-a):
 
-
-
 [env invocation](#env-invocation)
 
 [`modify time, changing`](#index-modify-time_002c-changing):
-
-
 
 [touch invocation](#touch-invocation)
 
 [`month in date strings`](#index-month-in-date-strings):
 
-
-
 [Relative items in date strings](#Relative-items-in-date-strings)
 
 [month names in date strings](#index-month-names-in-date-strings):
-
-
 
 [Calendar date items](#Calendar-date-items)
 
 [months, sorting by](#index-months_002c-sorting-by):
 
-
-
 [sort invocation](#sort-invocation)
 
 [months, written-out](#index-months_002c-written_002dout):
-
-
 
 [General date syntax](#General-date-syntax)
 
 [MS-DOS file system](#index-MS_002dDOS-file-system):
 
-
-
 [df invocation](#df-invocation)
 
 [MS-Windows file system](#index-MS_002dWindows-file-system):
-
-
 
 [df invocation](#df-invocation)
 
 [mtime](#index-mtime):
 
-
-
 [File timestamps](#File-timestamps)
 
 [`mtime, changing`](#index-mtime_002c-changing):
-
-
 
 [touch invocation](#touch-invocation)
 
 [`mtime, printing or sorting files by`](#index-mtime_002c-printing-or-sorting-files-by):
 
-
-
 [Sorting the output](#Sorting-the-output)
 
 [mtime-greater-atime file check](#index-mtime_002dgreater_002datime-file-check):
-
-
 
 [File characteristic tests](#File-characteristic-tests)
 
 [`multicall`](#index-multicall):
 
-
-
 [Multi-call invocation](#Multi_002dcall-invocation)
 
 [multicolumn output, generating](#index-multicolumn-output_002c-generating):
-
-
 
 [pr invocation](#pr-invocation)
 
 [multiple changes to permissions](#index-multiple-changes-to-permissions):
 
-
-
 [Multiple Changes](#Multiple-Changes)
 
 [multiplication](#index-multiplication):
-
-
 
 [Numeric expressions](#Numeric-expressions)
 
 [multipliers after numbers](#index-multipliers-after-numbers):
 
-
-
 [dd invocation](#dd-invocation)
 
 [multithreaded sort](#index-multithreaded-sort):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`mv`](#index-mv):
-
-
 
 [mv invocation](#mv-invocation)
 
@@ -26357,463 +22239,309 @@ N
 
 [`name follow option`](#index-name-follow-option):
 
-
-
 [tail invocation](#tail-invocation)
 
 [name of kernel](#index-name-of-kernel):
-
-
 
 [uname invocation](#uname-invocation)
 
 [named pipe check](#index-named-pipe-check):
 
-
-
 [File type tests](#File-type-tests)
 
 [named pipes, creating](#index-named-pipes_002c-creating):
-
-
 
 [mkfifo invocation](#mkfifo-invocation)
 
 [network node name](#index-network-node-name):
 
-
-
 [uname invocation](#uname-invocation)
 
 [networked file systems and `du`](#index-networked-file-systems-and-du):
-
-
 
 [du invocation](#du-invocation)
 
 [`never interactive option`](#index-never-interactive-option):
 
-
-
 [rm invocation](#rm-invocation)
 
 [newer files, copying only](#index-newer-files_002c-copying-only):
-
-
 
 [cp invocation](#cp-invocation)
 
 [newer files, moving only](#index-newer-files_002c-moving-only):
 
-
-
 [mv invocation](#mv-invocation)
 
 [newer-than file check](#index-newer_002dthan-file-check):
-
-
 
 [File characteristic tests](#File-characteristic-tests)
 
 [newline echoing after `kill`](#index-newline-echoing-after-kill):
 
-
-
 [Local](#Local)
 
 [newline, echoing](#index-newline_002c-echoing):
-
-
 
 [Local](#Local)
 
 [newline, translating to crlf](#index-newline_002c-translating-to-crlf):
 
-
-
 [Output](#Output)
 
 [newline, translating to return](#index-newline_002c-translating-to-return):
-
-
 
 [Input](#Input)
 
 [`next day`](#index-next-day):
 
-
-
 [Day of week items](#Day-of-week-items)
 
 [`next day`](#index-next-day-1):
-
-
 
 [Options for date](#Options-for-date)
 
 [`next in date strings`](#index-next-in-date-strings):
 
-
-
 [General date syntax](#General-date-syntax)
 
 [NFS file system type](#index-NFS-file-system-type):
-
-
 
 [df invocation](#df-invocation)
 
 [NFS mounts from BSD to HP-UX](#index-NFS-mounts-from-BSD-to-HP_002dUX):
 
-
-
 [What information is listed](#What-information-is-listed)
 
 [`nice`](#index-nice):
-
-
 
 [nice invocation](#nice-invocation)
 
 [niceness](#index-niceness):
 
-
-
 [nice invocation](#nice-invocation)
 
 [`nl`](#index-nl-1):
-
-
 
 [nl invocation](#nl-invocation)
 
 [`nl`](#index-nl):
 
-
-
 [Combination](#Combination)
 
 [`nln`](#index-nln):
-
-
 
 [Output](#Output)
 
 [no dereference](#index-no-dereference):
 
-
-
 [chcon invocation](#chcon-invocation)
 
 [no-op](#index-no_002dop):
-
-
 
 [true invocation](#true-invocation)
 
 [`noatime`](#index-noatime):
 
-
-
 [dd invocation](#dd-invocation)
 
 [`nocache`](#index-nocache):
-
-
 
 [dd invocation](#dd-invocation)
 
 [`nocreat`](#index-nocreat):
 
-
-
 [dd invocation](#dd-invocation)
 
 [`noctty`](#index-noctty):
-
-
 
 [dd invocation](#dd-invocation)
 
 [node name](#index-node-name):
 
-
-
 [uname invocation](#uname-invocation)
 
 [`noerror`](#index-noerror):
-
-
 
 [dd invocation](#dd-invocation)
 
 [`noflsh`](#index-noflsh):
 
-
-
 [Local](#Local)
 
 [`nofollow`](#index-nofollow):
-
-
 
 [dd invocation](#dd-invocation)
 
 [`nohup`](#index-nohup):
 
-
-
 [nohup invocation](#nohup-invocation)
 
 [`nohup.out`](#index-nohup_002eout):
-
-
 
 [nohup invocation](#nohup-invocation)
 
 [`nohup.out`](#index-nohup_002eout-1):
 
-
-
 [nohup invocation](#nohup-invocation)
 
 [`nolinks`](#index-nolinks):
-
-
 
 [dd invocation](#dd-invocation)
 
 [non-directories, copying as special files](#index-non_002ddirectories_002c-copying-as-special-files):
 
-
-
 [cp invocation](#cp-invocation)
 
 [non-directories, copying as special files](#index-non_002ddirectories_002c-copying-as-special-files-1):
-
-
 
 [cp invocation](#cp-invocation)
 
 [non-directory suffix, stripping](#index-non_002ddirectory-suffix_002c-stripping):
 
-
-
 [dirname invocation](#dirname-invocation)
 
 [`nonblock`](#index-nonblock):
-
-
 
 [dd invocation](#dd-invocation)
 
 [nonblocking I/O](#index-nonblocking-I_002fO):
 
-
-
 [dd invocation](#dd-invocation)
 
 [nonblocking `stty` setting](#index-nonblocking-stty-setting):
-
-
 
 [Special](#Special)
 
 [`none backup method`](#index-none-backup-method):
 
-
-
 [Backup options](#Backup-options)
 
 [`none classify option`](#index-none-classify-option):
-
-
 
 [General output formatting](#General-output-formatting)
 
 [`none color option`](#index-none-color-option):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [`none dd status=`](#index-none-dd-status_003d):
-
-
 
 [dd invocation](#dd-invocation)
 
 [`none hyperlink option`](#index-none-hyperlink-option):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [`none total option`](#index-none-total-option):
-
-
 
 [wc invocation](#wc-invocation)
 
 [`` none, sorting option for `ls` ``](#index-none_002c-sorting-option-for-ls):
 
-
-
 [Sorting the output](#Sorting-the-output)
 
 [nonempty file check](#index-nonempty-file-check):
-
-
 
 [File characteristic tests](#File-characteristic-tests)
 
 [nonprinting characters, ignoring](#index-nonprinting-characters_002c-ignoring):
 
-
-
 [sort invocation](#sort-invocation)
 
 [nonzero-length string check](#index-nonzero_002dlength-string-check):
-
-
 
 [String tests](#String-tests)
 
 [`noon in date strings`](#index-noon-in-date-strings):
 
-
-
 [Time of day items](#Time-of-day-items)
 
 [not-equal string check](#index-not_002dequal-string-check):
-
-
 
 [String tests](#String-tests)
 
 [`notrunc`](#index-notrunc):
 
-
-
 [dd invocation](#dd-invocation)
 
 [`now in date strings`](#index-now-in-date-strings):
-
-
 
 [Relative items in date strings](#Relative-items-in-date-strings)
 
 [`noxfer dd status=`](#index-noxfer-dd-status_003d):
 
-
-
 [dd invocation](#dd-invocation)
 
 [NO_NEW_PRIVS](#index-NO_005fNEW_005fPRIVS):
-
-
 
 [runcon invocation](#runcon-invocation)
 
 [`nproc`](#index-nproc):
 
-
-
 [nproc invocation](#nproc-invocation)
 
 [NTFS file system](#index-NTFS-file-system):
-
-
 
 [df invocation](#df-invocation)
 
 [`ntfs file system file`](#index-ntfs-file-system-file):
 
-
-
 [df invocation](#df-invocation)
 
 [number of inputs to merge, nmerge](#index-number-of-inputs-to-merge_002c-nmerge):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`numbered backup method`](#index-numbered-backup-method):
 
-
-
 [Backup options](#Backup-options)
 
 [numbering lines](#index-numbering-lines):
-
-
 
 [nl invocation](#nl-invocation)
 
 [numbers, written-out](#index-numbers_002c-written_002dout):
 
-
-
 [General date syntax](#General-date-syntax)
 
 [numeric expressions](#index-numeric-expressions):
-
-
 
 [Numeric expressions](#Numeric-expressions)
 
 [numeric field padding](#index-numeric-field-padding):
 
-
-
 [Padding and other flags](#Padding-and-other-flags)
 
 [numeric modes](#index-numeric-modes):
-
-
 
 [Numeric Modes](#Numeric-Modes)
 
 [numeric operations](#index-numeric-operations):
 
-
-
 [Numeric operations](#Numeric-operations)
 
 [numeric sequences](#index-numeric-sequences):
-
-
 
 [seq invocation](#seq-invocation)
 
 [numeric sort](#index-numeric-sort):
 
-
-
 [sort invocation](#sort-invocation)
 
 [numeric tests](#index-numeric-tests):
-
-
 
 [Numeric tests](#Numeric-tests)
 
 [numeric uid and gid](#index-numeric-uid-and-gid):
 
-
-
 [What information is listed](#What-information-is-listed)
 
 [numeric user and group IDs](#index-numeric-user-and-group-IDs):
 
-
-
 [What information is listed](#What-information-is-listed)
 
 [`numfmt`](#index-numfmt):
-
-
 
 [numfmt invocation](#numfmt-invocation)
 
@@ -26823,361 +22551,241 @@ O
 
 [`obs`](#index-obs):
 
-
-
 [dd invocation](#dd-invocation)
 
 [`ocrnl`](#index-ocrnl):
-
-
 
 [Output](#Output)
 
 [octal dump of files](#index-octal-dump-of-files):
 
-
-
 [od invocation](#od-invocation)
 
 [octal numbers for file modes](#index-octal-numbers-for-file-modes):
-
-
 
 [Numeric Modes](#Numeric-Modes)
 
 [`od`](#index-od):
 
-
-
 [od invocation](#od-invocation)
 
 [odd parity](#index-odd-parity):
-
-
 
 [Control](#Control)
 
 [`oddp`](#index-oddp):
 
-
-
 [Combination](#Combination)
 
 [`of`](#index-of):
-
-
 
 [dd invocation](#dd-invocation)
 
 [`ofdel`](#index-ofdel):
 
-
-
 [Output](#Output)
 
 [`ofill`](#index-ofill):
-
-
 
 [Output](#Output)
 
 [`oflag`](#index-oflag):
 
-
-
 [dd invocation](#dd-invocation)
 
 [`olcuc`](#index-olcuc):
-
-
 
 [Output](#Output)
 
 [older-than file check](#index-older_002dthan-file-check):
 
-
-
 [File characteristic tests](#File-characteristic-tests)
 
 [`once interactive option`](#index-once-interactive-option):
-
-
 
 [rm invocation](#rm-invocation)
 
 [one file system, restricting `du` to](#index-one-file-system_002c-restricting-du-to):
 
-
-
 [du invocation](#du-invocation)
 
 [one file system, restricting `rm` to](#index-one-file-system_002c-restricting-rm-to):
-
-
 
 [rm invocation](#rm-invocation)
 
 [one-line output format](#index-one_002dline-output-format):
 
-
-
 [df invocation](#df-invocation)
 
 [`onlcr`](#index-onlcr):
-
-
 
 [Output](#Output)
 
 [`onlret`](#index-onlret):
 
-
-
 [Output](#Output)
 
 [`only total option`](#index-only-total-option):
-
-
 
 [wc invocation](#wc-invocation)
 
 [`onocr`](#index-onocr):
 
-
-
 [Output](#Output)
 
 [operating on characters](#index-operating-on-characters):
-
-
 
 [Operating on characters](#Operating-on-characters)
 
 [operating on sorted files](#index-operating-on-sorted-files):
 
-
-
 [Operating on sorted files](#Operating-on-sorted-files)
 
 [operating system name](#index-operating-system-name):
-
-
 
 [uname invocation](#uname-invocation)
 
 [`opost`](#index-opost):
 
-
-
 [Output](#Output)
 
 [option delimiter](#index-option-delimiter):
-
-
 
 [Common options](#Common-options)
 
 [options for `date`](#index-options-for-date):
 
-
-
 [Options for date](#Options-for-date)
 
 [or operator](#index-or-operator):
-
-
 
 [Connectives for test](#Connectives-for-test)
 
 [or operator](#index-or-operator-1):
 
-
-
 [Relations for expr](#Relations-for-expr)
 
 [ordinal numbers](#index-ordinal-numbers):
-
-
 
 [General date syntax](#General-date-syntax)
 
 [`oseek`](#index-oseek):
 
-
-
 [dd invocation](#dd-invocation)
 
 [`ospeed`](#index-ospeed):
-
-
 
 [Special](#Special)
 
 [other permissions](#index-other-permissions):
 
-
-
 [Setting Permissions](#Setting-Permissions)
 
 [output block size](#index-output-block-size):
-
-
 
 [dd invocation](#dd-invocation)
 
 [output file name prefix](#index-output-file-name-prefix):
 
-
-
 [split invocation](#split-invocation)
 
 [output file name prefix](#index-output-file-name-prefix-1):
-
-
 
 [csplit invocation](#csplit-invocation)
 
 [output file name suffix](#index-output-file-name-suffix):
 
-
-
 [csplit invocation](#csplit-invocation)
 
 [output format](#index-output-format):
-
-
 
 [stat invocation](#stat-invocation)
 
 [output format](#index-output-format-1):
 
-
-
 [stat invocation](#stat-invocation)
 
 [output format, portable](#index-output-format_002c-portable):
-
-
 
 [df invocation](#df-invocation)
 
 [output NUL-byte-terminated lines](#index-output-NUL_002dbyte_002dterminated-lines):
 
-
-
 [cksum common options](#cksum-common-options)
 
 [output NUL-byte-terminated lines](#index-output-NUL_002dbyte_002dterminated-lines-1):
-
-
 
 [General output formatting](#General-output-formatting)
 
 [output NUL-byte-terminated lines](#index-output-NUL_002dbyte_002dterminated-lines-2):
 
-
-
 [readlink invocation](#readlink-invocation)
 
 [output NUL-byte-terminated lines](#index-output-NUL_002dbyte_002dterminated-lines-3):
-
-
 
 [du invocation](#du-invocation)
 
 [output NUL-byte-terminated lines](#index-output-NUL_002dbyte_002dterminated-lines-4):
 
-
-
 [basename invocation](#basename-invocation)
 
 [output NUL-byte-terminated lines](#index-output-NUL_002dbyte_002dterminated-lines-5):
-
-
 
 [dirname invocation](#dirname-invocation)
 
 [output NUL-byte-terminated lines](#index-output-NUL_002dbyte_002dterminated-lines-6):
 
-
-
 [realpath invocation](#realpath-invocation)
 
 [output NUL-byte-terminated lines](#index-output-NUL_002dbyte_002dterminated-lines-7):
-
-
 
 [printenv invocation](#printenv-invocation)
 
 [output NUL-byte-terminated lines](#index-output-NUL_002dbyte_002dterminated-lines-8):
 
-
-
 [env invocation](#env-invocation)
 
 [output of entire files](#index-output-of-entire-files):
-
-
 
 [Output of entire files](#Output-of-entire-files)
 
 [output of parts of files](#index-output-of-parts-of-files):
 
-
-
 [Output of parts of files](#Output-of-parts-of-files)
 
 [output settings](#index-output-settings):
-
-
 
 [Output](#Output)
 
 [output tabs](#index-output-tabs):
 
-
-
 [pr invocation](#pr-invocation)
 
 [overwriting of input, allowed](#index-overwriting-of-input_002c-allowed):
-
-
 
 [sort invocation](#sort-invocation)
 
 [overwriting of input, allowed](#index-overwriting-of-input_002c-allowed-1):
 
-
-
 [shuf invocation](#shuf-invocation)
 
 [owned by effective group ID check](#index-owned-by-effective-group-ID-check):
-
-
 
 [Access permission tests](#Access-permission-tests)
 
 [owned by effective user ID check](#index-owned-by-effective-user-ID-check):
 
-
-
 [Access permission tests](#Access-permission-tests)
 
 [owner of file, permissions for](#index-owner-of-file_002c-permissions-for):
-
-
 
 [Setting Permissions](#Setting-Permissions)
 
 [owner, default](#index-owner_002c-default):
 
-
-
 [Mode Structure](#Mode-Structure)
 
 [ownership of installed files, setting](#index-ownership-of-installed-files_002c-setting):
-
-
 
 [install invocation](#install-invocation)
 
@@ -27187,625 +22795,417 @@ P
 
 [`p for FIFO file`](#index-p-for-FIFO-file):
 
-
-
 [mknod invocation](#mknod-invocation)
 
 [pad character](#index-pad-character):
-
-
 
 [Output](#Output)
 
 [pad instead of timing for delaying](#index-pad-instead-of-timing-for-delaying):
 
-
-
 [Output](#Output)
 
 [padding of numeric fields](#index-padding-of-numeric-fields):
-
-
 
 [Padding and other flags](#Padding-and-other-flags)
 
 [paragraphs, reformatting](#index-paragraphs_002c-reformatting):
 
-
-
 [fmt invocation](#fmt-invocation)
 
 [`parenb`](#index-parenb):
-
-
 
 [Control](#Control)
 
 [parent directories and `cp`](#index-parent-directories-and-cp):
 
-
-
 [cp invocation](#cp-invocation)
 
 [parent directories, creating](#index-parent-directories_002c-creating):
-
-
 
 [mkdir invocation](#mkdir-invocation)
 
 [parent directories, creating missing](#index-parent-directories_002c-creating-missing):
 
-
-
 [install invocation](#install-invocation)
 
 [parent directories, removing](#index-parent-directories_002c-removing):
-
-
 
 [rmdir invocation](#rmdir-invocation)
 
 [parentheses for grouping](#index-parentheses-for-grouping):
 
-
-
 [expr invocation](#expr-invocation)
 
 [`parity`](#index-parity):
-
-
 
 [Combination](#Combination)
 
 [parity errors, marking](#index-parity-errors_002c-marking):
 
-
-
 [Input](#Input)
 
 [parity, ignoring](#index-parity_002c-ignoring):
-
-
 
 [Input](#Input)
 
 [`parmrk`](#index-parmrk):
 
-
-
 [Input](#Input)
 
 [`parodd`](#index-parodd):
-
-
 
 [Control](#Control)
 
 [`parse_datetime`](#index-parse_005fdatetime):
 
-
-
 [Date input formats](#Date-input-formats)
 
 [parsing date strings](#index-parsing-date-strings):
-
-
 
 [Options for date](#Options-for-date)
 
 [parts of files, output of](#index-parts-of-files_002c-output-of):
 
-
-
 [Output of parts of files](#Output-of-parts-of-files)
 
 [`pass8`](#index-pass8):
-
-
 
 [Combination](#Combination)
 
 [`paste`](#index-paste):
 
-
-
 [paste invocation](#paste-invocation)
 
 [Paterson, R.](#index-Paterson_002c-R_002e):
-
-
 
 [Introduction](#Introduction)
 
 [`PATH`](#index-PATH):
 
-
-
 [env invocation](#env-invocation)
 
 [`pathchk`](#index-pathchk):
-
-
 
 [pathchk invocation](#pathchk-invocation)
 
 [pattern matching](#index-pattern-matching):
 
-
-
 [String expressions](#String-expressions)
 
 [pebibyte, definition of](#index-pebibyte_002c-definition-of):
-
-
 
 [Block size](#Block-size)
 
 [permission tests](#index-permission-tests):
 
-
-
 [Access permission tests](#Access-permission-tests)
 
 [permissions of installed files, setting](#index-permissions-of-installed-files_002c-setting):
-
-
 
 [install invocation](#install-invocation)
 
 [permissions, changing access](#index-permissions_002c-changing-access):
 
-
-
 [chmod invocation](#chmod-invocation)
 
 [permissions, copying existing](#index-permissions_002c-copying-existing):
-
-
 
 [Copying Permissions](#Copying-Permissions)
 
 [permissions, for changing file timestamps](#index-permissions_002c-for-changing-file-timestamps):
 
-
-
 [touch invocation](#touch-invocation)
 
 [permissions, output by `ls`](#index-permissions_002c-output-by-ls):
-
-
 
 [What information is listed](#What-information-is-listed)
 
 [petabyte, definition of](#index-petabyte_002c-definition-of):
 
-
-
 [Block size](#Block-size)
 
 [phone directory order](#index-phone-directory-order):
-
-
 
 [sort invocation](#sort-invocation)
 
 [pieces, splitting a file into](#index-pieces_002c-splitting-a-file-into):
 
-
-
 [split invocation](#split-invocation)
 
 [Pinard, F.](#index-Pinard_002c-F_002e):
-
-
 
 [Introduction](#Introduction)
 
 [Pinard, F.](#index-Pinard_002c-F_002e-1):
 
-
-
 [Authors of parse_datetime](#Authors-of-parse_005fdatetime)
 
 [pipe fitting](#index-pipe-fitting):
-
-
 
 [tee invocation](#tee-invocation)
 
 [Plass, Michael F.](#index-Plass_002c-Michael-F_002e):
 
-
-
 [fmt invocation](#fmt-invocation)
 
 [platform, hardware](#index-platform_002c-hardware):
-
-
 
 [uname invocation](#uname-invocation)
 
 [`pm in date strings`](#index-pm-in-date-strings):
 
-
-
 [Time of day items](#Time-of-day-items)
 
 [portable file names, checking for](#index-portable-file-names_002c-checking-for):
-
-
 
 [pathchk invocation](#pathchk-invocation)
 
 [portable output format](#index-portable-output-format):
 
-
-
 [df invocation](#df-invocation)
 
 [POSIX](#index-POSIX):
-
-
 
 [Introduction](#Introduction)
 
 [POSIX output format](#index-POSIX-output-format):
 
-
-
 [df invocation](#df-invocation)
 
 [`POSIXLY_CORRECT`](#index-POSIXLY_005fCORRECT):
-
-
 
 [Common options](#Common-options)
 
 [`POSIXLY_CORRECT`](#index-POSIXLY_005fCORRECT-1):
 
-
-
 [Standards conformance](#Standards-conformance)
 
 [`POSIXLY_CORRECT`](#index-POSIXLY_005fCORRECT-2):
-
-
 
 [pr invocation](#pr-invocation)
 
 [`POSIXLY_CORRECT`](#index-POSIXLY_005fCORRECT-3):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`POSIXLY_CORRECT`](#index-POSIXLY_005fCORRECT-4):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`POSIXLY_CORRECT`](#index-POSIXLY_005fCORRECT-5):
 
-
-
 [dd invocation](#dd-invocation)
 
 [`POSIXLY_CORRECT`](#index-POSIXLY_005fCORRECT-6):
-
-
 
 [echo invocation](#echo-invocation)
 
 [`POSIXLY_CORRECT`](#index-POSIXLY_005fCORRECT-7):
 
-
-
 [printf invocation](#printf-invocation)
 
 [`POSIXLY_CORRECT`](#index-POSIXLY_005fCORRECT-8):
-
-
 
 [id invocation](#id-invocation)
 
 [`POSIXLY_CORRECT, and block size`](#index-POSIXLY_005fCORRECT_002c-and-block-size):
 
-
-
 [Block size](#Block-size)
 
 [`pr`](#index-pr):
-
-
 
 [pr invocation](#pr-invocation)
 
 [prime factors](#index-prime-factors):
 
-
-
 [factor invocation](#factor-invocation)
 
 [`print`](#index-print):
-
-
 
 [Character arrays](#Character-arrays)
 
 [print machine hardware name](#index-print-machine-hardware-name):
 
-
-
 [arch invocation](#arch-invocation)
 
 [print name of current directory](#index-print-name-of-current-directory):
-
-
 
 [pwd invocation](#pwd-invocation)
 
 [print system information](#index-print-system-information):
 
-
-
 [uname invocation](#uname-invocation)
 
 [print terminal file name](#index-print-terminal-file-name):
-
-
 
 [tty invocation](#tty-invocation)
 
 [Print the number of processors](#index-Print-the-number-of-processors):
 
-
-
 [nproc invocation](#nproc-invocation)
 
 [`printenv`](#index-printenv):
-
-
 
 [printenv invocation](#printenv-invocation)
 
 [`printf`](#index-printf):
 
-
-
 [printf invocation](#printf-invocation)
 
 [printing all or some environment variables](#index-printing-all-or-some-environment-variables):
-
-
 
 [printenv invocation](#printenv-invocation)
 
 [printing color database](#index-printing-color-database):
 
-
-
 [dircolors invocation](#dircolors-invocation)
 
 [printing current user information](#index-printing-current-user-information):
-
-
 
 [who invocation](#who-invocation)
 
 [printing current usernames](#index-printing-current-usernames):
 
-
-
 [users invocation](#users-invocation)
 
 [printing groups a user is in](#index-printing-groups-a-user-is-in):
-
-
 
 [groups invocation](#groups-invocation)
 
 [printing ls colors](#index-printing-ls-colors):
 
-
-
 [dircolors invocation](#dircolors-invocation)
 
 [printing real and effective user and group IDs](#index-printing-real-and-effective-user-and-group-IDs):
-
-
 
 [id invocation](#id-invocation)
 
 [printing text](#index-printing-text):
 
-
-
 [echo invocation](#echo-invocation)
 
 [printing text, commands for](#index-printing-text_002c-commands-for):
-
-
 
 [Printing text](#Printing-text)
 
 [printing the current time](#index-printing-the-current-time):
 
-
-
 [date invocation](#date-invocation)
 
 [printing the effective user ID](#index-printing-the-effective-user-ID):
-
-
 
 [whoami invocation](#whoami-invocation)
 
 [printing the host identifier](#index-printing-the-host-identifier):
 
-
-
 [hostid invocation](#hostid-invocation)
 
 [printing the hostname](#index-printing-the-hostname):
-
-
 
 [hostname invocation](#hostname-invocation)
 
 [printing the system uptime and load](#index-printing-the-system-uptime-and-load):
 
-
-
 [uptime invocation](#uptime-invocation)
 
 [printing user’s login name](#index-printing-user_0027s-login-name):
-
-
 
 [logname invocation](#logname-invocation)
 
 [printing, preparing files for](#index-printing_002c-preparing-files-for):
 
-
-
 [pr invocation](#pr-invocation)
 
 [process zero-terminated items](#index-process-zero_002dterminated-items):
-
-
 
 [head invocation](#head-invocation)
 
 [process zero-terminated items](#index-process-zero_002dterminated-items-1):
 
-
-
 [tail invocation](#tail-invocation)
 
 [process zero-terminated items](#index-process-zero_002dterminated-items-2):
-
-
 
 [sort invocation](#sort-invocation)
 
 [process zero-terminated items](#index-process-zero_002dterminated-items-3):
 
-
-
 [shuf invocation](#shuf-invocation)
 
 [process zero-terminated items](#index-process-zero_002dterminated-items-4):
-
-
 
 [uniq invocation](#uniq-invocation)
 
 [process zero-terminated items](#index-process-zero_002dterminated-items-5):
 
-
-
 [comm invocation](#comm-invocation)
 
 [process zero-terminated items](#index-process-zero_002dterminated-items-6):
-
-
 
 [cut invocation](#cut-invocation)
 
 [process zero-terminated items](#index-process-zero_002dterminated-items-7):
 
-
-
 [paste invocation](#paste-invocation)
 
 [process zero-terminated items](#index-process-zero_002dterminated-items-8):
-
-
 
 [General options in join](#General-options-in-join)
 
 [process zero-terminated items](#index-process-zero_002dterminated-items-9):
 
-
-
 [numfmt invocation](#numfmt-invocation)
 
 [processes, commands for controlling](#index-processes_002c-commands-for-controlling):
-
-
 
 [Process control](#Process-control)
 
 [`progress dd status=`](#index-progress-dd-status_003d):
 
-
-
 [dd invocation](#dd-invocation)
 
 [prompting, and `ln`](#index-prompting_002c-and-ln):
-
-
 
 [ln invocation](#ln-invocation)
 
 [prompting, and `mv`](#index-prompting_002c-and-mv):
 
-
-
 [mv invocation](#mv-invocation)
 
 [prompting, and `rm`](#index-prompting_002c-and-rm):
-
-
 
 [rm invocation](#rm-invocation)
 
 [prompts, forcing](#index-prompts_002c-forcing):
 
-
-
 [mv invocation](#mv-invocation)
 
 [prompts, omitting](#index-prompts_002c-omitting):
-
-
 
 [mv invocation](#mv-invocation)
 
 [prompts, omitting](#index-prompts_002c-omitting-1):
 
-
-
 [mv invocation](#mv-invocation)
 
 [`prterase`](#index-prterase):
-
-
 
 [Local](#Local)
 
 [`ptx`](#index-ptx):
 
-
-
 [ptx invocation](#ptx-invocation)
 
 [`punct`](#index-punct):
-
-
 
 [Character arrays](#Character-arrays)
 
 [pure numbers in date strings](#index-pure-numbers-in-date-strings):
 
-
-
 [Pure numbers in date strings](#Pure-numbers-in-date-strings)
 
 [`pwd`](#index-pwd):
-
-
 
 [pwd invocation](#pwd-invocation)
 
@@ -27815,19 +23215,13 @@ Q
 
 [quettabyte, definition of](#index-quettabyte_002c-definition-of):
 
-
-
 [Block size](#Block-size)
 
 [`quit`](#index-quit):
 
-
-
 [Characters](#Characters)
 
 [quoting style](#index-quoting-style):
-
-
 
 [Formatting the file names](#Formatting-the-file-names)
 
@@ -27837,493 +23231,329 @@ R
 
 [radix for file offsets](#index-radix-for-file-offsets):
 
-
-
 [od invocation](#od-invocation)
 
 [random seed](#index-random-seed):
-
-
 
 [Random sources](#Random-sources)
 
 [random sort](#index-random-sort):
 
-
-
 [sort invocation](#sort-invocation)
 
 [random source for shredding](#index-random-source-for-shredding):
-
-
 
 [shred invocation](#shred-invocation)
 
 [random source for shuffling](#index-random-source-for-shuffling):
 
-
-
 [shuf invocation](#shuf-invocation)
 
 [random source for sorting](#index-random-source-for-sorting):
-
-
 
 [sort invocation](#sort-invocation)
 
 [random sources](#index-random-sources):
 
-
-
 [Random sources](#Random-sources)
 
 [ranges](#index-ranges):
-
-
 
 [Character arrays](#Character-arrays)
 
 [`raw`](#index-raw):
 
-
-
 [Combination](#Combination)
 
 [raw binary checksum](#index-raw-binary-checksum):
-
-
 
 [cksum general options](#cksum-general-options)
 
 [read errors, ignoring](#index-read-errors_002c-ignoring):
 
-
-
 [dd invocation](#dd-invocation)
 
 [read from standard input and write to standard output and files](#index-read-from-standard-input-and-write-to-standard-output-and-files):
-
-
 
 [tee invocation](#tee-invocation)
 
 [read permission](#index-read-permission):
 
-
-
 [Mode Structure](#Mode-Structure)
 
 [read permission, symbolic](#index-read-permission_002c-symbolic):
-
-
 
 [Setting Permissions](#Setting-Permissions)
 
 [`read system call, and holes`](#index-read-system-call_002c-and-holes):
 
-
-
 [cp invocation](#cp-invocation)
 
 [readable file check](#index-readable-file-check):
-
-
 
 [Access permission tests](#Access-permission-tests)
 
 [`readlink`](#index-readlink):
 
-
-
 [readlink invocation](#readlink-invocation)
 
 [real user and group IDs, printing](#index-real-user-and-group-IDs_002c-printing):
-
-
 
 [id invocation](#id-invocation)
 
 [`realpath`](#index-realpath-1):
 
-
-
 [realpath invocation](#realpath-invocation)
 
 [`realpath`](#index-realpath-2):
-
-
 
 [realpath invocation](#realpath-invocation)
 
 [`realpath`](#index-realpath-3):
 
-
-
 [realpath invocation](#realpath-invocation)
 
 [realpath](#index-realpath):
-
-
 
 [readlink invocation](#readlink-invocation)
 
 [record separator character](#index-record-separator-character):
 
-
-
 [split invocation](#split-invocation)
 
 [recursive directory listing](#index-recursive-directory-listing):
-
-
 
 [Which files are listed](#Which-files-are-listed)
 
 [recursively changing access permissions](#index-recursively-changing-access-permissions):
 
-
-
 [chmod invocation](#chmod-invocation)
 
 [recursively changing file ownership](#index-recursively-changing-file-ownership):
-
-
 
 [chown invocation](#chown-invocation)
 
 [recursively changing group ownership](#index-recursively-changing-group-ownership):
 
-
-
 [chgrp invocation](#chgrp-invocation)
 
 [recursively copying directories](#index-recursively-copying-directories):
-
-
 
 [cp invocation](#cp-invocation)
 
 [recursively copying directories](#index-recursively-copying-directories-1):
 
-
-
 [cp invocation](#cp-invocation)
 
 [redirection](#index-redirection):
-
-
 
 [Redirection](#Redirection)
 
 [reference file](#index-reference-file):
 
-
-
 [chcon invocation](#chcon-invocation)
 
 [reformatting paragraph text](#index-reformatting-paragraph-text):
-
-
 
 [fmt invocation](#fmt-invocation)
 
 [regular expression matching](#index-regular-expression-matching):
 
-
-
 [String expressions](#String-expressions)
 
 [regular file check](#index-regular-file-check):
-
-
 
 [File type tests](#File-type-tests)
 
 [relations, numeric or string](#index-relations_002c-numeric-or-string):
 
-
-
 [Relations for expr](#Relations-for-expr)
 
 [relative items in date strings](#index-relative-items-in-date-strings):
-
-
 
 [Relative items in date strings](#Relative-items-in-date-strings)
 
 [release of kernel](#index-release-of-kernel):
 
-
-
 [uname invocation](#uname-invocation)
 
 [relpath](#index-relpath):
-
-
 
 [realpath invocation](#realpath-invocation)
 
 [remainder](#index-remainder):
 
-
-
 [Numeric expressions](#Numeric-expressions)
 
 [remote hostname](#index-remote-hostname):
-
-
 
 [who invocation](#who-invocation)
 
 [removing characters](#index-removing-characters):
 
-
-
 [Squeezing and deleting](#Squeezing-and-deleting)
 
 [removing empty directories](#index-removing-empty-directories):
-
-
 
 [rmdir invocation](#rmdir-invocation)
 
 [removing files after shredding](#index-removing-files-after-shredding):
 
-
-
 [shred invocation](#shred-invocation)
 
 [removing files or directories](#index-removing-files-or-directories):
-
-
 
 [rm invocation](#rm-invocation)
 
 [removing files or directories (via the unlink syscall)](#index-removing-files-or-directories-_0028via-the-unlink-syscall_0029):
 
-
-
 [unlink invocation](#unlink-invocation)
 
 [removing permissions](#index-removing-permissions):
-
-
 
 [Setting Permissions](#Setting-Permissions)
 
 [renaming files without copying them](#index-renaming-files-without-copying-them):
 
-
-
 [mv invocation](#mv-invocation)
 
 [repeat output values](#index-repeat-output-values):
-
-
 
 [shuf invocation](#shuf-invocation)
 
 [repeated characters](#index-repeated-characters):
 
-
-
 [Character arrays](#Character-arrays)
 
 [repeated lines, outputting](#index-repeated-lines_002c-outputting):
-
-
 
 [uniq invocation](#uniq-invocation)
 
 [repeated output of a string](#index-repeated-output-of-a-string):
 
-
-
 [yes invocation](#yes-invocation)
 
 [restricted deletion flag](#index-restricted-deletion-flag):
-
-
 
 [Mode Structure](#Mode-Structure)
 
 [restricted security context](#index-restricted-security-context):
 
-
-
 [runcon invocation](#runcon-invocation)
 
 [return, ignoring](#index-return_002c-ignoring):
-
-
 
 [Input](#Input)
 
 [return, translating to newline](#index-return_002c-translating-to-newline):
 
-
-
 [Input](#Input)
 
 [return, translating to newline](#index-return_002c-translating-to-newline-1):
-
-
 
 [Output](#Output)
 
 [reverse sorting](#index-reverse-sorting):
 
-
-
 [sort invocation](#sort-invocation)
 
 [reverse sorting](#index-reverse-sorting-1):
-
-
 
 [Sorting the output](#Sorting-the-output)
 
 [reversing files](#index-reversing-files):
 
-
-
 [tac invocation](#tac-invocation)
 
 [`rm`](#index-rm):
-
-
 
 [rm invocation](#rm-invocation)
 
 [`rmdir`](#index-rmdir):
 
-
-
 [rmdir invocation](#rmdir-invocation)
 
 [`` rn format for `nl` ``](#index-rn-format-for-nl):
-
-
 
 [nl invocation](#nl-invocation)
 
 [ronnabyte, definition of](#index-ronnabyte_002c-definition-of):
 
-
-
 [Block size](#Block-size)
 
 [`root as default owner`](#index-root-as-default-owner):
-
-
 
 [install invocation](#install-invocation)
 
 [root directory, allow recursive destruction](#index-root-directory_002c-allow-recursive-destruction):
 
-
-
 [rm invocation](#rm-invocation)
 
 [root directory, allow recursive modification](#index-root-directory_002c-allow-recursive-modification):
-
-
 
 [chown invocation](#chown-invocation)
 
 [root directory, allow recursive modification](#index-root-directory_002c-allow-recursive-modification-1):
 
-
-
 [chgrp invocation](#chgrp-invocation)
 
 [root directory, allow recursive modification](#index-root-directory_002c-allow-recursive-modification-2):
-
-
 
 [chmod invocation](#chmod-invocation)
 
 [root directory, disallow recursive destruction](#index-root-directory_002c-disallow-recursive-destruction):
 
-
-
 [rm invocation](#rm-invocation)
 
 [root directory, disallow recursive modification](#index-root-directory_002c-disallow-recursive-modification):
-
-
 
 [chown invocation](#chown-invocation)
 
 [root directory, disallow recursive modification](#index-root-directory_002c-disallow-recursive-modification-1):
 
-
-
 [chgrp invocation](#chgrp-invocation)
 
 [root directory, disallow recursive modification](#index-root-directory_002c-disallow-recursive-modification-2):
-
-
 
 [chmod invocation](#chmod-invocation)
 
 [root directory, running a program in a specified](#index-root-directory_002c-running-a-program-in-a-specified):
 
-
-
 [chroot invocation](#chroot-invocation)
 
 [`rows`](#index-rows):
-
-
 
 [Special](#Special)
 
 [`rprnt`](#index-rprnt):
 
-
-
 [Characters](#Characters)
 
 [RTS/CTS flow control](#index-RTS_002fCTS-flow-control):
-
-
 
 [Control](#Control)
 
 [run commands with bounded time](#index-run-commands-with-bounded-time):
 
-
-
 [timeout invocation](#timeout-invocation)
 
 [run with security context](#index-run-with-security-context):
-
-
 
 [runcon invocation](#runcon-invocation)
 
 [`runcon`](#index-runcon):
 
-
-
 [runcon invocation](#runcon-invocation)
 
 [running a program in a modified environment](#index-running-a-program-in-a-modified-environment):
-
-
 
 [env invocation](#env-invocation)
 
 [running a program in a specified root directory](#index-running-a-program-in-a-specified-root-directory):
 
-
-
 [chroot invocation](#chroot-invocation)
 
 [`` rz format for `nl` ``](#index-rz-format-for-nl):
-
-
 
 [nl invocation](#nl-invocation)
 
@@ -28333,1189 +23563,793 @@ S
 
 [Salz, Rich](#index-Salz_002c-Rich):
 
-
-
 [Authors of parse_datetime](#Authors-of-parse_005fdatetime)
 
 [same file check](#index-same-file-check):
-
-
 
 [File characteristic tests](#File-characteristic-tests)
 
 [`sane`](#index-sane):
 
-
-
 [Combination](#Combination)
 
 [scheduling, affecting](#index-scheduling_002c-affecting):
-
-
 
 [nice invocation](#nice-invocation)
 
 [screen columns](#index-screen-columns):
 
-
-
 [fold invocation](#fold-invocation)
 
 [scripts arguments](#index-scripts-arguments):
-
-
 
 [env invocation](#env-invocation)
 
 [seconds since the Epoch](#index-seconds-since-the-Epoch):
 
-
-
 [Time conversion specifiers](#Time-conversion-specifiers)
 
 [section delimiters of pages](#index-section-delimiters-of-pages):
-
-
 
 [nl invocation](#nl-invocation)
 
 [security context](#index-security-context):
 
-
-
 [What information is listed](#What-information-is-listed)
 
 [security context](#index-security-context-1):
-
-
 
 [cp invocation](#cp-invocation)
 
 [security context](#index-security-context-2):
 
-
-
 [install invocation](#install-invocation)
 
 [security context](#index-security-context-3):
-
-
 
 [install invocation](#install-invocation)
 
 [security context](#index-security-context-4):
 
-
-
 [mv invocation](#mv-invocation)
 
 [security context](#index-security-context-5):
-
-
 
 [mkdir invocation](#mkdir-invocation)
 
 [security context](#index-security-context-6):
 
-
-
 [mkfifo invocation](#mkfifo-invocation)
 
 [security context](#index-security-context-7):
-
-
 
 [mknod invocation](#mknod-invocation)
 
 [security context](#index-security-context-8):
 
-
-
 [id invocation](#id-invocation)
 
 [`seek`](#index-seek):
-
-
 
 [dd invocation](#dd-invocation)
 
 [self-backups](#index-self_002dbackups):
 
-
-
 [cp invocation](#cp-invocation)
 
 [SELinux](#index-SELinux):
-
-
 
 [What information is listed](#What-information-is-listed)
 
 [SELinux](#index-SELinux-1):
 
-
-
 [install invocation](#install-invocation)
 
 [SELinux](#index-SELinux-2):
-
-
 
 [id invocation](#id-invocation)
 
 [SELinux context](#index-SELinux-context):
 
-
-
 [SELinux context](#SELinux-context)
 
 [SELinux, context](#index-SELinux_002c-context):
-
-
 
 [SELinux context](#SELinux-context)
 
 [SELinux, restoring security context](#index-SELinux_002c-restoring-security-context):
 
-
-
 [mv invocation](#mv-invocation)
 
 [SELinux, setting/restoring security context](#index-SELinux_002c-setting_002frestoring-security-context):
-
-
 
 [cp invocation](#cp-invocation)
 
 [SELinux, setting/restoring security context](#index-SELinux_002c-setting_002frestoring-security-context-1):
 
-
-
 [install invocation](#install-invocation)
 
 [SELinux, setting/restoring security context](#index-SELinux_002c-setting_002frestoring-security-context-2):
-
-
 
 [mkdir invocation](#mkdir-invocation)
 
 [SELinux, setting/restoring security context](#index-SELinux_002c-setting_002frestoring-security-context-3):
 
-
-
 [mkfifo invocation](#mkfifo-invocation)
 
 [SELinux, setting/restoring security context](#index-SELinux_002c-setting_002frestoring-security-context-4):
-
-
 
 [mknod invocation](#mknod-invocation)
 
 [send a signal to processes](#index-send-a-signal-to-processes):
 
-
-
 [kill invocation](#kill-invocation)
 
 [sentences and line-breaking](#index-sentences-and-line_002dbreaking):
-
-
 
 [fmt invocation](#fmt-invocation)
 
 [separator for numbers in `seq`](#index-separator-for-numbers-in-seq):
 
-
-
 [seq invocation](#seq-invocation)
 
 [`seq`](#index-seq):
-
-
 
 [seq invocation](#seq-invocation)
 
 [sequence of numbers](#index-sequence-of-numbers):
 
-
-
 [seq invocation](#seq-invocation)
 
 [set-group-ID](#index-set_002dgroup_002dID):
-
-
 
 [Mode Structure](#Mode-Structure)
 
 [set-group-ID check](#index-set_002dgroup_002dID-check):
 
-
-
 [Access permission tests](#Access-permission-tests)
 
 [set-user-ID](#index-set_002duser_002dID):
-
-
 
 [Mode Structure](#Mode-Structure)
 
 [set-user-ID check](#index-set_002duser_002dID-check):
 
-
-
 [Access permission tests](#Access-permission-tests)
 
 [setgid](#index-setgid):
-
-
 
 [Mode Structure](#Mode-Structure)
 
 [setting permissions](#index-setting-permissions):
 
-
-
 [Setting Permissions](#Setting-Permissions)
 
 [setting the hostname](#index-setting-the-hostname):
-
-
 
 [hostname invocation](#hostname-invocation)
 
 [setting the time](#index-setting-the-time):
 
-
-
 [Setting the time](#Setting-the-time)
 
 [setuid](#index-setuid):
-
-
 
 [Mode Structure](#Mode-Structure)
 
 [setup for color](#index-setup-for-color):
 
-
-
 [dircolors invocation](#dircolors-invocation)
 
 [`sh` syntax for color setup](#index-sh-syntax-for-color-setup):
-
-
 
 [dircolors invocation](#dircolors-invocation)
 
 [SHA-1](#index-SHA_002d1):
 
-
-
 [sha1sum invocation](#sha1sum-invocation)
 
 [SHA-2](#index-SHA_002d2):
-
-
 
 [sha2 utilities](#sha2-utilities)
 
 [`sha1sum`](#index-sha1sum):
 
-
-
 [sha1sum invocation](#sha1sum-invocation)
 
 [`sha224sum`](#index-sha224sum):
-
-
 
 [sha2 utilities](#sha2-utilities)
 
 [`sha256sum`](#index-sha256sum):
 
-
-
 [sha2 utilities](#sha2-utilities)
 
 [`sha384sum`](#index-sha384sum):
-
-
 
 [sha2 utilities](#sha2-utilities)
 
 [`sha512sum`](#index-sha512sum):
 
-
-
 [sha2 utilities](#sha2-utilities)
 
 [shebang arguments](#index-shebang-arguments):
-
-
 
 [env invocation](#env-invocation)
 
 [`SHELL environment variable, and color`](#index-SHELL-environment-variable_002c-and-color):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [`SHELL environment variable, and color`](#index-SHELL-environment-variable_002c-and-color-1):
-
-
 
 [dircolors invocation](#dircolors-invocation)
 
 [shell utilities](#index-shell-utilities):
 
-
-
 [Top](#Top)
 
 [`shred`](#index-shred):
-
-
 
 [shred invocation](#shred-invocation)
 
 [`shuf`](#index-shuf):
 
-
-
 [shuf invocation](#shuf-invocation)
 
 [shuffling files](#index-shuffling-files):
-
-
 
 [shuf invocation](#shuf-invocation)
 
 [SI output](#index-SI-output):
 
-
-
 [Block size](#Block-size)
 
 [SI output](#index-SI-output-1):
-
-
 
 [What information is listed](#What-information-is-listed)
 
 [SI output](#index-SI-output-2):
 
-
-
 [df invocation](#df-invocation)
 
 [SI output](#index-SI-output-3):
-
-
 
 [du invocation](#du-invocation)
 
 [signals, specifying](#index-signals_002c-specifying):
 
-
-
 [Signal specifications](#Signal-specifications)
 
 [`simple backup method`](#index-simple-backup-method):
-
-
 
 [Backup options](#Backup-options)
 
 [`SIMPLE_BACKUP_SUFFIX`](#index-SIMPLE_005fBACKUP_005fSUFFIX):
 
-
-
 [Backup options](#Backup-options)
 
 [single quotes, and `env -S`](#index-single-quotes_002c-and-env-_002dS):
-
-
 
 [env invocation](#env-invocation)
 
 [`single-column output of files`](#index-single_002dcolumn-output-of-files):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [`size`](#index-size):
-
-
 
 [Special](#Special)
 
 [size for main memory sorting](#index-size-for-main-memory-sorting):
 
-
-
 [sort invocation](#sort-invocation)
 
 [size of file to shred](#index-size-of-file-to-shred):
-
-
 
 [shred invocation](#shred-invocation)
 
 [size of files, reporting](#index-size-of-files_002c-reporting):
 
-
-
 [What information is listed](#What-information-is-listed)
 
 [`size of files, sorting files by`](#index-size-of-files_002c-sorting-files-by):
-
-
 
 [Sorting the output](#Sorting-the-output)
 
 [`skip`](#index-skip):
 
-
-
 [dd invocation](#dd-invocation)
 
 [`sleep`](#index-sleep):
-
-
 
 [sleep invocation](#sleep-invocation)
 
 [socket check](#index-socket-check):
 
-
-
 [File type tests](#File-type-tests)
 
 [software flow control](#index-software-flow-control):
-
-
 
 [Input](#Input)
 
 [`sort`](#index-sort):
 
-
-
 [sort invocation](#sort-invocation)
 
 [sort field](#index-sort-field):
-
-
 
 [sort invocation](#sort-invocation)
 
 [sort stability](#index-sort-stability):
 
-
-
 [sort invocation](#sort-invocation)
 
 [sort stability](#index-sort-stability-1):
-
-
 
 [sort invocation](#sort-invocation)
 
 [sort’s last-resort comparison](#index-sort_0027s-last_002dresort-comparison):
 
-
-
 [sort invocation](#sort-invocation)
 
 [sort’s last-resort comparison](#index-sort_0027s-last_002dresort-comparison-1):
-
-
 
 [sort invocation](#sort-invocation)
 
 [sorted files, operations on](#index-sorted-files_002c-operations-on):
 
-
-
 [Operating on sorted files](#Operating-on-sorted-files)
 
 [sorting files](#index-sorting-files):
-
-
 
 [sort invocation](#sort-invocation)
 
 [sorting `ls` output](#index-sorting-ls-output):
 
-
-
 [Sorting the output](#Sorting-the-output)
 
 [`space`](#index-space):
-
-
 
 [Character arrays](#Character-arrays)
 
 [space parity](#index-space-parity):
 
-
-
 [Control](#Control)
 
 [`sparse`](#index-sparse):
-
-
 
 [dd invocation](#dd-invocation)
 
 [sparse files, copying](#index-sparse-files_002c-copying):
 
-
-
 [cp invocation](#cp-invocation)
 
 [sparse files, creating](#index-sparse-files_002c-creating):
-
-
 
 [truncate invocation](#truncate-invocation)
 
 [special characters](#index-special-characters):
 
-
-
 [Characters](#Characters)
 
 [special file types](#index-special-file-types):
-
-
 
 [Special file types](#Special-file-types)
 
 [special file types](#index-special-file-types-1):
 
-
-
 [Special file types](#Special-file-types)
 
 [special files](#index-special-files):
-
-
 
 [mknod invocation](#mknod-invocation)
 
 [special settings](#index-special-settings):
 
-
-
 [Special](#Special)
 
 [`speed`](#index-speed):
-
-
 
 [Special](#Special)
 
 [`split`](#index-split):
 
-
-
 [split invocation](#split-invocation)
 
 [splitting a file into pieces](#index-splitting-a-file-into-pieces):
-
-
 
 [split invocation](#split-invocation)
 
 [splitting a file into pieces by context](#index-splitting-a-file-into-pieces-by-context):
 
-
-
 [csplit invocation](#csplit-invocation)
 
 [squeezing blank lines](#index-squeezing-blank-lines):
-
-
 
 [cat invocation](#cat-invocation)
 
 [squeezing empty lines](#index-squeezing-empty-lines):
 
-
-
 [cat invocation](#cat-invocation)
 
 [squeezing repeat characters](#index-squeezing-repeat-characters):
-
-
 
 [Squeezing and deleting](#Squeezing-and-deleting)
 
 [Stallman, R.](#index-Stallman_002c-R_002e):
 
-
-
 [Introduction](#Introduction)
 
 [standard input](#index-standard-input):
-
-
 
 [Common options](#Common-options)
 
 [standard output](#index-standard-output):
 
-
-
 [Common options](#Common-options)
 
 [standard streams, buffering](#index-standard-streams_002c-buffering):
-
-
 
 [stdbuf invocation](#stdbuf-invocation)
 
 [`start`](#index-start):
 
-
-
 [Characters](#Characters)
 
 [`stat`](#index-stat):
-
-
 
 [stat invocation](#stat-invocation)
 
 [`status`](#index-status):
 
-
-
 [dd invocation](#dd-invocation)
 
 [`status`](#index-status-1):
-
-
 
 [Characters](#Characters)
 
 [`status time, printing or sorting by`](#index-status-time_002c-printing-or-sorting-by):
 
-
-
 [Sorting the output](#Sorting-the-output)
 
 [`status time, show the most recent`](#index-status-time_002c-show-the-most-recent):
-
-
 
 [du invocation](#du-invocation)
 
 [`stdbuf`](#index-stdbuf):
 
-
-
 [stdbuf invocation](#stdbuf-invocation)
 
 [stick parity](#index-stick-parity):
-
-
 
 [Control](#Control)
 
 [sticky](#index-sticky):
 
-
-
 [Mode Structure](#Mode-Structure)
 
 [sticky bit check](#index-sticky-bit-check):
-
-
 
 [Access permission tests](#Access-permission-tests)
 
 [`stop`](#index-stop):
 
-
-
 [Characters](#Characters)
 
 [stop bits](#index-stop-bits):
-
-
 
 [Control](#Control)
 
 [storage devices, failing](#index-storage-devices_002c-failing):
 
-
-
 [dd invocation](#dd-invocation)
 
 [`` strftime and `date` ``](#index-strftime-and-date):
-
-
 
 [Date format specifiers](#Date-format-specifiers)
 
 [string constants, outputting](#index-string-constants_002c-outputting):
 
-
-
 [od invocation](#od-invocation)
 
 [string expressions](#index-string-expressions):
-
-
 
 [String expressions](#String-expressions)
 
 [string tests](#index-string-tests):
 
-
-
 [String tests](#String-tests)
 
 [strip directory and suffix from file names](#index-strip-directory-and-suffix-from-file-names):
-
-
 
 [basename invocation](#basename-invocation)
 
 [stripping non-directory suffix](#index-stripping-non_002ddirectory-suffix):
 
-
-
 [dirname invocation](#dirname-invocation)
 
 [stripping symbol table information](#index-stripping-symbol-table-information):
-
-
 
 [install invocation](#install-invocation)
 
 [stripping trailing slashes](#index-stripping-trailing-slashes):
 
-
-
 [cp invocation](#cp-invocation)
 
 [stripping trailing slashes](#index-stripping-trailing-slashes-1):
-
-
 
 [mv invocation](#mv-invocation)
 
 [`stty`](#index-stty):
 
-
-
 [stty invocation](#stty-invocation)
 
 [`substr`](#index-substr):
-
-
 
 [String expressions](#String-expressions)
 
 [subtracting permissions](#index-subtracting-permissions):
 
-
-
 [Setting Permissions](#Setting-Permissions)
 
 [subtraction](#index-subtraction):
-
-
 
 [Numeric expressions](#Numeric-expressions)
 
 [successful exit](#index-successful-exit):
 
-
-
 [true invocation](#true-invocation)
 
 [suffix, stripping from file names](#index-suffix_002c-stripping-from-file-names):
-
-
 
 [basename invocation](#basename-invocation)
 
 [`sum`](#index-sum):
 
-
-
 [sum invocation](#sum-invocation)
 
 [summarizing files](#index-summarizing-files):
-
-
 
 [Summarizing files](#Summarizing-files)
 
 [superblock, writing](#index-superblock_002c-writing):
 
-
-
 [sync invocation](#sync-invocation)
 
 [supplementary groups, printing](#index-supplementary-groups_002c-printing):
-
-
 
 [groups invocation](#groups-invocation)
 
 [`susp`](#index-susp):
 
-
-
 [Characters](#Characters)
 
 [`swab (byte-swapping)`](#index-swab-_0028byte_002dswapping_0029):
-
-
 
 [dd invocation](#dd-invocation)
 
 [swap space, saving text image in](#index-swap-space_002c-saving-text-image-in):
 
-
-
 [Mode Structure](#Mode-Structure)
 
 [`swtch`](#index-swtch):
-
-
 
 [Characters](#Characters)
 
 [symbol table information, stripping](#index-symbol-table-information_002c-stripping):
 
-
-
 [install invocation](#install-invocation)
 
 [symbol table information, stripping, program](#index-symbol-table-information_002c-stripping_002c-program):
-
-
 
 [install invocation](#install-invocation)
 
 [symbolic (soft) links, creating](#index-symbolic-_0028soft_0029-links_002c-creating):
 
-
-
 [ln invocation](#ln-invocation)
 
 [symbolic link check](#index-symbolic-link-check):
-
-
 
 [File type tests](#File-type-tests)
 
 [symbolic link to directory, controlling traversal of](#index-symbolic-link-to-directory_002c-controlling-traversal-of):
 
-
-
 [Traversing symlinks](#Traversing-symlinks)
 
 [symbolic link to directory, never traverse](#index-symbolic-link-to-directory_002c-never-traverse):
-
-
 
 [Traversing symlinks](#Traversing-symlinks)
 
 [symbolic link to directory, never traverse](#index-symbolic-link-to-directory_002c-never-traverse-1):
 
-
-
 [chown invocation](#chown-invocation)
 
 [symbolic link to directory, never traverse](#index-symbolic-link-to-directory_002c-never-traverse-2):
-
-
 
 [chgrp invocation](#chgrp-invocation)
 
 [symbolic link to directory, never traverse](#index-symbolic-link-to-directory_002c-never-traverse-3):
 
-
-
 [chcon invocation](#chcon-invocation)
 
 [symbolic link to directory, traverse each that is encountered](#index-symbolic-link-to-directory_002c-traverse-each-that-is-encountered):
-
-
 
 [Traversing symlinks](#Traversing-symlinks)
 
 [symbolic link to directory, traverse each that is encountered](#index-symbolic-link-to-directory_002c-traverse-each-that-is-encountered-1):
 
-
-
 [chown invocation](#chown-invocation)
 
 [symbolic link to directory, traverse each that is encountered](#index-symbolic-link-to-directory_002c-traverse-each-that-is-encountered-2):
-
-
 
 [chgrp invocation](#chgrp-invocation)
 
 [symbolic link to directory, traverse each that is encountered](#index-symbolic-link-to-directory_002c-traverse-each-that-is-encountered-3):
 
-
-
 [chcon invocation](#chcon-invocation)
 
 [symbolic link to directory, traverse if on the command line](#index-symbolic-link-to-directory_002c-traverse-if-on-the-command-line):
-
-
 
 [Traversing symlinks](#Traversing-symlinks)
 
 [symbolic link to directory, traverse if on the command line](#index-symbolic-link-to-directory_002c-traverse-if-on-the-command-line-1):
 
-
-
 [chown invocation](#chown-invocation)
 
 [symbolic link to directory, traverse if on the command line](#index-symbolic-link-to-directory_002c-traverse-if-on-the-command-line-2):
-
-
 
 [chgrp invocation](#chgrp-invocation)
 
 [symbolic link to directory, traverse if on the command line](#index-symbolic-link-to-directory_002c-traverse-if-on-the-command-line-3):
 
-
-
 [chcon invocation](#chcon-invocation)
 
 [symbolic link, defined](#index-symbolic-link_002c-defined):
-
-
 
 [ln invocation](#ln-invocation)
 
 [symbolic links and `ln`](#index-symbolic-links-and-ln):
 
-
-
 [ln invocation](#ln-invocation)
 
 [symbolic links and `pwd`](#index-symbolic-links-and-pwd):
-
-
 
 [pwd invocation](#pwd-invocation)
 
 [symbolic links, changing group](#index-symbolic-links_002c-changing-group):
 
-
-
 [chgrp invocation](#chgrp-invocation)
 
 [symbolic links, changing owner](#index-symbolic-links_002c-changing-owner):
-
-
 
 [chown invocation](#chown-invocation)
 
 [symbolic links, changing owner](#index-symbolic-links_002c-changing-owner-1):
 
-
-
 [chown invocation](#chown-invocation)
 
 [symbolic links, changing owner](#index-symbolic-links_002c-changing-owner-2):
-
-
 
 [chown invocation](#chown-invocation)
 
 [symbolic links, changing owner](#index-symbolic-links_002c-changing-owner-3):
 
-
-
 [chgrp invocation](#chgrp-invocation)
 
 [symbolic links, changing time](#index-symbolic-links_002c-changing-time):
-
-
 
 [touch invocation](#touch-invocation)
 
 [symbolic links, copying](#index-symbolic-links_002c-copying):
 
-
-
 [cp invocation](#cp-invocation)
 
 [symbolic links, copying](#index-symbolic-links_002c-copying-1):
-
-
 
 [cp invocation](#cp-invocation)
 
 [symbolic links, copying with](#index-symbolic-links_002c-copying-with):
 
-
-
 [cp invocation](#cp-invocation)
 
 [symbolic links, dereferencing](#index-symbolic-links_002c-dereferencing):
-
-
 
 [Which files are listed](#Which-files-are-listed)
 
 [symbolic links, dereferencing](#index-symbolic-links_002c-dereferencing-1):
 
-
-
 [Which files are listed](#Which-files-are-listed)
 
 [symbolic links, dereferencing](#index-symbolic-links_002c-dereferencing-2):
-
-
 
 [Which files are listed](#Which-files-are-listed)
 
 [symbolic links, dereferencing in `du`](#index-symbolic-links_002c-dereferencing-in-du):
 
-
-
 [du invocation](#du-invocation)
 
 [symbolic links, dereferencing in `du`](#index-symbolic-links_002c-dereferencing-in-du-1):
-
-
 
 [du invocation](#du-invocation)
 
 [symbolic links, dereferencing in `stat`](#index-symbolic-links_002c-dereferencing-in-stat):
 
-
-
 [stat invocation](#stat-invocation)
 
 [symbolic links, following](#index-symbolic-links_002c-following):
-
-
 
 [dd invocation](#dd-invocation)
 
 [symbolic links, permissions of](#index-symbolic-links_002c-permissions-of):
 
-
-
 [chmod invocation](#chmod-invocation)
 
 [symbolic modes](#index-symbolic-modes):
-
-
 
 [Symbolic Modes](#Symbolic-Modes)
 
 [symlinks, resolution](#index-symlinks_002c-resolution):
 
-
-
 [realpath invocation](#realpath-invocation)
 
 [`sync`](#index-sync-1):
-
-
 
 [sync invocation](#sync-invocation)
 
 [`sync`](#index-sync):
 
-
-
 [dd invocation](#dd-invocation)
 
 [`sync (padding with ASCII NULs)`](#index-sync-_0028padding-with-ASCII-NULs_0029):
-
-
 
 [dd invocation](#dd-invocation)
 
 [Synchronize cached writes to persistent storage](#index-Synchronize-cached-writes-to-persistent-storage):
 
-
-
 [sync invocation](#sync-invocation)
 
 [synchronize file system and memory](#index-synchronize-file-system-and-memory):
-
-
 
 [sync invocation](#sync-invocation)
 
 [synchronized data and metadata I/O](#index-synchronized-data-and-metadata-I_002fO):
 
-
-
 [dd invocation](#dd-invocation)
 
 [synchronized data and metadata writes, before finishing](#index-synchronized-data-and-metadata-writes_002c-before-finishing):
-
-
 
 [dd invocation](#dd-invocation)
 
 [synchronized data reads](#index-synchronized-data-reads):
 
-
-
 [dd invocation](#dd-invocation)
 
 [synchronized data writes, before finishing](#index-synchronized-data-writes_002c-before-finishing):
-
-
 
 [dd invocation](#dd-invocation)
 
 [system context](#index-system-context):
 
-
-
 [System context](#System-context)
 
 [system information, printing](#index-system-information_002c-printing):
-
-
 
 [arch invocation](#arch-invocation)
 
 [system information, printing](#index-system-information_002c-printing-1):
 
-
-
 [nproc invocation](#nproc-invocation)
 
 [system information, printing](#index-system-information_002c-printing-2):
-
-
 
 [uname invocation](#uname-invocation)
 
 [system name, printing](#index-system-name_002c-printing):
 
-
-
 [hostname invocation](#hostname-invocation)
 
 [System V `sum`](#index-System-V-sum):
-
-
 
 [sum invocation](#sum-invocation)
 
@@ -29525,547 +24359,365 @@ T
 
 [tab stops, setting](#index-tab-stops_002c-setting):
 
-
-
 [expand invocation](#expand-invocation)
 
 [`tabn`](#index-tabn):
-
-
 
 [Output](#Output)
 
 [`tabs`](#index-tabs):
 
-
-
 [Combination](#Combination)
 
 [tabs to spaces, converting](#index-tabs-to-spaces_002c-converting):
-
-
 
 [expand invocation](#expand-invocation)
 
 [`tac`](#index-tac):
 
-
-
 [tac invocation](#tac-invocation)
 
 [tagged paragraphs](#index-tagged-paragraphs):
-
-
 
 [fmt invocation](#fmt-invocation)
 
 [`tail`](#index-tail):
 
-
-
 [tail invocation](#tail-invocation)
 
 [`tandem`](#index-tandem):
-
-
 
 [Input](#Input)
 
 [target directory](#index-target-directory):
 
-
-
 [Target directory](#Target-directory)
 
 [target directory](#index-target-directory-1):
-
-
 
 [Target directory](#Target-directory)
 
 [target directory](#index-target-directory-2):
 
-
-
 [Target directory](#Target-directory)
 
 [target directory](#index-target-directory-3):
-
-
 
 [cp invocation](#cp-invocation)
 
 [target directory](#index-target-directory-4):
 
-
-
 [cp invocation](#cp-invocation)
 
 [target directory](#index-target-directory-5):
-
-
 
 [install invocation](#install-invocation)
 
 [target directory](#index-target-directory-6):
 
-
-
 [install invocation](#install-invocation)
 
 [target directory](#index-target-directory-7):
-
-
 
 [mv invocation](#mv-invocation)
 
 [target directory](#index-target-directory-8):
 
-
-
 [mv invocation](#mv-invocation)
 
 [target directory](#index-target-directory-9):
-
-
 
 [ln invocation](#ln-invocation)
 
 [target directory](#index-target-directory-10):
 
-
-
 [ln invocation](#ln-invocation)
 
 [tebibyte, definition of](#index-tebibyte_002c-definition-of):
-
-
 
 [Block size](#Block-size)
 
 [`tee`](#index-tee):
 
-
-
 [tee invocation](#tee-invocation)
 
 [telephone directory order](#index-telephone-directory-order):
-
-
 
 [sort invocation](#sort-invocation)
 
 [temporary directory](#index-temporary-directory):
 
-
-
 [sort invocation](#sort-invocation)
 
 [temporary files and directories](#index-temporary-files-and-directories):
-
-
 
 [mktemp invocation](#mktemp-invocation)
 
 [terabyte, definition of](#index-terabyte_002c-definition-of):
 
-
-
 [Block size](#Block-size)
 
 [terminal check](#index-terminal-check):
-
-
 
 [File type tests](#File-type-tests)
 
 [terminal file name, printing](#index-terminal-file-name_002c-printing):
 
-
-
 [tty invocation](#tty-invocation)
 
 [terminal lines, currently used](#index-terminal-lines_002c-currently-used):
-
-
 
 [who invocation](#who-invocation)
 
 [terminal settings](#index-terminal-settings):
 
-
-
 [stty invocation](#stty-invocation)
 
 [terminal, using classify iff](#index-terminal_002c-using-classify-iff):
-
-
 
 [General output formatting](#General-output-formatting)
 
 [terminal, using color iff](#index-terminal_002c-using-color-iff):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [terminal, using hyperlink iff](#index-terminal_002c-using-hyperlink-iff):
-
-
 
 [General output formatting](#General-output-formatting)
 
 [terse output](#index-terse-output):
 
-
-
 [stat invocation](#stat-invocation)
 
 [`test`](#index-test):
-
-
 
 [test invocation](#test-invocation)
 
 [`text`](#index-text):
 
-
-
 [dd invocation](#dd-invocation)
 
 [text I/O](#index-text-I_002fO):
-
-
 
 [dd invocation](#dd-invocation)
 
 [text image, saving in swap space](#index-text-image_002c-saving-in-swap-space):
 
-
-
 [Mode Structure](#Mode-Structure)
 
 [text input files](#index-text-input-files):
-
-
 
 [cksum common options](#cksum-common-options)
 
 [text utilities](#index-text-utilities):
 
-
-
 [Top](#Top)
 
 [text, displaying](#index-text_002c-displaying):
-
-
 
 [echo invocation](#echo-invocation)
 
 [text, reformatting](#index-text_002c-reformatting):
 
-
-
 [fmt invocation](#fmt-invocation)
 
 [`this in date strings`](#index-this-in-date-strings):
-
-
 
 [Relative items in date strings](#Relative-items-in-date-strings)
 
 [`time`](#index-time):
 
-
-
 [touch invocation](#touch-invocation)
 
 [`time`](#index-time-1):
-
-
 
 [Special](#Special)
 
 [time conversion specifiers](#index-time-conversion-specifiers):
 
-
-
 [Time conversion specifiers](#Time-conversion-specifiers)
 
 [time formats](#index-time-formats):
-
-
 
 [pr invocation](#pr-invocation)
 
 [time formats](#index-time-formats-1):
 
-
-
 [Date format specifiers](#Date-format-specifiers)
 
 [time limit](#index-time-limit):
-
-
 
 [timeout invocation](#timeout-invocation)
 
 [time of day item](#index-time-of-day-item):
 
-
-
 [Time of day items](#Time-of-day-items)
 
 [time setting](#index-time-setting):
-
-
 
 [Setting the time](#Setting-the-time)
 
 [time style](#index-time-style):
 
-
-
 [Formatting file timestamps](#Formatting-file-timestamps)
 
 [time style](#index-time-style-1):
-
-
 
 [du invocation](#du-invocation)
 
 [time units](#index-time-units):
 
-
-
 [timeout invocation](#timeout-invocation)
 
 [time units](#index-time-units-1):
-
-
 
 [sleep invocation](#sleep-invocation)
 
 [time zone correction](#index-time-zone-correction):
 
-
-
 [Time of day items](#Time-of-day-items)
 
 [time zone item](#index-time-zone-item):
-
-
 
 [General date syntax](#General-date-syntax)
 
 [time zone item](#index-time-zone-item-1):
 
-
-
 [Time zone items](#Time-zone-items)
 
 [time, printing or setting](#index-time_002c-printing-or-setting):
-
-
 
 [date invocation](#date-invocation)
 
 [`timeout`](#index-timeout):
 
-
-
 [timeout invocation](#timeout-invocation)
 
 [timestamps of installed files, preserving](#index-timestamps-of-installed-files_002c-preserving):
-
-
 
 [install invocation](#install-invocation)
 
 [timestamps, changing file](#index-timestamps_002c-changing-file):
 
-
-
 [touch invocation](#touch-invocation)
 
 [`TIME_STYLE`](#index-TIME_005fSTYLE):
-
-
 
 [Formatting file timestamps](#Formatting-file-timestamps)
 
 [`TIME_STYLE`](#index-TIME_005fSTYLE-1):
 
-
-
 [du invocation](#du-invocation)
 
 [`TMPDIR`](#index-TMPDIR):
-
-
 
 [sort invocation](#sort-invocation)
 
 [`TMPDIR`](#index-TMPDIR-1):
 
-
-
 [sort invocation](#sort-invocation)
 
 [`today in date strings`](#index-today-in-date-strings):
-
-
 
 [Relative items in date strings](#Relative-items-in-date-strings)
 
 [`tomorrow`](#index-tomorrow):
 
-
-
 [Options for date](#Options-for-date)
 
 [`tomorrow in date strings`](#index-tomorrow-in-date-strings):
-
-
 
 [Relative items in date strings](#Relative-items-in-date-strings)
 
 [topological sort](#index-topological-sort):
 
-
-
 [tsort invocation](#tsort-invocation)
 
 [`tostop`](#index-tostop):
-
-
 
 [Local](#Local)
 
 [total counts](#index-total-counts):
 
-
-
 [wc invocation](#wc-invocation)
 
 [`touch`](#index-touch):
-
-
 
 [touch invocation](#touch-invocation)
 
 [`tr`](#index-tr):
 
-
-
 [tr invocation](#tr-invocation)
 
 [trailing slashes](#index-trailing-slashes):
-
-
 
 [Trailing slashes](#Trailing-slashes)
 
 [translating characters](#index-translating-characters):
 
-
-
 [Translating](#Translating)
 
 [`true`](#index-true):
-
-
 
 [true invocation](#true-invocation)
 
 [`truncate`](#index-truncate):
 
-
-
 [truncate invocation](#truncate-invocation)
 
 [truncating output file, avoiding](#index-truncating-output-file_002c-avoiding):
-
-
 
 [dd invocation](#dd-invocation)
 
 [truncating, file sizes](#index-truncating_002c-file-sizes):
 
-
-
 [truncate invocation](#truncate-invocation)
 
 [`tsort`](#index-tsort):
-
-
 
 [tsort invocation](#tsort-invocation)
 
 [`tty`](#index-tty):
 
-
-
 [tty invocation](#tty-invocation)
 
 [two-way parity](#index-two_002dway-parity):
-
-
 
 [Control](#Control)
 
 [type size](#index-type-size):
 
-
-
 [od invocation](#od-invocation)
 
 [`TZ`](#index-TZ):
-
-
 
 [pr invocation](#pr-invocation)
 
 [`TZ`](#index-TZ-1):
 
-
-
 [Formatting file timestamps](#Formatting-file-timestamps)
 
 [`TZ`](#index-TZ-2):
-
-
 
 [touch invocation](#touch-invocation)
 
 [`TZ`](#index-TZ-3):
 
-
-
 [stat invocation](#stat-invocation)
 
 [`TZ`](#index-TZ-4):
-
-
 
 [who invocation](#who-invocation)
 
 [`TZ`](#index-TZ-5):
 
-
-
 [date invocation](#date-invocation)
 
 [`TZ`](#index-TZ-6):
 
-
-
 [Options for date](#Options-for-date)
 
 [`TZ`](#index-TZ-7):
-
-
 
 [Specifying time zone rules](#Specifying-time-zone-rules)
 
@@ -30075,193 +24727,129 @@ U
 
 [`u, and disabling special characters`](#index-u_002c-and-disabling-special-characters):
 
-
-
 [Characters](#Characters)
 
 [`ucase, converting to`](#index-ucase_002c-converting-to):
-
-
 
 [dd invocation](#dd-invocation)
 
 [umask and modes](#index-umask-and-modes):
 
-
-
 [Umask and Protection](#Umask-and-Protection)
 
 [`uname`](#index-uname):
-
-
 
 [uname invocation](#uname-invocation)
 
 [`unblock`](#index-unblock):
 
-
-
 [dd invocation](#dd-invocation)
 
 [`unexpand`](#index-unexpand):
-
-
 
 [unexpand invocation](#unexpand-invocation)
 
 [Unicode](#index-Unicode):
 
-
-
 [printf invocation](#printf-invocation)
 
 [`uniq`](#index-uniq):
-
-
 
 [uniq invocation](#uniq-invocation)
 
 [unique lines, outputting](#index-unique-lines_002c-outputting):
 
-
-
 [uniq invocation](#uniq-invocation)
 
 [uniquify files](#index-uniquify-files):
-
-
 
 [uniq invocation](#uniq-invocation)
 
 [uniquifying output](#index-uniquifying-output):
 
-
-
 [sort invocation](#sort-invocation)
 
 [Universal Time](#index-Universal-Time):
-
-
 
 [Options for date](#Options-for-date)
 
 [`unlink`](#index-unlink):
 
-
-
 [unlink invocation](#unlink-invocation)
 
 [unprintable characters, ignoring](#index-unprintable-characters_002c-ignoring):
-
-
 
 [sort invocation](#sort-invocation)
 
 [unsorted directory listing](#index-unsorted-directory-listing):
 
-
-
 [Sorting the output](#Sorting-the-output)
 
 [`upper`](#index-upper):
-
-
 
 [Character arrays](#Character-arrays)
 
 [uppercase, translating to lowercase](#index-uppercase_002c-translating-to-lowercase):
 
-
-
 [Input](#Input)
 
 [`uptime`](#index-uptime):
-
-
 
 [uptime invocation](#uptime-invocation)
 
 [`use time, changing`](#index-use-time_002c-changing):
 
-
-
 [touch invocation](#touch-invocation)
 
 [`use time, printing or sorting files by`](#index-use-time_002c-printing-or-sorting-files-by):
-
-
 
 [Sorting the output](#Sorting-the-output)
 
 [`use time, printing or sorting files by`](#index-use-time_002c-printing-or-sorting-files-by-1):
 
-
-
 [Sorting the output](#Sorting-the-output)
 
 [`use time, show the most recent`](#index-use-time_002c-show-the-most-recent):
-
-
 
 [du invocation](#du-invocation)
 
 [user IDs, disambiguating](#index-user-IDs_002c-disambiguating):
 
-
-
 [Disambiguating names and IDs](#Disambiguating-names-and-IDs)
 
 [user information, commands for](#index-user-information_002c-commands-for):
-
-
 
 [User information](#User-information)
 
 [user name, printing](#index-user-name_002c-printing):
 
-
-
 [logname invocation](#logname-invocation)
 
 [user names, disambiguating](#index-user-names_002c-disambiguating):
-
-
 
 [Disambiguating names and IDs](#Disambiguating-names-and-IDs)
 
 [usernames, printing current](#index-usernames_002c-printing-current):
 
-
-
 [users invocation](#users-invocation)
 
 [`users`](#index-users):
-
-
 
 [users invocation](#users-invocation)
 
 [UTC](#index-UTC):
 
-
-
 [Options for date](#Options-for-date)
 
 [`utmp`](#index-utmp):
-
-
 
 [logname invocation](#logname-invocation)
 
 [`utmp`](#index-utmp-1):
 
-
-
 [users invocation](#users-invocation)
 
 [`utmp`](#index-utmp-2):
-
-
 
 [who invocation](#who-invocation)
 
@@ -30271,127 +24859,85 @@ V
 
 [valid file names, checking for](#index-valid-file-names_002c-checking-for):
 
-
-
 [pathchk invocation](#pathchk-invocation)
 
 [variable-length records, converting to fixed-length](#index-variable_002dlength-records_002c-converting-to-fixed_002dlength):
-
-
 
 [dd invocation](#dd-invocation)
 
 [`vdir`](#index-vdir):
 
-
-
 [vdir invocation](#vdir-invocation)
 
 [`verbose ls format`](#index-verbose-ls-format):
-
-
 
 [What information is listed](#What-information-is-listed)
 
 [verifying checksums](#index-verifying-checksums):
 
-
-
 [cksum common options](#cksum-common-options)
 
 [verifying checksums](#index-verifying-checksums-1):
-
-
 
 [cksum common options](#cksum-common-options)
 
 [verifying checksums](#index-verifying-checksums-2):
 
-
-
 [cksum common options](#cksum-common-options)
 
 [verifying checksums](#index-verifying-checksums-3):
-
-
 
 [cksum common options](#cksum-common-options)
 
 [verifying checksums](#index-verifying-checksums-4):
 
-
-
 [cksum common options](#cksum-common-options)
 
 [version number sort](#index-version-number-sort):
-
-
 
 [sort invocation](#sort-invocation)
 
 [version number, finding](#index-version-number_002c-finding):
 
-
-
 [Common options](#Common-options)
 
 [version of kernel](#index-version-of-kernel):
-
-
 
 [uname invocation](#uname-invocation)
 
 [`` version, sorting option for `ls` ``](#index-version_002c-sorting-option-for-ls):
 
-
-
 [Sorting the output](#Sorting-the-output)
 
 [`version-control Emacs variable`](#index-version_002dcontrol-Emacs-variable):
-
-
 
 [Backup options](#Backup-options)
 
 [`VERSION_CONTROL`](#index-VERSION_005fCONTROL):
 
-
-
 [Backup options](#Backup-options)
 
 [`VERSION_CONTROL`](#index-VERSION_005fCONTROL-1):
-
-
 
 [cp invocation](#cp-invocation)
 
 [`VERSION_CONTROL`](#index-VERSION_005fCONTROL-2):
 
-
-
 [install invocation](#install-invocation)
 
 [`VERSION_CONTROL`](#index-VERSION_005fCONTROL-3):
-
-
 
 [mv invocation](#mv-invocation)
 
 [`VERSION_CONTROL`](#index-VERSION_005fCONTROL-4):
 
-
-
 [ln invocation](#ln-invocation)
 
 [`vertical sorted files in columns`](#index-vertical-sorted-files-in-columns):
 
-
-
 [General output formatting](#General-output-formatting)
 
 [`vtn`](#index-vtn):
-
-
 
 [Output](#Output)
 
@@ -30401,109 +24947,73 @@ W
 
 [`wc`](#index-wc):
 
-
-
 [wc invocation](#wc-invocation)
 
 [`week in date strings`](#index-week-in-date-strings):
-
-
 
 [Relative items in date strings](#Relative-items-in-date-strings)
 
 [`werase`](#index-werase):
 
-
-
 [Characters](#Characters)
 
 [`who`](#index-who):
-
-
 
 [who invocation](#who-invocation)
 
 [`who am i`](#index-who-am-i):
 
-
-
 [who invocation](#who-invocation)
 
 [`whoami`](#index-whoami):
-
-
 
 [whoami invocation](#whoami-invocation)
 
 [`` width, sorting option for `ls` ``](#index-width_002c-sorting-option-for-ls):
 
-
-
 [Sorting the output](#Sorting-the-output)
 
 [word count](#index-word-count):
-
-
 
 [wc invocation](#wc-invocation)
 
 [working context](#index-working-context):
 
-
-
 [Working context](#Working-context)
 
 [working directory, printing](#index-working-directory_002c-printing):
-
-
 
 [pwd invocation](#pwd-invocation)
 
 [wrap data](#index-wrap-data):
 
-
-
 [base64 invocation](#base64-invocation)
 
 [wrapping long input lines](#index-wrapping-long-input-lines):
-
-
 
 [fold invocation](#fold-invocation)
 
 [writable file check](#index-writable-file-check):
 
-
-
 [Access permission tests](#Access-permission-tests)
 
 [write permission](#index-write-permission):
-
-
 
 [Mode Structure](#Mode-Structure)
 
 [write permission, symbolic](#index-write-permission_002c-symbolic):
 
-
-
 [Setting Permissions](#Setting-Permissions)
 
 [`write, allowed`](#index-write_002c-allowed):
-
-
 
 [who invocation](#who-invocation)
 
 [`wtmp`](#index-wtmp):
 
-
-
 [users invocation](#users-invocation)
 
 [`wtmp`](#index-wtmp-1):
-
-
 
 [who invocation](#who-invocation)
 
@@ -30513,25 +25023,17 @@ X
 
 [`xcase`](#index-xcase):
 
-
-
 [Local](#Local)
 
 [`xdigit`](#index-xdigit):
-
-
 
 [Character arrays](#Character-arrays)
 
 [`xfs file system type`](#index-xfs-file-system-type):
 
-
-
 [df invocation](#df-invocation)
 
 [XON/XOFF flow control](#index-XON_002fXOFF-flow-control):
-
-
 
 [Input](#Input)
 
@@ -30541,37 +25043,25 @@ Y
 
 [`year in date strings`](#index-year-in-date-strings):
 
-
-
 [Relative items in date strings](#Relative-items-in-date-strings)
 
 [`yes`](#index-yes):
-
-
 
 [yes invocation](#yes-invocation)
 
 [`yesterday`](#index-yesterday):
 
-
-
 [Options for date](#Options-for-date)
 
 [`yesterday in date strings`](#index-yesterday-in-date-strings):
-
-
 
 [Relative items in date strings](#Relative-items-in-date-strings)
 
 [yottabyte, definition of](#index-yottabyte_002c-definition-of):
 
-
-
 [Block size](#Block-size)
 
 [Youmans, B.](#index-Youmans_002c-B_002e):
-
-
 
 [Introduction](#Introduction)
 
@@ -30581,13 +25071,9 @@ Z
 
 [zero-length string check](#index-zero_002dlength-string-check):
 
-
-
 [String tests](#String-tests)
 
 [zettabyte, definition of](#index-zettabyte_002c-definition-of):
-
-
 
 [Block size](#Block-size)
 
